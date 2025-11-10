@@ -1,0 +1,2001 @@
+Airline,Departure_Airport,Arrival_Airport,Scheduled_Dep_Hour,Scheduled_Arr_Hour,Day_of_Week,Month,Holiday_Season,Weather_Condition,Temperature,Wind_Speed,Visibility,Rain_mm,Departure_Traffic,Arrival_Traffic,Delay
+Vistara,HYD,HYD,15,18,5,9,0,Storm,24,9,1,6,Low,Medium,48.54
+GoAir,GOI,GOI,15,9,4,3,1,Rain,37,1,9,11,Low,Medium,52.79
+SpiceJet,BLR,BLR,3,11,4,5,0,Fog,21,23,4,12,Medium,Medium,52.39
+GoAir,BOM,DEL,12,21,1,2,1,Clear,30,10,9,4,Medium,High,32.68
+GoAir,DEL,BLR,12,3,0,10,1,Thunderstorm,37,23,2,5,Medium,High,108.63
+IndiGo,CCU,DEL,1,17,5,5,0,Storm,36,2,7,1,Medium,High,81.65
+SpiceJet,MAA,GOI,2,15,2,8,1,Fog,35,22,2,6,Medium,Low,69.96
+SpiceJet,MAA,DEL,21,7,5,11,0,Clear,18,22,4,13,High,Low,32.16
+SpiceJet,DEL,MAA,7,3,4,2,0,Thunderstorm,23,1,6,13,High,High,82.31
+GoAir,CCU,CCU,23,22,1,8,1,Clear,22,8,2,9,High,Low,55.05
+Vistara,DEL,BLR,14,11,6,4,1,Fog,37,18,2,3,High,High,89.53
+SpiceJet,BOM,HYD,10,1,0,10,1,Rain,35,1,2,2,Medium,Low,30.09
+GoAir,BLR,BLR,8,3,6,10,1,Thunderstorm,15,27,3,13,High,Low,98.94
+IndiGo,GOI,MAA,6,4,2,1,1,Clear,28,18,5,5,High,High,28.94
+Vistara,MAA,DEL,12,2,5,5,0,Rain,13,1,9,14,Low,Medium,21.86
+IndiGo,BOM,MAA,1,8,2,1,1,Storm,29,14,6,7,Medium,Medium,50.3
+Vistara,BLR,BOM,7,20,4,7,0,Fog,26,23,9,4,High,Low,49.48
+GoAir,BOM,BOM,6,17,2,8,0,Fog,28,20,5,2,High,Low,70.79
+Air India,CCU,HYD,23,10,6,3,1,Thunderstorm,12,2,6,2,High,Low,84.71
+Vistara,MAA,MAA,11,2,1,3,1,Clear,38,4,8,12,Medium,Low,36.31
+IndiGo,GOI,GOI,18,22,2,7,1,Storm,23,10,3,1,High,Low,65.22
+GoAir,DEL,HYD,6,1,3,4,1,Thunderstorm,26,26,2,0,Low,Low,63.82
+Vistara,DEL,GOI,9,8,1,3,1,Thunderstorm,22,23,3,11,Medium,High,92.27
+Air India,BLR,HYD,15,13,5,8,0,Clear,18,6,9,7,Low,Medium,18.87
+Air India,GOI,BOM,2,3,0,3,0,Storm,36,5,6,18,Medium,Medium,32.47
+SpiceJet,HYD,HYD,9,8,0,7,0,Clear,10,13,4,8,High,High,32.17
+SpiceJet,CCU,BOM,5,12,4,2,1,Fog,34,28,3,13,Medium,High,79.59
+IndiGo,BLR,DEL,17,17,4,11,1,Rain,26,0,2,17,Medium,Medium,28.44
+Vistara,HYD,GOI,17,14,3,11,0,Fog,25,25,4,9,Medium,Medium,56.05
+Vistara,BOM,MAA,4,9,5,1,1,Fog,27,16,9,8,Low,Low,90.23
+SpiceJet,CCU,HYD,20,15,6,12,1,Thunderstorm,11,16,4,5,Medium,Medium,52.18
+Vistara,BOM,BOM,6,11,0,6,1,Fog,23,13,5,0,High,Low,82.03
+Vistara,GOI,BLR,1,19,0,8,0,Storm,31,9,8,4,Medium,Low,53.98
+Air India,MAA,GOI,10,4,0,1,1,Fog,32,29,2,9,Medium,Medium,66.31
+SpiceJet,CCU,HYD,12,1,6,10,0,Storm,36,7,3,12,High,Low,72.94
+GoAir,HYD,CCU,22,9,0,12,1,Clear,26,7,6,3,High,Low,52.84
+SpiceJet,MAA,DEL,4,0,2,9,1,Thunderstorm,12,13,7,0,Low,High,99.96
+GoAir,DEL,DEL,5,6,5,3,0,Storm,11,6,4,1,High,Medium,75.44
+Air India,HYD,BLR,23,16,1,3,1,Fog,17,5,1,3,High,High,59.27
+IndiGo,BLR,BOM,13,15,1,4,1,Thunderstorm,34,3,7,16,High,Low,90.97
+Vistara,DEL,HYD,11,23,3,11,1,Thunderstorm,38,0,9,9,Medium,Low,103.21
+Air India,DEL,GOI,3,2,2,1,0,Storm,11,14,1,11,Low,High,76.28
+Vistara,BLR,BOM,22,13,0,9,1,Storm,11,24,1,1,High,High,73.81
+IndiGo,CCU,DEL,5,9,0,11,1,Rain,35,14,1,2,High,High,43.37
+IndiGo,DEL,BOM,9,21,4,3,1,Rain,18,0,7,13,High,Low,32.17
+Air India,GOI,DEL,17,6,4,10,1,Thunderstorm,39,19,9,14,Medium,Medium,99.79
+IndiGo,HYD,BOM,14,16,3,4,1,Rain,29,2,3,12,Medium,Low,58.76
+GoAir,MAA,BLR,7,5,0,1,0,Fog,30,22,8,8,Low,High,93.46
+IndiGo,DEL,MAA,8,22,3,4,0,Clear,38,4,9,1,Low,Medium,24.64
+Vistara,HYD,BLR,4,21,2,1,1,Thunderstorm,36,4,3,18,Medium,High,96.57
+Vistara,BOM,BLR,9,3,1,5,1,Clear,34,3,3,15,High,Low,53.37
+Vistara,HYD,MAA,19,16,0,5,0,Rain,15,16,1,10,High,Medium,33.01
+Vistara,MAA,MAA,5,8,5,11,1,Storm,35,20,2,11,Low,Medium,88.01
+GoAir,HYD,HYD,15,3,6,7,1,Thunderstorm,21,19,7,0,High,Low,86.06
+SpiceJet,BLR,GOI,23,6,2,8,1,Rain,34,13,3,1,Medium,High,49.2
+Air India,MAA,GOI,2,22,0,4,1,Fog,18,25,7,15,Low,High,88.11
+Vistara,CCU,HYD,9,1,6,7,1,Thunderstorm,16,28,5,1,Medium,High,94.7
+IndiGo,BOM,BLR,10,16,5,4,1,Thunderstorm,39,7,8,18,Medium,Low,92.98
+Vistara,BLR,BLR,10,23,4,3,1,Storm,21,1,5,9,High,High,78.54
+IndiGo,CCU,DEL,16,7,3,6,1,Thunderstorm,35,7,3,18,Medium,Medium,83.18
+IndiGo,HYD,DEL,3,22,4,4,0,Storm,34,0,9,9,Medium,High,65.63
+Vistara,MAA,GOI,3,14,1,3,0,Rain,14,28,7,15,High,High,43.51
+GoAir,BOM,HYD,16,14,4,9,1,Fog,25,3,5,12,Medium,Medium,95.59
+IndiGo,BLR,CCU,8,7,0,5,1,Fog,14,18,7,15,High,Medium,132.14
+IndiGo,CCU,CCU,18,15,5,7,1,Thunderstorm,21,4,9,17,Medium,High,89.84
+Vistara,CCU,HYD,4,18,4,12,1,Thunderstorm,33,28,5,7,High,Medium,75.2
+IndiGo,BOM,DEL,21,10,0,6,0,Rain,35,4,7,17,High,Low,40.15
+IndiGo,GOI,GOI,23,1,1,10,0,Storm,29,20,9,12,Low,Medium,58.58
+Vistara,HYD,GOI,5,22,6,5,0,Fog,18,27,1,6,Medium,Low,49.74
+Vistara,BOM,DEL,2,23,5,7,0,Storm,32,19,4,17,Medium,Medium,51.94
+Air India,CCU,CCU,21,16,4,11,1,Rain,16,23,1,5,Low,Low,45.06
+GoAir,DEL,BOM,0,15,3,6,1,Fog,38,18,8,8,High,Low,102.9
+GoAir,BLR,BOM,19,14,3,10,1,Fog,28,11,3,5,High,High,89.56
+IndiGo,BOM,DEL,21,12,5,2,0,Clear,29,19,2,17,Low,Medium,27.25
+GoAir,GOI,BOM,15,14,3,3,1,Rain,32,0,4,16,Low,Medium,42.72
+IndiGo,CCU,MAA,22,3,4,2,1,Rain,20,6,3,11,High,Medium,57.55
+Air India,HYD,HYD,10,15,4,12,0,Clear,36,16,5,2,High,Low,21.06
+Vistara,CCU,HYD,12,11,5,3,0,Storm,39,1,8,4,Low,High,81.12
+Vistara,HYD,DEL,9,3,4,1,0,Clear,30,10,8,6,Medium,Medium,33.0
+Vistara,BOM,BLR,2,2,6,8,0,Rain,21,6,7,9,High,High,37.38
+GoAir,HYD,CCU,8,21,0,6,0,Storm,12,16,8,9,Low,High,86.68
+Air India,MAA,DEL,11,16,1,2,1,Fog,26,26,5,18,Medium,Low,119.32
+GoAir,MAA,BOM,22,21,6,8,1,Clear,16,2,6,3,Medium,Medium,31.71
+GoAir,MAA,CCU,13,17,6,6,0,Storm,31,28,8,9,Medium,High,98.31
+Air India,GOI,BLR,0,17,3,7,1,Storm,19,21,1,17,Medium,Medium,64.15
+Air India,GOI,BOM,17,22,0,11,1,Storm,32,5,6,2,Low,Medium,66.75
+Air India,DEL,GOI,16,16,5,1,1,Clear,24,21,6,2,High,Medium,50.76
+Air India,GOI,MAA,8,11,3,7,1,Fog,39,10,5,4,Medium,High,100.4
+Vistara,BOM,BOM,8,22,0,3,0,Storm,11,28,4,15,Medium,Low,64.81
+SpiceJet,CCU,MAA,22,20,4,11,1,Clear,22,17,1,19,Low,Low,53.26
+SpiceJet,CCU,CCU,9,23,5,12,1,Rain,37,17,8,12,Medium,High,49.67
+Air India,DEL,MAA,18,3,5,8,1,Clear,13,21,6,10,Low,Medium,36.89
+SpiceJet,GOI,CCU,14,11,3,6,0,Clear,27,9,3,12,Low,Medium,18.33
+SpiceJet,HYD,CCU,4,22,4,4,1,Clear,33,4,3,18,High,Low,79.73
+Air India,DEL,CCU,14,21,3,11,0,Storm,32,29,6,5,Medium,High,78.13
+SpiceJet,HYD,CCU,19,20,2,8,0,Clear,10,22,7,12,High,High,39.93
+GoAir,HYD,CCU,22,19,0,9,0,Rain,11,22,8,3,Low,Low,17.07
+IndiGo,BLR,BOM,1,14,2,10,0,Storm,11,20,5,4,Medium,High,68.89
+IndiGo,CCU,CCU,12,22,0,2,1,Rain,13,23,6,18,Low,High,56.58
+Air India,MAA,BOM,23,15,1,6,0,Thunderstorm,12,25,1,4,Low,Low,50.79
+Vistara,GOI,CCU,15,4,6,5,0,Clear,26,21,6,13,Low,Low,15.68
+Air India,HYD,MAA,14,20,5,5,0,Storm,37,14,9,3,Medium,High,63.94
+Vistara,BLR,GOI,9,14,3,10,0,Storm,23,20,4,11,Low,High,51.96
+IndiGo,CCU,CCU,13,16,1,11,0,Clear,11,19,1,5,Low,Low,13.24
+Air India,MAA,BLR,9,17,1,3,1,Fog,25,22,9,18,Medium,Low,65.9
+GoAir,HYD,CCU,13,4,5,12,0,Fog,20,3,4,9,High,Medium,71.92
+SpiceJet,HYD,CCU,22,12,5,8,1,Rain,34,20,2,0,Low,High,55.23
+Vistara,DEL,MAA,8,18,0,8,1,Clear,22,20,1,15,High,High,31.11
+SpiceJet,DEL,HYD,13,12,2,12,0,Clear,10,0,3,3,High,Low,9.12
+SpiceJet,CCU,MAA,2,17,4,5,1,Thunderstorm,34,14,7,8,High,Low,118.01
+Air India,MAA,BLR,19,13,0,8,1,Fog,32,16,2,17,High,Medium,99.95
+SpiceJet,HYD,HYD,15,3,4,10,1,Fog,11,18,9,16,High,Medium,107.35
+GoAir,CCU,DEL,1,3,1,8,0,Clear,11,13,2,14,High,Low,25.53
+SpiceJet,CCU,DEL,9,19,4,3,0,Rain,30,26,5,18,Medium,High,28.21
+Air India,BOM,BLR,2,19,2,2,0,Clear,38,18,8,6,Medium,Medium,37.24
+GoAir,GOI,MAA,10,18,0,9,0,Rain,14,17,8,17,High,Low,54.32
+IndiGo,DEL,BOM,10,12,5,2,0,Fog,13,27,3,5,Medium,Low,26.32
+SpiceJet,MAA,BLR,20,11,2,9,0,Thunderstorm,21,1,2,18,Medium,Low,59.34
+Air India,HYD,GOI,20,6,6,4,0,Storm,35,5,9,11,High,High,53.1
+IndiGo,CCU,HYD,21,11,2,12,1,Fog,35,12,3,2,High,Low,91.83
+IndiGo,HYD,HYD,12,20,6,2,1,Rain,38,16,8,0,Low,Low,28.82
+Vistara,BOM,CCU,6,3,0,10,0,Clear,37,5,2,4,Medium,High,22.42
+GoAir,MAA,DEL,22,1,5,1,1,Fog,12,20,3,0,High,Low,115.82
+SpiceJet,CCU,HYD,16,1,2,4,0,Thunderstorm,29,21,1,7,Medium,Low,57.37
+Air India,HYD,BLR,1,4,6,9,0,Rain,19,4,6,6,Medium,Medium,15.24
+Vistara,DEL,HYD,11,22,5,12,0,Clear,29,6,7,14,Medium,Low,21.58
+GoAir,GOI,BLR,9,9,3,9,1,Storm,27,0,4,10,Low,High,88.78
+Vistara,BOM,BOM,17,9,3,4,0,Rain,30,12,1,17,High,Medium,36.73
+GoAir,MAA,CCU,21,8,3,9,0,Clear,30,18,3,13,Medium,Low,18.73
+GoAir,BOM,DEL,10,12,4,12,0,Storm,30,21,9,8,High,High,65.8
+SpiceJet,DEL,HYD,15,6,2,6,0,Clear,36,0,5,4,Medium,Low,33.24
+GoAir,MAA,BLR,16,4,0,1,1,Storm,36,12,6,3,High,Medium,76.11
+Vistara,BOM,MAA,18,9,0,10,0,Storm,19,10,4,11,High,High,105.6
+GoAir,BLR,DEL,17,9,4,6,1,Storm,10,26,1,0,High,Medium,86.45
+SpiceJet,DEL,BOM,2,5,0,9,1,Clear,15,6,5,12,Medium,High,61.69
+SpiceJet,DEL,BLR,20,18,6,2,0,Storm,20,19,5,0,Low,High,75.36
+Vistara,DEL,GOI,15,20,3,6,0,Rain,11,2,5,2,High,Low,33.37
+IndiGo,BLR,GOI,5,7,2,2,1,Thunderstorm,16,25,6,7,Low,High,83.7
+IndiGo,BLR,CCU,11,0,0,4,1,Thunderstorm,29,24,2,17,High,High,68.81
+GoAir,HYD,CCU,10,16,0,8,1,Storm,30,0,1,15,Low,Low,76.54
+Air India,CCU,BOM,14,6,1,7,1,Thunderstorm,30,7,2,19,High,High,113.83
+GoAir,GOI,BOM,14,13,1,11,0,Thunderstorm,30,16,6,19,Low,High,90.87
+Vistara,BOM,CCU,15,20,1,12,1,Storm,27,12,5,15,High,High,117.0
+Vistara,HYD,HYD,9,20,2,9,1,Storm,30,13,5,1,High,High,88.12
+Vistara,BOM,HYD,11,16,3,7,1,Rain,28,4,6,16,Low,Low,59.97
+Vistara,GOI,BLR,12,8,5,1,1,Fog,13,25,7,9,High,Low,78.03
+Vistara,CCU,MAA,3,16,3,2,0,Clear,22,23,9,6,Medium,Medium,17.06
+SpiceJet,BLR,BLR,6,4,3,6,0,Storm,27,21,7,9,High,High,82.79
+IndiGo,CCU,MAA,21,19,2,7,0,Storm,29,22,2,18,High,Low,79.94
+Vistara,BLR,BOM,1,7,6,3,1,Thunderstorm,38,26,6,19,Medium,High,121.82
+Air India,GOI,DEL,14,5,6,9,1,Rain,34,23,9,8,Medium,Low,47.94
+Air India,CCU,BLR,7,10,2,7,0,Thunderstorm,33,28,7,16,Medium,Medium,53.46
+Air India,HYD,BLR,6,18,1,6,0,Storm,22,5,2,8,Low,High,65.39
+Air India,MAA,MAA,14,3,0,6,1,Storm,39,26,3,8,Medium,Medium,84.92
+SpiceJet,HYD,BOM,22,17,4,1,0,Thunderstorm,36,21,8,4,Low,Medium,76.51
+Air India,BOM,BOM,13,0,4,5,1,Storm,37,26,9,6,Medium,Medium,91.23
+Vistara,HYD,GOI,7,12,5,10,1,Fog,28,5,4,10,Low,Low,76.03
+GoAir,GOI,MAA,11,13,0,3,1,Clear,26,20,9,7,Medium,High,68.39
+Air India,DEL,BOM,12,23,5,7,1,Clear,10,7,2,13,Medium,Low,26.69
+SpiceJet,BOM,CCU,10,0,1,10,1,Clear,15,12,5,1,High,Low,50.44
+SpiceJet,CCU,HYD,16,10,5,3,1,Fog,28,17,2,9,Medium,High,119.24
+Air India,BOM,GOI,16,16,0,5,0,Storm,29,22,1,15,High,High,66.3
+GoAir,MAA,CCU,23,3,0,7,0,Thunderstorm,10,3,5,15,Medium,High,64.75
+Air India,BLR,DEL,3,11,4,3,0,Rain,17,16,2,18,Medium,High,43.13
+SpiceJet,CCU,BLR,20,9,6,10,1,Storm,26,28,7,10,High,Low,110.37
+IndiGo,BOM,GOI,7,5,1,2,0,Fog,30,4,8,5,High,High,53.76
+Vistara,CCU,DEL,4,0,2,6,1,Fog,31,2,2,5,Low,High,74.97
+SpiceJet,CCU,BLR,15,6,5,8,1,Clear,24,3,7,6,High,High,49.06
+Air India,CCU,HYD,3,20,4,4,1,Storm,27,22,4,15,Low,Medium,53.95
+Vistara,BLR,BOM,21,15,5,9,1,Clear,16,4,1,12,Medium,High,53.23
+Air India,GOI,CCU,14,23,5,12,0,Rain,25,13,3,2,High,High,19.31
+Air India,HYD,MAA,11,13,2,12,0,Clear,16,14,1,8,High,Low,19.1
+IndiGo,CCU,CCU,4,22,1,8,0,Rain,26,19,5,2,Medium,Medium,5.84
+Vistara,DEL,HYD,22,19,0,7,1,Fog,13,16,8,5,Medium,Low,71.74
+Vistara,GOI,DEL,15,19,3,7,0,Clear,21,5,1,16,Medium,Medium,42.04
+IndiGo,MAA,MAA,13,5,5,3,0,Clear,22,26,9,2,Medium,Low,3.32
+SpiceJet,BLR,BOM,9,21,3,6,0,Thunderstorm,13,9,3,1,High,Low,63.64
+Air India,BOM,HYD,6,4,1,5,1,Fog,30,21,5,11,Medium,High,67.57
+GoAir,BLR,MAA,12,23,3,1,0,Thunderstorm,10,22,9,5,Medium,High,51.79
+Air India,BOM,HYD,19,20,5,11,1,Rain,10,15,5,9,High,Medium,59.77
+Air India,BLR,HYD,4,17,2,3,0,Rain,16,16,9,10,Low,Medium,12.82
+SpiceJet,BOM,BOM,2,14,3,12,1,Fog,18,13,8,15,High,Medium,86.01
+Air India,CCU,GOI,14,5,1,1,0,Rain,10,19,7,15,Low,High,51.09
+IndiGo,HYD,BLR,3,18,1,4,0,Fog,25,11,1,17,Medium,Low,61.44
+IndiGo,BOM,MAA,14,0,6,10,0,Rain,27,8,4,8,High,Medium,46.12
+Vistara,BOM,BOM,13,0,6,3,1,Storm,31,14,9,18,Medium,High,89.09
+GoAir,DEL,HYD,19,12,2,11,0,Clear,24,11,8,1,High,High,31.77
+Air India,BOM,BOM,18,2,3,4,0,Storm,15,13,4,0,Low,Low,72.38
+Air India,DEL,GOI,12,9,3,9,1,Fog,11,25,1,15,High,Low,72.01
+SpiceJet,MAA,BLR,9,20,6,3,1,Fog,18,21,4,17,Medium,High,86.93
+IndiGo,CCU,CCU,20,2,0,12,1,Storm,13,17,3,2,High,Low,103.61
+GoAir,DEL,MAA,4,8,4,6,1,Clear,22,19,6,0,Medium,Low,32.26
+Vistara,HYD,BLR,22,7,1,6,0,Clear,32,5,5,5,High,High,25.13
+IndiGo,GOI,DEL,19,2,0,7,0,Thunderstorm,31,3,5,18,Low,Medium,49.14
+Vistara,CCU,MAA,19,12,1,9,1,Rain,20,25,2,18,High,Medium,60.94
+SpiceJet,DEL,BLR,5,5,0,12,0,Thunderstorm,22,22,3,10,High,High,84.25
+SpiceJet,CCU,HYD,3,12,6,7,1,Clear,20,11,6,7,High,Medium,51.65
+Air India,CCU,MAA,1,22,6,1,0,Storm,28,12,2,4,High,High,60.96
+GoAir,CCU,MAA,21,19,4,8,1,Rain,17,18,4,19,Low,High,46.8
+Vistara,MAA,BOM,15,19,0,5,0,Storm,16,21,2,8,Medium,Low,55.62
+IndiGo,HYD,HYD,17,11,1,9,1,Thunderstorm,34,12,9,14,High,Medium,88.33
+SpiceJet,BLR,DEL,4,12,3,10,1,Fog,25,11,3,13,High,High,65.2
+Air India,BLR,CCU,21,1,1,12,0,Storm,12,19,6,3,High,Medium,78.76
+Air India,DEL,GOI,3,20,5,5,0,Thunderstorm,26,2,1,7,Low,Medium,55.37
+Vistara,CCU,BLR,12,23,6,5,0,Thunderstorm,27,27,3,19,Medium,Medium,63.44
+SpiceJet,DEL,BOM,18,22,2,12,1,Thunderstorm,37,2,8,16,Medium,High,89.41
+GoAir,MAA,BLR,22,15,2,12,0,Fog,36,13,5,1,High,Low,60.4
+SpiceJet,MAA,DEL,1,22,6,2,1,Fog,24,17,8,19,High,Medium,118.2
+Vistara,BOM,DEL,12,5,5,12,0,Fog,37,26,2,15,Medium,High,53.86
+Vistara,MAA,MAA,10,18,2,11,0,Rain,26,18,7,9,High,Medium,31.13
+SpiceJet,BOM,GOI,21,20,6,3,1,Fog,20,28,9,1,High,Low,81.43
+Vistara,HYD,DEL,3,12,2,10,1,Fog,14,27,7,10,High,Medium,87.29
+SpiceJet,DEL,BLR,21,16,6,9,0,Fog,25,29,3,9,Low,High,56.47
+IndiGo,GOI,HYD,19,22,4,7,1,Storm,24,9,7,18,Low,Medium,88.53
+SpiceJet,HYD,HYD,19,8,3,1,1,Fog,19,16,8,13,Medium,Medium,65.52
+SpiceJet,MAA,MAA,14,16,3,3,0,Rain,23,14,1,10,Low,Medium,21.14
+Vistara,HYD,CCU,3,1,1,12,1,Thunderstorm,11,18,3,8,Low,Low,71.99
+Vistara,HYD,BLR,8,18,5,2,0,Storm,25,8,5,6,Medium,Medium,78.12
+Air India,HYD,BLR,6,18,6,1,0,Clear,28,3,6,14,Low,High,0.0
+Air India,MAA,DEL,18,23,0,9,1,Fog,17,14,3,19,Medium,Medium,83.85
+IndiGo,GOI,GOI,18,6,1,8,0,Thunderstorm,24,18,4,16,High,Medium,54.87
+Air India,CCU,BLR,5,21,1,5,1,Thunderstorm,19,15,5,2,Medium,Medium,83.26
+SpiceJet,HYD,BOM,5,9,6,11,0,Storm,39,7,3,14,Medium,Low,39.37
+Vistara,BOM,CCU,19,9,6,12,1,Clear,14,16,4,13,Medium,High,61.71
+Air India,MAA,DEL,14,19,1,2,1,Rain,29,20,5,7,High,Medium,43.67
+Air India,HYD,BOM,14,8,1,1,1,Thunderstorm,25,0,2,3,High,High,98.67
+IndiGo,GOI,MAA,19,16,3,7,1,Thunderstorm,30,6,9,9,High,High,94.56
+IndiGo,CCU,HYD,8,14,0,11,1,Thunderstorm,35,20,8,1,Medium,Low,75.08
+SpiceJet,MAA,MAA,3,1,1,11,0,Thunderstorm,31,17,6,13,Medium,High,80.01
+Vistara,BLR,HYD,17,3,3,2,0,Storm,21,11,3,7,Medium,Medium,51.56
+IndiGo,CCU,MAA,17,18,1,1,1,Clear,32,15,2,9,Medium,Low,36.81
+Air India,BOM,BLR,4,16,2,2,0,Thunderstorm,39,29,7,17,Medium,Low,56.18
+Vistara,HYD,BOM,19,4,1,7,1,Rain,22,0,8,14,Medium,High,48.55
+Vistara,GOI,HYD,22,6,6,7,1,Rain,18,26,1,4,Medium,Low,29.98
+Air India,BLR,DEL,10,17,5,10,0,Fog,26,14,6,12,Low,High,99.9
+IndiGo,GOI,BOM,4,20,5,6,0,Thunderstorm,29,6,7,17,High,High,86.43
+Air India,BLR,DEL,21,21,1,5,1,Thunderstorm,37,27,9,1,Low,Low,89.16
+Vistara,MAA,BOM,3,6,4,3,1,Thunderstorm,21,16,3,12,High,Medium,102.34
+GoAir,BLR,BOM,11,16,2,12,1,Thunderstorm,34,2,2,13,Medium,High,97.2
+GoAir,BOM,MAA,1,6,0,3,1,Thunderstorm,14,10,5,9,Low,Low,97.79
+SpiceJet,BOM,HYD,12,3,1,11,1,Rain,33,5,1,3,Medium,Low,38.82
+Air India,DEL,HYD,9,7,0,12,1,Clear,21,5,6,14,Low,High,51.58
+Air India,BOM,GOI,8,12,2,9,0,Clear,10,14,9,7,Low,High,41.7
+SpiceJet,CCU,BOM,9,3,1,4,1,Fog,29,6,9,14,Medium,High,103.41
+SpiceJet,BLR,BLR,6,5,4,9,1,Rain,37,10,7,13,Low,High,58.61
+SpiceJet,BOM,BLR,3,4,3,4,0,Thunderstorm,25,29,7,8,Low,Medium,34.33
+Vistara,MAA,DEL,18,11,4,2,1,Clear,39,26,8,19,High,Medium,71.64
+Air India,GOI,DEL,9,3,6,4,1,Storm,21,16,2,2,Medium,Medium,86.7
+Vistara,GOI,MAA,2,23,4,6,0,Storm,18,22,6,14,Medium,Medium,56.43
+SpiceJet,DEL,BOM,20,8,3,6,1,Storm,22,17,5,16,Low,Low,78.61
+Air India,GOI,DEL,18,3,6,5,0,Thunderstorm,26,21,5,15,Medium,High,75.97
+Vistara,BLR,DEL,20,18,3,1,1,Thunderstorm,26,28,3,3,High,Low,101.44
+Vistara,DEL,CCU,1,23,5,3,0,Fog,13,23,3,10,High,Low,69.96
+SpiceJet,BLR,BOM,19,13,3,5,0,Fog,23,28,6,7,Medium,Medium,43.11
+Air India,MAA,MAA,9,4,1,6,0,Fog,28,20,7,2,Medium,Low,46.55
+SpiceJet,DEL,DEL,1,17,0,1,1,Storm,16,25,1,18,High,Medium,111.54
+Air India,HYD,MAA,1,9,5,9,1,Thunderstorm,36,18,3,13,Medium,High,75.86
+GoAir,CCU,HYD,23,18,5,3,0,Storm,12,26,1,8,Low,Medium,63.79
+IndiGo,CCU,MAA,16,11,0,10,0,Fog,10,7,3,2,Medium,High,50.49
+IndiGo,BLR,BLR,15,17,5,3,1,Thunderstorm,21,23,5,3,Low,Medium,66.5
+IndiGo,GOI,BLR,15,16,3,11,1,Rain,24,19,9,3,High,Low,68.02
+SpiceJet,HYD,MAA,13,23,4,2,1,Clear,20,7,3,10,Medium,Low,44.11
+GoAir,DEL,BLR,6,10,2,8,1,Clear,19,20,9,18,High,Medium,51.74
+Air India,HYD,HYD,20,2,3,3,1,Fog,11,28,1,15,Medium,High,86.07
+Vistara,HYD,BOM,10,22,6,6,0,Storm,35,10,6,16,Low,High,94.59
+Air India,GOI,BLR,23,16,6,2,1,Rain,38,20,9,9,Medium,Medium,35.02
+Vistara,DEL,BLR,0,0,4,7,0,Thunderstorm,13,2,5,16,High,Low,79.08
+Air India,MAA,MAA,10,14,4,4,1,Storm,26,22,2,15,Low,High,75.87
+GoAir,GOI,HYD,22,8,5,9,0,Fog,26,26,5,19,Medium,Medium,65.38
+Vistara,HYD,GOI,20,14,1,10,0,Storm,37,13,1,5,High,High,76.46
+SpiceJet,HYD,GOI,3,23,1,9,1,Fog,39,26,9,6,High,Low,65.94
+Air India,MAA,GOI,6,2,5,7,0,Clear,17,8,9,13,Medium,High,36.99
+Air India,HYD,GOI,14,21,5,12,0,Clear,32,24,6,10,High,Medium,40.2
+Vistara,HYD,BOM,17,18,0,8,0,Storm,23,0,9,11,Low,High,100.42
+SpiceJet,HYD,MAA,11,12,0,3,0,Rain,33,0,3,13,Medium,High,41.74
+SpiceJet,CCU,MAA,16,11,2,11,1,Thunderstorm,38,25,4,4,Low,Low,103.61
+GoAir,GOI,CCU,0,19,2,5,0,Fog,13,27,6,4,High,Low,45.5
+SpiceJet,BOM,HYD,10,0,2,2,1,Thunderstorm,15,11,4,19,High,Low,128.99
+SpiceJet,GOI,GOI,0,20,2,10,0,Clear,38,10,1,14,High,Low,31.76
+SpiceJet,MAA,BOM,14,16,4,7,1,Rain,28,20,7,0,Low,Medium,19.21
+IndiGo,HYD,HYD,20,12,4,8,1,Rain,36,0,5,8,High,High,57.12
+GoAir,GOI,GOI,9,0,0,9,1,Thunderstorm,38,19,8,2,Medium,High,100.36
+Air India,CCU,BOM,6,9,1,11,0,Clear,33,11,9,3,Medium,High,8.71
+Vistara,MAA,HYD,1,14,5,11,1,Thunderstorm,13,16,5,15,High,High,84.44
+Air India,BLR,MAA,9,6,6,7,1,Storm,12,14,8,6,Medium,Medium,95.13
+GoAir,GOI,MAA,23,21,1,10,0,Rain,29,1,1,13,Low,Low,26.04
+Vistara,BLR,DEL,3,17,3,10,1,Rain,15,17,1,15,Low,High,54.97
+GoAir,HYD,BLR,11,15,4,8,0,Storm,36,15,7,17,High,High,67.73
+SpiceJet,CCU,GOI,18,13,2,12,0,Clear,32,3,6,15,Medium,Low,35.42
+Vistara,CCU,CCU,10,17,2,9,1,Rain,16,7,5,15,Medium,Low,38.03
+SpiceJet,GOI,HYD,7,6,3,6,0,Fog,23,1,5,1,High,High,63.17
+Air India,MAA,CCU,17,16,1,12,0,Fog,21,13,9,9,Low,Low,37.56
+Air India,MAA,DEL,10,17,2,12,0,Clear,25,24,1,6,High,High,43.29
+Vistara,CCU,BLR,10,11,1,10,1,Storm,29,14,8,14,Medium,High,101.13
+Vistara,MAA,HYD,12,7,5,2,0,Thunderstorm,17,27,2,8,Medium,High,70.69
+GoAir,CCU,BOM,2,21,3,2,0,Clear,32,8,7,6,High,High,20.79
+GoAir,GOI,GOI,11,1,6,4,0,Thunderstorm,11,1,6,15,Low,High,48.5
+SpiceJet,BOM,BLR,2,6,1,9,1,Clear,22,16,2,2,Low,High,29.23
+Vistara,CCU,MAA,9,3,5,7,0,Fog,17,25,3,16,High,Low,89.31
+Air India,BLR,DEL,16,17,1,2,1,Storm,34,9,4,7,Medium,Medium,53.9
+GoAir,MAA,BLR,21,5,1,8,0,Fog,30,8,7,1,Low,Medium,21.64
+GoAir,CCU,GOI,1,8,2,11,1,Storm,29,1,8,19,High,High,133.6
+Air India,CCU,BLR,16,8,0,7,1,Thunderstorm,25,23,2,2,Medium,Low,64.51
+GoAir,GOI,GOI,15,13,4,9,1,Clear,13,29,8,7,Low,High,54.14
+SpiceJet,MAA,MAA,1,7,1,8,0,Rain,38,18,9,1,Low,Low,23.04
+Vistara,BOM,HYD,21,18,1,3,0,Rain,25,16,7,18,High,High,55.84
+Air India,GOI,BOM,19,2,1,1,0,Storm,29,10,1,16,Medium,High,72.19
+Vistara,BOM,MAA,5,17,0,2,1,Storm,15,16,6,4,Low,Medium,63.11
+GoAir,GOI,BOM,9,4,5,2,0,Fog,36,9,8,19,High,Low,69.53
+GoAir,MAA,HYD,9,13,6,4,0,Rain,13,17,5,16,Low,Low,17.66
+Air India,DEL,BLR,7,3,6,6,1,Fog,25,22,2,9,Medium,Medium,66.04
+SpiceJet,MAA,BOM,0,6,3,4,0,Thunderstorm,32,27,5,8,Low,Medium,66.75
+IndiGo,MAA,DEL,12,19,2,9,0,Rain,32,5,8,5,Medium,Medium,1.92
+Air India,BOM,DEL,23,11,0,4,1,Thunderstorm,30,15,2,10,Low,Medium,103.56
+IndiGo,BOM,GOI,8,1,5,6,1,Clear,22,27,1,1,Low,Low,43.54
+IndiGo,MAA,MAA,21,10,1,6,0,Fog,14,26,4,11,High,Low,66.05
+SpiceJet,MAA,HYD,9,13,5,10,1,Storm,24,17,4,11,Low,Medium,72.15
+IndiGo,MAA,GOI,14,21,0,11,0,Rain,35,19,9,15,Medium,High,38.93
+IndiGo,BOM,MAA,4,22,0,10,0,Fog,17,17,3,11,High,High,53.43
+SpiceJet,MAA,MAA,21,15,0,1,0,Storm,16,0,4,17,Medium,High,57.39
+IndiGo,MAA,GOI,15,19,3,8,0,Clear,23,27,3,12,Medium,High,33.55
+IndiGo,HYD,CCU,12,5,4,12,0,Rain,16,2,2,14,High,Low,19.93
+IndiGo,DEL,MAA,21,22,2,3,1,Thunderstorm,31,14,4,15,Medium,Low,80.86
+Air India,BLR,CCU,19,3,3,6,1,Clear,16,19,8,3,Low,Low,45.07
+Air India,DEL,DEL,17,14,3,3,0,Storm,32,9,1,11,High,High,74.83
+Air India,HYD,DEL,10,23,4,11,1,Rain,35,20,8,16,Low,Medium,38.08
+SpiceJet,BLR,MAA,8,0,3,2,1,Rain,39,4,8,0,Low,High,39.35
+GoAir,GOI,DEL,15,6,0,5,0,Clear,27,14,3,17,Medium,Low,29.29
+IndiGo,MAA,HYD,1,11,0,1,1,Rain,39,22,6,15,Medium,High,58.69
+IndiGo,HYD,CCU,1,9,5,9,1,Storm,19,13,4,0,Low,Medium,79.52
+SpiceJet,GOI,CCU,11,4,1,11,0,Clear,27,14,1,9,High,Medium,0.0
+IndiGo,MAA,MAA,7,11,3,7,0,Thunderstorm,23,9,1,18,Low,High,86.35
+Air India,BOM,DEL,8,17,1,3,0,Clear,19,23,5,15,Low,Low,24.32
+GoAir,CCU,BOM,11,9,2,4,0,Clear,16,8,8,13,Medium,Low,31.88
+Vistara,HYD,GOI,8,5,6,6,0,Thunderstorm,39,11,1,1,Medium,Low,69.54
+IndiGo,BOM,GOI,9,11,0,3,0,Storm,35,6,2,5,Low,High,61.09
+Air India,HYD,CCU,1,6,5,12,0,Fog,16,4,7,4,Low,Low,58.4
+Vistara,HYD,MAA,15,17,2,7,1,Fog,16,24,8,11,Medium,High,99.48
+GoAir,BOM,MAA,19,1,5,6,0,Thunderstorm,14,23,3,3,Low,Low,41.81
+Vistara,BLR,HYD,6,9,6,9,1,Storm,10,9,8,3,Medium,Medium,69.91
+Air India,DEL,BLR,1,14,6,12,1,Rain,23,24,1,4,Low,Medium,39.57
+Vistara,MAA,BLR,0,11,4,5,0,Thunderstorm,27,25,9,6,High,Low,47.55
+SpiceJet,HYD,CCU,18,16,0,4,1,Fog,22,7,2,5,High,High,119.11
+Vistara,MAA,GOI,3,3,2,3,1,Storm,34,21,2,12,Low,Low,71.21
+IndiGo,CCU,HYD,23,6,4,10,1,Clear,17,19,4,3,Medium,High,53.25
+IndiGo,BOM,HYD,21,8,6,1,0,Storm,17,24,3,12,Low,Medium,55.64
+SpiceJet,MAA,HYD,1,18,2,3,1,Storm,19,15,4,3,Low,High,71.97
+Air India,BOM,CCU,13,22,5,3,1,Fog,26,11,6,9,Medium,Low,71.31
+IndiGo,MAA,BLR,1,6,4,7,0,Fog,15,8,7,19,Low,Medium,38.62
+GoAir,DEL,GOI,14,22,4,7,1,Rain,24,9,5,0,Medium,High,50.76
+IndiGo,DEL,HYD,11,1,0,12,1,Rain,24,15,2,7,Low,High,54.74
+IndiGo,DEL,GOI,4,5,1,1,1,Thunderstorm,34,9,3,6,Medium,Medium,103.23
+Air India,DEL,DEL,19,17,5,3,1,Clear,25,8,3,4,Low,Low,53.08
+Vistara,DEL,MAA,6,5,5,8,1,Rain,17,29,5,2,High,Medium,53.28
+IndiGo,DEL,MAA,23,12,4,9,0,Fog,28,25,5,14,Medium,Low,48.47
+SpiceJet,BOM,GOI,20,18,4,7,1,Storm,29,2,4,16,High,Low,98.19
+Vistara,HYD,BOM,9,1,0,7,0,Thunderstorm,24,26,8,12,Medium,High,55.04
+GoAir,MAA,BOM,13,11,1,12,1,Rain,12,27,6,14,Medium,Low,48.59
+Air India,DEL,CCU,13,14,5,11,0,Storm,15,18,6,18,Medium,Low,55.56
+GoAir,BOM,CCU,4,13,6,8,0,Storm,39,10,1,19,Medium,Medium,62.9
+Vistara,BOM,MAA,17,5,3,6,0,Rain,34,5,6,13,Low,Medium,24.5
+Vistara,BOM,DEL,23,17,3,11,1,Clear,17,5,3,12,Low,Low,40.63
+Vistara,HYD,BLR,13,4,1,3,1,Clear,25,14,6,11,Medium,High,70.97
+GoAir,MAA,BLR,1,17,2,1,1,Thunderstorm,24,28,6,8,Low,Medium,87.14
+Vistara,HYD,CCU,11,2,0,7,1,Clear,22,14,2,2,Medium,High,30.68
+GoAir,BLR,DEL,21,2,1,1,1,Thunderstorm,35,12,1,10,Medium,Medium,109.83
+Vistara,GOI,CCU,23,21,3,1,0,Fog,29,21,3,9,High,Medium,91.08
+SpiceJet,BOM,BLR,5,21,4,9,0,Rain,24,4,5,0,Medium,Low,13.23
+Vistara,BLR,GOI,3,9,3,10,0,Storm,27,13,4,16,Medium,Medium,78.87
+GoAir,CCU,CCU,12,18,4,7,1,Thunderstorm,22,20,7,12,Low,Medium,92.82
+IndiGo,DEL,HYD,3,2,0,11,1,Clear,33,1,4,13,Medium,High,79.91
+Vistara,GOI,GOI,21,11,4,4,0,Thunderstorm,17,29,8,0,Medium,Medium,75.22
+IndiGo,DEL,CCU,13,15,1,6,1,Thunderstorm,23,22,7,1,High,Medium,83.33
+SpiceJet,HYD,MAA,15,16,4,1,1,Clear,37,11,9,1,Low,High,27.62
+Air India,GOI,CCU,3,6,2,7,0,Clear,20,19,1,6,Low,Low,18.51
+SpiceJet,MAA,MAA,23,12,1,12,0,Rain,15,13,5,8,High,Low,36.94
+Vistara,BLR,DEL,0,23,0,6,1,Storm,39,18,4,3,Medium,Medium,49.03
+IndiGo,MAA,BLR,12,1,1,4,1,Rain,33,23,6,1,High,Medium,59.73
+IndiGo,HYD,GOI,3,3,2,7,0,Rain,34,19,1,18,Low,High,19.23
+GoAir,DEL,GOI,19,9,0,3,1,Clear,38,14,6,4,High,Low,19.71
+IndiGo,GOI,BOM,17,6,3,1,0,Clear,10,26,1,8,Low,Low,23.11
+GoAir,MAA,BOM,5,23,2,4,0,Storm,34,19,1,12,High,Low,60.04
+Air India,MAA,BLR,2,16,0,3,0,Thunderstorm,11,23,8,11,Medium,High,85.68
+Vistara,DEL,BOM,22,19,6,1,1,Rain,39,16,2,18,Medium,High,66.26
+GoAir,GOI,GOI,12,5,4,2,0,Storm,22,24,6,8,Low,High,58.54
+Air India,BLR,CCU,15,18,1,11,0,Rain,10,13,6,9,High,Medium,42.4
+IndiGo,DEL,DEL,4,4,0,5,1,Thunderstorm,33,22,6,18,Low,Low,84.13
+IndiGo,MAA,DEL,3,9,1,8,0,Rain,33,27,8,9,Medium,Medium,13.83
+Air India,BLR,BLR,20,8,4,1,1,Fog,36,17,4,11,Low,Medium,87.61
+IndiGo,BLR,BOM,7,12,0,4,1,Storm,13,26,3,13,Medium,High,113.76
+Air India,DEL,CCU,18,18,3,4,1,Clear,33,27,6,7,Low,Low,37.42
+GoAir,MAA,DEL,13,20,6,5,0,Rain,32,21,4,15,High,Medium,56.15
+GoAir,HYD,DEL,6,23,6,7,0,Storm,38,23,2,16,Medium,Low,66.47
+Air India,MAA,HYD,13,5,2,12,1,Storm,11,26,6,19,Low,Medium,88.81
+GoAir,BOM,HYD,5,3,0,8,1,Rain,30,4,5,3,Medium,High,58.12
+GoAir,GOI,GOI,11,23,4,6,1,Clear,39,21,9,5,High,Medium,51.22
+GoAir,CCU,DEL,15,2,0,1,0,Clear,35,11,6,11,Medium,High,26.65
+SpiceJet,HYD,BLR,16,2,1,7,1,Rain,29,9,3,17,High,Low,53.87
+Vistara,BLR,MAA,12,3,5,3,1,Storm,25,7,5,6,Medium,Medium,80.33
+IndiGo,HYD,MAA,22,4,0,6,1,Clear,12,28,8,4,High,Medium,48.83
+SpiceJet,GOI,CCU,13,7,6,8,0,Rain,26,5,9,9,Medium,High,37.82
+GoAir,BLR,DEL,6,15,6,7,1,Rain,14,27,8,5,High,High,48.27
+Air India,GOI,DEL,13,21,6,10,0,Rain,35,24,3,13,Low,Low,23.22
+GoAir,BLR,GOI,14,2,3,6,0,Storm,17,14,9,5,Low,High,51.6
+Vistara,HYD,DEL,11,23,0,9,1,Clear,21,11,3,13,Medium,Low,46.02
+GoAir,BLR,BLR,16,11,2,9,1,Storm,34,24,8,11,High,Medium,107.1
+Air India,BLR,HYD,8,7,0,1,1,Fog,32,24,9,11,Low,Low,75.27
+Vistara,BOM,DEL,21,12,5,1,0,Clear,21,5,7,7,Medium,Low,11.56
+GoAir,MAA,DEL,14,3,6,1,0,Storm,36,11,4,9,Low,Low,81.38
+Vistara,MAA,GOI,11,13,1,8,0,Clear,10,14,9,15,High,Medium,36.69
+IndiGo,CCU,BOM,1,13,6,12,1,Fog,10,11,3,19,Medium,Medium,54.8
+IndiGo,CCU,GOI,4,12,0,12,0,Thunderstorm,24,8,3,7,High,High,55.32
+GoAir,BOM,GOI,12,5,3,10,1,Rain,26,18,2,8,High,Low,57.63
+Vistara,CCU,BLR,19,16,4,7,1,Storm,11,20,3,12,High,Medium,61.47
+Air India,GOI,CCU,22,3,0,3,1,Fog,26,1,1,19,Low,Low,111.27
+GoAir,HYD,DEL,7,7,0,2,0,Fog,29,27,4,16,Medium,Low,76.1
+IndiGo,DEL,GOI,13,16,2,4,0,Clear,35,12,8,18,High,Low,38.17
+IndiGo,GOI,GOI,14,2,3,3,0,Clear,18,12,5,16,Low,Medium,25.97
+GoAir,DEL,BOM,10,16,5,7,1,Rain,21,7,2,6,High,Low,68.02
+Vistara,DEL,GOI,0,8,4,10,0,Clear,13,26,3,0,Low,Low,11.96
+IndiGo,BOM,MAA,20,1,6,8,0,Storm,22,12,1,19,Medium,High,74.62
+Vistara,GOI,CCU,2,12,1,6,1,Storm,13,3,2,13,Medium,Low,64.19
+IndiGo,BOM,DEL,16,19,0,3,1,Storm,16,5,1,16,Medium,High,107.35
+IndiGo,BLR,DEL,18,1,5,6,0,Thunderstorm,23,5,2,12,Medium,Low,70.62
+SpiceJet,DEL,BOM,13,19,4,2,1,Storm,36,20,3,1,High,High,104.72
+IndiGo,HYD,BLR,21,10,1,12,0,Clear,18,11,1,13,Low,Medium,22.68
+Air India,CCU,DEL,22,21,5,7,1,Clear,32,11,9,0,Medium,Medium,28.16
+GoAir,HYD,MAA,7,14,3,11,1,Storm,10,16,5,4,High,Low,110.09
+GoAir,CCU,DEL,12,10,3,10,0,Fog,10,26,8,6,Medium,High,61.48
+Vistara,DEL,MAA,19,22,4,7,1,Fog,29,6,5,18,Medium,Medium,83.38
+IndiGo,DEL,CCU,2,2,6,4,1,Fog,13,25,8,13,Medium,Low,92.26
+Air India,DEL,CCU,4,2,1,8,1,Rain,10,14,7,13,Low,Low,56.81
+Vistara,BOM,HYD,8,11,3,4,0,Thunderstorm,31,23,4,14,Low,High,68.65
+SpiceJet,GOI,HYD,5,23,4,7,1,Storm,19,16,7,4,Low,High,95.55
+Vistara,CCU,MAA,21,4,3,4,1,Rain,11,9,6,4,Medium,Low,24.78
+Vistara,GOI,BLR,1,19,3,12,0,Fog,36,22,3,1,High,High,69.84
+IndiGo,BOM,DEL,12,6,5,5,0,Storm,30,19,9,17,High,High,92.84
+SpiceJet,BOM,GOI,4,6,5,7,1,Rain,33,5,9,8,High,Medium,51.44
+Vistara,MAA,DEL,7,12,3,10,1,Clear,24,8,5,9,Medium,High,87.82
+Air India,HYD,HYD,22,8,2,3,1,Fog,12,14,8,17,Low,Low,61.9
+Air India,HYD,GOI,0,20,5,10,0,Rain,34,15,7,3,High,High,32.35
+GoAir,BLR,MAA,19,12,1,5,1,Clear,32,20,9,7,Medium,Low,53.0
+SpiceJet,BOM,GOI,11,11,4,11,0,Fog,18,7,7,17,Medium,Low,56.16
+SpiceJet,CCU,DEL,22,12,4,3,0,Thunderstorm,26,15,4,19,High,High,100.88
+GoAir,MAA,DEL,10,23,6,5,1,Fog,30,4,4,16,High,High,95.6
+Vistara,MAA,BLR,6,9,1,3,1,Thunderstorm,37,17,8,15,Medium,High,117.21
+SpiceJet,GOI,BOM,14,0,1,11,0,Thunderstorm,22,19,6,17,High,Medium,74.0
+Air India,HYD,GOI,21,7,1,10,1,Thunderstorm,12,13,9,6,Medium,Medium,92.11
+Air India,BOM,HYD,23,21,6,11,1,Storm,13,1,7,0,High,High,94.83
+IndiGo,BLR,HYD,10,15,1,7,0,Storm,13,22,7,0,Low,Low,70.1
+SpiceJet,BOM,BOM,21,12,0,1,1,Thunderstorm,20,22,4,17,Medium,High,61.77
+Vistara,GOI,DEL,15,2,6,9,0,Clear,37,29,3,3,Low,Medium,15.53
+GoAir,DEL,BLR,2,2,4,9,1,Thunderstorm,16,2,8,19,High,Medium,109.74
+GoAir,BOM,BLR,19,23,0,5,0,Rain,35,13,7,19,Medium,High,37.68
+Vistara,GOI,HYD,13,4,6,9,0,Thunderstorm,20,28,4,3,High,Low,58.44
+IndiGo,DEL,BLR,2,10,3,10,1,Storm,33,6,4,5,Medium,Low,61.16
+GoAir,DEL,CCU,0,6,3,6,0,Storm,20,14,1,2,High,Medium,62.67
+SpiceJet,BLR,BOM,20,20,4,5,0,Rain,19,16,7,5,Low,Medium,25.54
+IndiGo,CCU,DEL,14,23,3,3,1,Rain,14,0,1,12,Low,Medium,31.48
+SpiceJet,HYD,CCU,0,9,1,11,1,Fog,22,8,4,6,High,Low,89.99
+Air India,BOM,BOM,16,9,6,11,1,Clear,38,21,3,3,Low,Medium,45.93
+IndiGo,DEL,MAA,1,19,0,8,0,Clear,21,28,3,0,Low,Medium,19.95
+GoAir,BOM,GOI,19,1,1,4,0,Clear,19,13,1,5,High,Low,42.52
+IndiGo,CCU,HYD,5,2,3,10,0,Storm,16,15,4,4,Medium,Medium,60.91
+IndiGo,HYD,BLR,7,7,5,3,1,Clear,28,27,1,12,High,Medium,55.2
+IndiGo,CCU,MAA,15,10,0,6,0,Fog,28,20,8,18,Medium,High,71.93
+IndiGo,HYD,BLR,18,12,1,8,0,Fog,28,12,1,3,Low,Medium,77.44
+SpiceJet,MAA,CCU,0,6,6,9,1,Clear,21,5,6,5,Low,High,69.8
+Air India,HYD,DEL,2,12,4,6,0,Rain,29,21,7,12,Low,Medium,26.69
+Vistara,BLR,DEL,2,1,1,5,1,Fog,31,0,2,4,Low,Medium,77.58
+IndiGo,CCU,DEL,4,5,5,12,1,Rain,24,20,4,12,Low,High,59.65
+GoAir,DEL,BLR,11,8,3,11,1,Storm,14,24,3,9,Medium,Medium,63.21
+IndiGo,MAA,MAA,11,19,0,2,0,Fog,33,3,9,2,Medium,High,74.38
+GoAir,BLR,DEL,19,1,4,2,0,Rain,39,2,7,12,Medium,Medium,31.55
+SpiceJet,BOM,MAA,12,17,0,9,0,Clear,23,16,2,11,High,High,33.14
+GoAir,CCU,BLR,19,15,4,2,1,Storm,21,29,6,3,Low,High,113.23
+Vistara,GOI,CCU,8,11,6,2,1,Thunderstorm,38,1,9,9,Low,Medium,98.97
+Air India,GOI,MAA,6,6,0,3,1,Thunderstorm,30,18,3,2,Low,Medium,64.33
+GoAir,DEL,CCU,3,6,3,3,0,Clear,20,19,6,16,High,High,34.61
+GoAir,HYD,BLR,18,16,6,4,0,Storm,37,22,3,8,High,Low,81.55
+Air India,DEL,BLR,21,12,6,7,0,Storm,14,21,3,0,High,Medium,52.21
+Vistara,GOI,HYD,18,10,4,9,0,Storm,25,26,4,17,Low,Medium,70.99
+IndiGo,BOM,BLR,5,5,2,2,0,Storm,39,7,9,8,Medium,Low,68.81
+GoAir,MAA,BLR,12,22,0,4,1,Thunderstorm,35,29,8,19,High,Low,91.66
+Air India,MAA,BOM,10,13,0,9,0,Rain,27,24,1,8,High,High,27.5
+SpiceJet,CCU,DEL,12,5,1,2,1,Storm,21,14,1,1,Medium,Medium,59.53
+Air India,MAA,HYD,12,5,4,10,1,Rain,36,5,7,18,High,High,75.8
+SpiceJet,CCU,GOI,21,1,5,11,0,Storm,36,22,3,15,Medium,Medium,91.09
+Vistara,CCU,HYD,19,21,2,1,1,Fog,14,19,7,2,Low,Low,80.6
+IndiGo,CCU,HYD,14,19,3,10,0,Fog,25,1,9,15,Medium,High,89.39
+Air India,GOI,GOI,20,14,1,8,0,Fog,21,24,3,12,Medium,Medium,67.28
+GoAir,GOI,BOM,12,16,2,9,1,Storm,32,24,3,2,Low,Medium,84.47
+Vistara,HYD,CCU,21,7,4,7,0,Rain,11,14,2,9,High,Low,40.27
+Air India,BLR,BLR,10,4,2,8,0,Thunderstorm,39,19,1,17,Low,Low,51.12
+GoAir,CCU,DEL,18,16,6,4,1,Clear,38,11,9,5,High,Medium,43.24
+Air India,CCU,MAA,7,19,0,4,1,Thunderstorm,15,2,6,5,High,Low,93.49
+SpiceJet,BLR,GOI,19,0,6,2,1,Storm,32,9,6,17,Medium,Low,117.2
+Air India,DEL,CCU,7,21,0,8,1,Fog,30,13,8,5,Low,High,58.15
+Air India,CCU,GOI,9,17,1,11,1,Fog,34,26,5,5,Medium,Medium,79.84
+Air India,HYD,BLR,15,14,4,2,1,Rain,39,21,9,12,Low,High,48.83
+Vistara,MAA,BOM,18,4,4,9,0,Storm,13,29,5,13,Low,Low,79.31
+Air India,MAA,GOI,22,6,2,4,0,Thunderstorm,39,13,2,6,Medium,Medium,57.06
+GoAir,BOM,BLR,10,17,1,1,0,Storm,39,2,6,12,High,Low,63.47
+SpiceJet,BOM,BLR,12,5,4,4,1,Storm,22,0,9,14,High,Low,94.69
+SpiceJet,MAA,BOM,8,21,5,3,0,Fog,19,19,3,11,Low,Medium,59.17
+Air India,MAA,HYD,19,20,5,12,1,Thunderstorm,26,0,4,0,High,Low,101.16
+Vistara,GOI,HYD,23,4,6,6,0,Clear,23,1,8,2,Medium,High,31.19
+Vistara,HYD,DEL,18,18,0,7,1,Fog,33,18,6,17,Medium,Medium,68.23
+GoAir,BLR,DEL,15,9,2,8,0,Thunderstorm,24,23,7,7,Medium,Low,68.81
+Air India,BOM,HYD,6,14,3,2,1,Rain,17,9,7,1,Low,Low,18.84
+SpiceJet,GOI,CCU,18,9,0,6,1,Fog,32,3,4,3,Low,Low,73.14
+Vistara,GOI,MAA,11,15,1,6,1,Rain,33,3,6,17,High,Medium,64.01
+Air India,BLR,BLR,14,11,4,10,1,Fog,27,12,9,12,Medium,High,89.86
+Vistara,GOI,MAA,22,17,0,12,0,Storm,12,25,3,14,Medium,Low,55.09
+Vistara,HYD,BLR,13,22,3,5,0,Thunderstorm,34,8,8,1,Low,Low,39.35
+SpiceJet,MAA,HYD,10,0,3,10,1,Rain,26,6,7,9,Low,Low,33.56
+IndiGo,CCU,DEL,9,15,5,10,1,Fog,33,15,4,1,Low,Medium,75.84
+GoAir,BLR,CCU,10,21,1,7,1,Rain,33,17,3,11,Medium,Low,51.65
+GoAir,MAA,DEL,5,5,0,3,0,Fog,16,2,7,4,Medium,Low,82.16
+SpiceJet,MAA,MAA,1,2,2,4,1,Fog,22,19,9,11,High,Low,90.97
+Vistara,DEL,DEL,10,1,0,10,1,Clear,39,19,3,0,Medium,Medium,56.24
+Air India,BLR,HYD,18,1,5,9,0,Clear,36,9,9,1,High,High,31.88
+Vistara,GOI,CCU,5,12,6,4,1,Clear,25,23,8,15,High,Medium,58.16
+SpiceJet,CCU,MAA,13,8,3,3,1,Rain,14,25,3,1,Medium,High,54.64
+GoAir,BLR,CCU,19,15,1,2,0,Storm,13,29,8,15,High,High,71.18
+Vistara,GOI,BLR,5,4,1,5,1,Fog,35,25,4,19,High,Medium,72.05
+GoAir,MAA,DEL,16,22,2,4,1,Thunderstorm,19,21,6,15,Low,Low,93.73
+Air India,CCU,CCU,9,20,1,8,0,Clear,22,15,2,5,Medium,High,19.8
+GoAir,GOI,BOM,0,6,5,7,1,Rain,19,2,8,12,High,Low,67.81
+GoAir,HYD,DEL,2,12,5,6,0,Rain,23,10,9,11,High,High,20.97
+IndiGo,GOI,BLR,7,19,5,11,1,Rain,35,24,7,9,High,Low,68.38
+IndiGo,DEL,CCU,7,23,1,12,1,Thunderstorm,31,9,8,4,Medium,Low,77.65
+IndiGo,MAA,MAA,19,12,1,2,1,Thunderstorm,21,15,7,7,Low,Medium,103.67
+GoAir,GOI,BLR,21,6,5,3,1,Clear,36,7,4,5,Low,Low,33.96
+SpiceJet,BOM,BOM,14,9,1,10,1,Thunderstorm,10,8,1,4,Medium,High,67.3
+GoAir,BOM,CCU,23,14,1,9,0,Clear,38,14,3,19,Medium,Low,21.23
+SpiceJet,DEL,GOI,6,20,3,9,1,Thunderstorm,30,20,7,5,Medium,Low,59.39
+SpiceJet,HYD,GOI,10,5,0,5,1,Thunderstorm,39,2,7,16,Medium,Low,94.67
+IndiGo,MAA,HYD,6,4,4,3,0,Thunderstorm,29,3,3,5,Low,High,66.79
+Vistara,BLR,DEL,3,22,1,2,0,Clear,29,29,1,16,High,High,33.17
+Air India,DEL,MAA,11,1,4,8,1,Fog,16,12,9,4,High,High,86.23
+IndiGo,HYD,HYD,5,20,6,6,0,Clear,18,11,6,16,Medium,Low,23.4
+IndiGo,BLR,CCU,13,14,4,10,1,Fog,17,20,7,16,Medium,Medium,84.77
+Vistara,BOM,GOI,11,15,3,11,0,Rain,36,8,1,12,High,High,33.22
+Air India,BOM,GOI,10,18,1,12,0,Rain,22,24,1,6,Low,Low,47.68
+GoAir,BLR,GOI,18,8,5,7,1,Clear,23,13,4,5,Medium,High,29.11
+GoAir,DEL,CCU,20,21,4,1,0,Fog,21,18,7,13,Medium,Medium,80.56
+IndiGo,BOM,GOI,4,18,1,1,1,Fog,17,6,8,15,Low,Low,97.45
+Air India,MAA,BLR,13,6,2,10,0,Fog,30,15,9,2,Low,High,62.37
+IndiGo,CCU,CCU,20,3,6,2,0,Rain,31,21,1,8,Low,High,48.41
+SpiceJet,GOI,MAA,23,2,5,10,0,Clear,27,19,4,14,Medium,Medium,37.76
+IndiGo,BLR,HYD,15,23,2,3,1,Storm,25,4,4,17,Low,High,126.74
+IndiGo,BLR,MAA,12,19,2,12,1,Fog,38,29,3,9,Medium,Low,83.43
+GoAir,BOM,BOM,21,10,4,1,0,Fog,20,9,7,9,Medium,Low,54.17
+GoAir,DEL,GOI,21,0,2,5,1,Storm,25,17,1,2,Low,Medium,81.45
+GoAir,MAA,BOM,19,5,3,3,1,Clear,23,10,9,0,High,Medium,55.78
+SpiceJet,DEL,DEL,21,10,3,1,1,Fog,12,6,8,2,Low,Medium,89.7
+GoAir,HYD,DEL,3,0,4,8,0,Clear,30,13,2,4,High,Low,10.76
+Air India,HYD,BOM,10,20,1,12,1,Fog,11,19,2,6,Low,Medium,78.65
+Vistara,CCU,CCU,16,6,0,11,0,Thunderstorm,12,17,8,2,Low,High,100.51
+Air India,BOM,MAA,6,5,1,6,0,Fog,13,10,1,3,Medium,High,81.58
+Air India,BOM,BOM,13,13,1,9,0,Thunderstorm,31,21,7,16,Medium,Low,47.99
+GoAir,BOM,DEL,10,1,1,3,0,Clear,14,26,9,2,Medium,High,16.26
+Vistara,CCU,BOM,21,3,1,9,0,Fog,19,11,3,3,Medium,Medium,51.32
+Vistara,HYD,CCU,8,10,5,9,1,Rain,29,17,7,1,Medium,High,38.86
+Vistara,DEL,BOM,22,14,0,12,1,Rain,38,25,6,13,Medium,Medium,50.32
+SpiceJet,CCU,MAA,12,17,5,12,0,Storm,11,1,7,4,Medium,High,89.03
+GoAir,CCU,HYD,22,0,2,1,1,Rain,21,22,7,1,High,Low,48.5
+Vistara,DEL,CCU,17,2,6,3,1,Thunderstorm,36,0,1,14,High,Medium,93.4
+SpiceJet,BOM,DEL,10,2,1,6,1,Rain,14,22,3,10,Medium,High,49.43
+IndiGo,MAA,MAA,14,6,6,8,1,Rain,14,9,1,9,High,Low,46.54
+IndiGo,DEL,BOM,21,0,3,4,1,Rain,36,20,5,19,Low,High,60.26
+SpiceJet,HYD,BOM,18,10,4,5,1,Fog,32,0,3,0,High,Low,69.52
+SpiceJet,BLR,HYD,0,5,4,9,1,Storm,10,5,1,18,Medium,High,95.92
+GoAir,BLR,DEL,3,19,5,6,0,Clear,13,6,2,13,High,Medium,43.2
+GoAir,GOI,DEL,13,2,5,12,0,Storm,36,16,5,13,Low,Medium,66.09
+IndiGo,GOI,BLR,13,18,3,7,0,Thunderstorm,30,8,3,0,High,Medium,64.37
+Vistara,CCU,DEL,2,1,1,7,1,Fog,33,6,6,8,Medium,Medium,57.58
+IndiGo,BLR,HYD,16,17,6,4,1,Fog,21,16,9,16,Low,Medium,77.81
+Vistara,MAA,GOI,2,11,6,4,0,Rain,21,2,6,13,Low,High,40.84
+Vistara,BOM,BLR,15,9,0,4,1,Rain,25,15,2,12,High,High,26.45
+GoAir,HYD,BLR,13,4,2,11,1,Thunderstorm,33,4,2,12,Low,High,104.96
+Air India,GOI,BOM,19,8,4,5,0,Fog,26,19,8,5,Low,High,62.46
+Air India,MAA,BOM,12,1,2,5,0,Clear,30,17,8,6,Low,Medium,33.82
+SpiceJet,HYD,DEL,14,1,0,8,0,Storm,19,0,6,1,Medium,Low,50.26
+GoAir,HYD,BLR,13,5,5,9,1,Fog,26,3,7,7,Low,Medium,108.19
+Vistara,BOM,BOM,23,9,6,2,1,Clear,26,22,1,5,High,High,64.23
+Air India,CCU,HYD,18,17,4,11,1,Clear,27,10,9,2,High,Medium,48.14
+Vistara,BLR,BOM,5,11,2,7,0,Storm,11,19,5,17,Low,Medium,76.06
+Air India,BOM,CCU,9,3,5,1,0,Clear,34,8,9,17,High,Medium,64.37
+Air India,MAA,CCU,14,21,0,1,1,Thunderstorm,13,29,2,5,Low,Low,71.44
+Air India,CCU,BOM,20,20,2,4,0,Clear,28,7,8,10,High,Medium,22.44
+GoAir,MAA,BLR,21,16,6,10,0,Thunderstorm,20,7,7,2,Low,Medium,46.18
+IndiGo,CCU,GOI,19,14,1,7,1,Clear,26,4,4,15,Low,Low,59.85
+Vistara,GOI,GOI,5,5,5,2,0,Rain,21,11,3,4,Low,Medium,15.18
+GoAir,MAA,BLR,22,15,0,11,0,Clear,11,0,4,1,Medium,Medium,19.85
+GoAir,BOM,MAA,9,16,2,2,0,Thunderstorm,15,14,4,14,High,Medium,60.08
+GoAir,CCU,GOI,6,2,6,1,1,Clear,18,24,8,15,Low,Medium,53.53
+GoAir,CCU,CCU,21,9,1,10,1,Clear,14,17,4,6,Medium,Medium,52.51
+GoAir,HYD,HYD,16,4,1,2,0,Clear,29,5,5,15,Medium,High,36.77
+SpiceJet,HYD,BLR,17,13,0,7,1,Thunderstorm,38,9,2,3,Low,Medium,85.54
+Vistara,DEL,DEL,16,20,3,9,1,Clear,30,13,4,15,Low,Low,46.64
+GoAir,MAA,CCU,8,12,6,6,1,Storm,18,20,7,16,Low,Medium,67.45
+Vistara,HYD,HYD,9,5,6,10,0,Storm,37,25,3,1,Low,High,81.68
+SpiceJet,DEL,HYD,9,11,4,2,1,Thunderstorm,38,28,1,15,Low,Low,135.66
+SpiceJet,GOI,BLR,6,7,0,12,0,Rain,32,7,8,3,High,Low,36.71
+Vistara,GOI,HYD,15,4,1,10,0,Storm,17,26,8,6,Low,Medium,52.74
+Air India,HYD,BLR,17,14,1,10,1,Fog,29,2,6,17,Low,High,82.38
+IndiGo,MAA,GOI,5,15,0,9,0,Storm,36,21,7,5,High,Medium,59.87
+Air India,CCU,BOM,19,0,3,7,1,Fog,17,21,2,17,Medium,High,77.77
+Air India,BLR,CCU,0,15,4,11,1,Thunderstorm,31,25,5,6,High,High,75.17
+Air India,MAA,MAA,0,4,2,1,0,Rain,30,18,7,1,Medium,Medium,21.9
+GoAir,BOM,BOM,11,2,0,12,0,Fog,38,11,9,18,Medium,High,63.79
+SpiceJet,GOI,CCU,20,19,4,9,1,Fog,37,11,1,8,High,Medium,75.41
+Air India,HYD,BLR,1,14,6,2,1,Storm,32,14,3,3,Low,High,57.15
+SpiceJet,HYD,CCU,3,12,4,4,1,Fog,15,27,6,13,Medium,Low,65.27
+Vistara,CCU,GOI,16,23,5,9,1,Thunderstorm,12,6,7,4,Low,Medium,75.23
+IndiGo,BOM,BLR,3,15,1,4,0,Thunderstorm,14,26,6,6,High,High,56.28
+Vistara,CCU,BOM,10,22,2,3,0,Thunderstorm,18,3,1,7,Medium,Low,58.75
+Vistara,BOM,DEL,21,10,0,1,0,Storm,16,20,4,14,Low,Low,41.22
+GoAir,BLR,DEL,3,20,1,7,1,Rain,37,8,6,18,Medium,Low,18.93
+IndiGo,GOI,CCU,0,1,5,6,0,Storm,13,21,8,10,Medium,Low,70.14
+Vistara,HYD,DEL,6,21,5,10,0,Thunderstorm,16,15,4,19,High,Medium,73.13
+Vistara,HYD,BLR,17,5,1,4,0,Storm,14,25,7,3,Low,High,49.93
+IndiGo,BLR,HYD,8,5,3,6,0,Thunderstorm,20,12,3,17,Low,Low,54.59
+IndiGo,DEL,BLR,2,13,4,6,1,Clear,38,3,8,13,Medium,High,37.71
+Vistara,GOI,HYD,7,10,0,4,0,Clear,24,23,1,5,Low,High,43.86
+IndiGo,CCU,BOM,23,7,0,6,0,Fog,11,8,4,15,Medium,High,91.37
+Vistara,BLR,MAA,18,7,0,10,0,Rain,22,25,8,17,High,Medium,55.85
+Vistara,CCU,HYD,3,0,1,11,0,Clear,31,20,4,0,High,Medium,13.44
+GoAir,MAA,DEL,17,20,6,8,1,Thunderstorm,25,17,2,7,Low,Low,81.82
+Air India,HYD,BLR,19,6,3,3,1,Storm,16,14,2,0,High,High,33.7
+Vistara,CCU,BOM,10,5,2,4,0,Storm,17,14,4,0,High,Medium,54.15
+SpiceJet,BOM,DEL,13,20,5,10,1,Fog,15,5,4,18,Low,Medium,92.4
+Air India,CCU,BOM,17,7,1,12,1,Storm,33,10,2,9,Medium,Medium,66.58
+Air India,MAA,MAA,15,18,6,1,1,Clear,16,27,7,17,High,Low,55.56
+Air India,GOI,GOI,2,21,2,4,1,Storm,27,7,6,11,Low,Medium,68.89
+GoAir,HYD,BLR,14,20,5,11,0,Clear,39,28,3,16,Low,High,35.13
+Vistara,BLR,CCU,3,23,5,10,1,Clear,31,20,8,0,Low,Medium,41.15
+GoAir,MAA,BLR,4,19,3,10,1,Rain,34,16,8,7,High,Medium,78.05
+Vistara,HYD,MAA,16,7,4,12,0,Fog,37,23,1,9,High,Low,103.14
+GoAir,CCU,BLR,6,13,0,9,0,Thunderstorm,31,24,3,9,Medium,High,96.85
+GoAir,GOI,CCU,15,17,2,8,0,Clear,29,16,5,17,Medium,Medium,14.97
+SpiceJet,DEL,HYD,13,15,1,11,0,Fog,16,23,2,8,Medium,High,92.55
+GoAir,GOI,BOM,15,8,2,4,1,Thunderstorm,12,25,5,1,Medium,High,114.66
+IndiGo,DEL,CCU,6,14,4,12,0,Storm,14,27,3,2,Medium,Medium,52.11
+SpiceJet,BOM,DEL,8,9,0,7,1,Fog,10,17,9,1,Medium,Low,91.27
+GoAir,GOI,MAA,3,21,2,10,1,Fog,24,3,1,5,Low,High,96.95
+Air India,HYD,HYD,21,15,4,3,0,Fog,35,28,4,11,Medium,Medium,50.66
+IndiGo,DEL,DEL,10,3,1,9,0,Storm,12,14,6,18,High,High,69.84
+IndiGo,BLR,DEL,1,19,3,10,1,Storm,17,1,9,14,Medium,High,79.48
+IndiGo,HYD,MAA,11,12,6,4,1,Fog,34,1,3,18,High,High,109.61
+SpiceJet,BLR,HYD,11,21,5,2,0,Rain,18,9,3,11,Medium,Medium,23.05
+GoAir,GOI,GOI,3,4,1,10,0,Clear,24,2,5,17,Low,High,34.75
+GoAir,BLR,DEL,17,21,0,5,0,Storm,19,29,7,15,Low,High,92.74
+Air India,DEL,DEL,20,6,5,2,1,Rain,11,7,5,1,High,Low,32.77
+Air India,HYD,HYD,6,22,6,10,1,Storm,29,19,8,10,Medium,Medium,112.92
+IndiGo,CCU,BLR,0,8,1,6,0,Fog,14,6,5,11,Low,Medium,52.85
+Air India,MAA,DEL,22,7,1,11,1,Rain,28,11,7,4,Low,High,56.09
+SpiceJet,DEL,BOM,12,15,1,10,0,Thunderstorm,22,25,6,5,Medium,Low,54.23
+GoAir,DEL,HYD,5,5,1,1,1,Clear,20,18,2,10,High,High,99.72
+IndiGo,CCU,DEL,5,15,5,6,1,Clear,10,25,3,9,High,High,49.9
+Air India,HYD,MAA,11,5,0,4,0,Storm,31,27,4,3,High,Medium,55.58
+SpiceJet,HYD,CCU,7,13,6,3,0,Clear,39,29,5,8,Low,Low,12.35
+SpiceJet,GOI,BOM,23,20,4,2,0,Thunderstorm,24,14,9,11,Medium,High,82.03
+Air India,BLR,CCU,21,0,2,7,1,Rain,35,13,6,9,Low,Medium,51.0
+GoAir,GOI,CCU,18,8,3,9,1,Rain,27,15,1,13,Low,High,56.22
+Air India,CCU,DEL,4,23,6,12,0,Fog,25,28,3,4,Low,High,71.29
+IndiGo,GOI,BOM,17,12,2,3,1,Rain,18,26,7,0,Low,Low,22.48
+Air India,CCU,BOM,4,18,2,6,0,Storm,10,13,8,4,Medium,Low,44.14
+SpiceJet,HYD,BLR,9,16,3,9,1,Thunderstorm,20,2,7,15,Low,Low,95.25
+Air India,BLR,CCU,0,10,6,2,0,Fog,18,17,5,4,Low,High,79.26
+GoAir,GOI,BOM,9,7,5,7,1,Storm,32,28,8,4,High,Low,88.53
+Vistara,DEL,BLR,4,22,0,5,1,Storm,20,27,9,17,Low,Medium,96.9
+Air India,BOM,HYD,11,4,3,5,1,Storm,22,21,7,5,Medium,High,64.35
+GoAir,MAA,BLR,21,9,0,11,1,Clear,35,5,9,17,Low,Low,41.12
+GoAir,DEL,MAA,6,6,5,7,0,Storm,11,16,1,9,Medium,High,89.68
+SpiceJet,HYD,GOI,8,9,2,9,1,Clear,23,22,9,14,Medium,High,55.51
+GoAir,MAA,DEL,21,3,0,4,0,Rain,15,27,3,10,Medium,Medium,31.52
+GoAir,BOM,HYD,20,8,5,9,0,Clear,17,13,6,18,High,Medium,42.63
+GoAir,BOM,GOI,11,13,5,11,0,Storm,27,13,8,12,High,Medium,69.25
+GoAir,BLR,GOI,22,1,4,10,0,Thunderstorm,25,19,3,19,Low,High,89.97
+IndiGo,MAA,HYD,0,8,3,9,1,Thunderstorm,30,12,4,2,Low,High,99.65
+IndiGo,BLR,MAA,10,20,4,4,0,Rain,38,26,7,15,Low,Medium,20.0
+SpiceJet,DEL,BLR,20,0,2,3,1,Storm,21,27,7,6,Medium,High,123.94
+Air India,CCU,DEL,14,22,3,2,1,Clear,20,2,4,11,Medium,Medium,54.14
+GoAir,CCU,BLR,1,9,2,9,1,Thunderstorm,15,12,9,14,Medium,Medium,94.62
+Air India,CCU,BOM,19,9,4,12,1,Fog,12,28,3,7,Low,Low,89.59
+Air India,MAA,BLR,6,19,6,2,0,Storm,23,23,8,16,Low,Medium,61.64
+SpiceJet,CCU,HYD,20,21,5,6,1,Storm,37,1,8,0,Low,Low,83.01
+GoAir,DEL,DEL,11,2,2,5,0,Fog,11,8,4,7,Low,Medium,80.46
+GoAir,BLR,BLR,21,5,3,5,1,Thunderstorm,20,12,7,13,High,High,121.59
+Vistara,MAA,DEL,17,5,3,4,1,Fog,31,7,4,9,High,Low,74.21
+Air India,BLR,DEL,2,20,2,6,0,Rain,12,15,1,18,High,High,39.31
+Air India,MAA,BOM,6,1,3,5,1,Clear,27,23,1,7,Low,High,76.77
+IndiGo,BLR,BOM,10,17,5,11,1,Clear,10,28,1,18,High,Medium,45.79
+Vistara,BOM,HYD,17,22,6,4,1,Thunderstorm,39,2,2,3,High,Medium,69.8
+IndiGo,BLR,MAA,11,1,5,9,1,Fog,33,12,6,9,Low,High,103.96
+IndiGo,CCU,GOI,5,11,3,6,1,Storm,10,3,5,2,High,Medium,78.81
+IndiGo,BOM,DEL,4,21,2,11,0,Storm,21,17,2,3,Low,Medium,42.0
+SpiceJet,BLR,MAA,0,4,4,10,1,Storm,24,1,8,15,Low,Medium,100.22
+SpiceJet,MAA,GOI,11,19,3,10,1,Rain,14,19,9,3,Low,High,52.74
+IndiGo,MAA,GOI,10,6,3,10,0,Rain,36,21,7,19,Medium,Low,17.49
+Vistara,MAA,HYD,3,23,3,3,1,Storm,15,20,9,19,Low,Low,130.6
+Air India,HYD,GOI,17,15,3,10,0,Thunderstorm,25,14,4,12,High,High,104.12
+Vistara,DEL,GOI,3,19,2,6,1,Rain,36,16,7,16,High,Medium,78.15
+GoAir,MAA,DEL,16,0,4,1,1,Rain,21,28,5,15,Low,Medium,35.88
+SpiceJet,BOM,DEL,1,0,4,5,0,Clear,21,9,5,16,Medium,Low,37.46
+Air India,MAA,CCU,23,16,0,10,1,Clear,12,0,3,5,Medium,High,38.46
+Air India,HYD,MAA,21,0,3,6,1,Thunderstorm,39,5,9,2,Medium,High,91.76
+GoAir,CCU,BLR,1,20,3,11,0,Rain,32,2,5,19,High,Medium,30.25
+GoAir,BOM,BOM,11,19,0,8,0,Rain,11,18,6,3,Medium,Medium,8.92
+IndiGo,HYD,BLR,5,12,4,11,1,Fog,16,6,3,7,Medium,Medium,66.17
+SpiceJet,CCU,MAA,9,8,1,9,0,Thunderstorm,11,12,7,19,Low,High,84.44
+SpiceJet,GOI,BOM,22,14,5,11,1,Thunderstorm,30,12,9,8,Medium,Low,90.78
+Vistara,GOI,BLR,20,2,1,3,0,Fog,16,16,9,0,Medium,High,54.07
+IndiGo,BOM,CCU,22,13,4,2,1,Fog,20,0,5,12,Medium,High,113.35
+IndiGo,BLR,BOM,15,22,6,4,0,Clear,20,13,7,1,Low,High,21.34
+IndiGo,DEL,DEL,13,10,3,8,0,Thunderstorm,23,28,3,9,Low,Low,30.34
+IndiGo,DEL,BLR,6,23,1,11,0,Thunderstorm,12,25,6,18,Medium,Medium,32.49
+SpiceJet,HYD,BOM,18,21,2,8,0,Fog,23,2,8,16,High,Medium,71.83
+SpiceJet,CCU,CCU,22,11,2,3,0,Storm,20,13,8,12,High,High,43.69
+IndiGo,DEL,GOI,16,12,0,4,0,Storm,13,23,2,13,Low,High,81.63
+Vistara,CCU,BOM,8,12,4,3,0,Clear,26,0,6,10,Medium,Low,24.77
+Air India,CCU,BOM,12,0,4,10,0,Storm,25,15,7,9,High,Low,65.39
+Air India,HYD,CCU,21,23,1,2,0,Storm,12,9,7,6,Medium,Medium,34.52
+Vistara,HYD,GOI,4,9,3,4,1,Storm,34,12,3,9,Low,High,89.47
+IndiGo,HYD,BLR,22,2,4,6,0,Rain,19,3,9,0,High,Low,26.72
+SpiceJet,DEL,HYD,4,23,1,11,1,Clear,30,8,2,13,Low,Low,47.13
+Air India,GOI,BLR,9,3,1,11,0,Fog,24,13,3,2,Medium,High,74.64
+GoAir,HYD,GOI,20,15,5,5,1,Storm,17,3,2,12,Low,High,87.39
+GoAir,DEL,MAA,9,7,5,3,1,Rain,27,9,9,1,Low,High,36.52
+Vistara,HYD,CCU,6,15,4,2,0,Storm,12,7,4,16,Low,High,91.91
+IndiGo,MAA,BLR,14,16,1,9,0,Rain,16,22,2,2,Low,High,26.45
+Air India,CCU,BOM,6,18,0,1,1,Clear,39,2,3,14,High,High,64.37
+IndiGo,HYD,CCU,14,21,0,9,1,Storm,19,22,4,7,Medium,Low,84.7
+Air India,BOM,DEL,2,14,5,1,0,Rain,29,6,6,5,High,High,34.68
+Vistara,CCU,GOI,18,15,4,7,0,Thunderstorm,18,9,5,8,Medium,Medium,72.4
+Vistara,CCU,BLR,9,14,3,6,0,Thunderstorm,23,2,3,10,Medium,High,62.97
+GoAir,HYD,CCU,14,1,6,7,1,Rain,32,1,8,1,Medium,Medium,32.6
+IndiGo,GOI,BLR,2,10,0,3,0,Storm,23,14,8,8,Medium,Medium,41.9
+GoAir,BLR,CCU,5,0,0,3,0,Storm,20,8,7,17,Medium,Medium,101.29
+IndiGo,GOI,BOM,11,14,5,11,0,Clear,37,14,3,18,High,High,27.95
+GoAir,HYD,DEL,14,18,5,1,0,Clear,10,16,1,17,Medium,High,44.1
+SpiceJet,CCU,DEL,5,3,4,4,0,Fog,13,29,5,4,Low,Medium,26.07
+SpiceJet,BOM,MAA,12,10,5,12,1,Clear,35,6,1,17,High,High,55.65
+SpiceJet,CCU,CCU,18,4,2,2,1,Storm,36,19,6,11,High,Low,88.62
+SpiceJet,GOI,BLR,2,2,6,10,0,Fog,15,17,7,3,Medium,Low,69.94
+Air India,BOM,DEL,7,12,1,8,0,Clear,31,14,5,14,Low,Low,17.7
+SpiceJet,DEL,GOI,7,9,0,3,1,Rain,35,17,4,10,Low,Low,51.08
+Vistara,MAA,DEL,22,10,2,7,0,Thunderstorm,31,23,2,18,Medium,High,73.8
+Vistara,CCU,HYD,19,17,3,7,1,Clear,14,22,5,4,Medium,Medium,18.47
+Air India,HYD,HYD,14,1,2,12,0,Clear,12,11,9,5,Low,High,47.47
+SpiceJet,DEL,DEL,3,6,4,9,1,Rain,11,22,4,12,High,Low,54.25
+SpiceJet,MAA,CCU,18,8,3,6,1,Storm,12,20,2,9,High,High,68.79
+SpiceJet,HYD,MAA,20,9,3,1,0,Rain,18,29,6,13,Medium,High,29.0
+GoAir,BLR,DEL,2,17,5,8,1,Clear,28,25,8,3,High,Low,45.68
+IndiGo,HYD,BOM,12,22,2,1,0,Storm,28,7,2,19,High,Medium,73.23
+GoAir,BOM,BLR,7,6,4,3,1,Fog,26,29,9,11,Low,High,101.29
+IndiGo,BOM,MAA,22,6,0,11,0,Clear,27,1,7,14,High,High,22.87
+SpiceJet,BLR,BOM,15,2,6,5,0,Rain,20,1,2,9,Low,Low,4.58
+SpiceJet,DEL,MAA,12,11,5,8,0,Fog,21,4,5,10,Medium,Medium,60.4
+GoAir,MAA,BOM,2,6,2,9,1,Thunderstorm,12,0,5,8,Medium,Low,56.16
+GoAir,HYD,BLR,15,16,0,7,0,Fog,27,21,7,10,Low,Low,82.26
+IndiGo,BOM,BLR,8,0,2,9,0,Rain,33,3,5,1,Low,High,36.33
+Vistara,DEL,HYD,13,4,5,11,0,Fog,15,5,6,12,Medium,Medium,60.86
+IndiGo,BLR,CCU,12,15,0,3,1,Rain,16,22,9,7,Low,Low,25.78
+GoAir,GOI,BOM,20,14,5,5,0,Clear,10,12,3,7,Medium,High,20.29
+GoAir,CCU,HYD,6,1,2,10,1,Storm,15,18,3,0,Medium,Low,54.4
+Air India,GOI,BOM,14,8,3,8,1,Thunderstorm,27,10,8,5,Medium,High,79.33
+GoAir,GOI,HYD,6,6,6,12,1,Storm,22,12,6,12,Medium,Medium,84.57
+Air India,BOM,BLR,5,3,1,1,0,Storm,31,7,3,8,Medium,Low,50.56
+Vistara,BLR,MAA,1,19,6,8,0,Storm,28,6,2,5,Medium,Medium,69.99
+IndiGo,HYD,GOI,8,17,3,7,1,Rain,16,12,2,14,High,Medium,45.36
+IndiGo,GOI,HYD,21,20,5,1,0,Rain,28,0,2,15,High,High,37.12
+Air India,GOI,BOM,23,3,6,10,0,Thunderstorm,18,5,5,3,Medium,Low,60.84
+IndiGo,MAA,BOM,16,12,5,12,1,Rain,12,6,5,16,High,Low,67.5
+GoAir,BOM,GOI,4,0,5,10,1,Rain,32,15,1,8,Low,High,58.33
+SpiceJet,BOM,CCU,11,23,0,12,0,Rain,21,29,2,11,Low,High,30.9
+Air India,HYD,BLR,0,2,4,6,1,Rain,29,26,2,18,Medium,Medium,39.33
+IndiGo,CCU,BOM,9,15,5,1,0,Clear,33,14,4,19,High,Low,41.25
+Air India,DEL,DEL,10,21,6,2,1,Thunderstorm,39,19,7,11,Low,Low,72.87
+Air India,MAA,MAA,15,3,6,5,0,Rain,27,29,3,5,Low,High,44.51
+SpiceJet,BOM,HYD,13,22,6,2,0,Thunderstorm,17,1,5,11,Low,High,72.35
+GoAir,MAA,CCU,7,15,3,10,1,Fog,18,25,9,8,Low,High,109.6
+Air India,BOM,GOI,23,18,1,1,0,Clear,22,24,5,19,High,Low,18.99
+IndiGo,MAA,MAA,16,0,5,6,0,Rain,17,22,9,4,Low,Low,6.57
+Vistara,BLR,BLR,17,4,5,8,1,Clear,31,15,1,2,Low,Medium,37.65
+Air India,GOI,CCU,11,18,5,8,0,Clear,19,16,9,1,Low,High,19.36
+Air India,BOM,HYD,16,21,0,8,0,Fog,26,23,5,7,Medium,Medium,47.64
+SpiceJet,MAA,HYD,13,23,5,11,0,Thunderstorm,16,14,8,9,Low,Low,64.87
+GoAir,DEL,GOI,15,10,3,6,1,Clear,26,2,5,14,Low,Medium,35.79
+Vistara,BLR,DEL,13,12,2,11,1,Storm,32,3,6,8,High,Medium,85.74
+IndiGo,BLR,GOI,8,19,4,3,1,Fog,39,11,8,9,Low,Medium,68.2
+Vistara,DEL,BLR,3,4,6,1,1,Storm,27,4,2,10,Low,High,109.49
+IndiGo,MAA,CCU,22,20,5,2,1,Fog,33,16,3,8,Low,Low,79.36
+GoAir,HYD,CCU,10,3,0,5,0,Storm,11,5,9,13,Medium,High,80.14
+IndiGo,DEL,BOM,5,3,3,10,0,Storm,12,9,5,4,High,Medium,78.47
+SpiceJet,MAA,DEL,14,3,5,5,0,Clear,38,21,5,8,High,High,47.31
+SpiceJet,DEL,DEL,4,3,0,10,1,Clear,37,17,9,3,Medium,Low,38.05
+SpiceJet,DEL,CCU,10,19,2,1,0,Fog,28,26,3,1,Medium,Low,56.84
+SpiceJet,BOM,CCU,17,20,1,1,1,Thunderstorm,10,9,4,18,High,Medium,76.42
+Vistara,MAA,MAA,12,17,5,9,0,Clear,30,5,7,0,Low,Medium,3.83
+GoAir,HYD,MAA,10,17,3,2,1,Clear,30,23,2,0,High,High,29.42
+IndiGo,GOI,MAA,13,15,0,7,0,Rain,19,5,8,11,Medium,Low,15.67
+IndiGo,BOM,DEL,17,8,0,10,0,Clear,30,19,5,10,Low,Low,26.37
+SpiceJet,DEL,BOM,18,17,5,4,1,Thunderstorm,23,14,1,0,High,High,65.44
+SpiceJet,GOI,HYD,23,21,0,7,0,Rain,22,3,3,13,Low,Low,28.4
+Air India,CCU,MAA,14,1,1,8,0,Storm,18,24,9,10,Low,Medium,68.97
+GoAir,GOI,BOM,8,20,0,5,1,Storm,15,15,5,6,Medium,Medium,92.7
+Vistara,DEL,GOI,7,3,6,12,0,Rain,15,21,8,1,High,High,32.56
+IndiGo,DEL,BLR,19,11,4,12,0,Rain,28,23,1,14,Medium,High,12.62
+Air India,MAA,MAA,0,6,6,1,1,Rain,30,7,7,7,High,High,57.46
+Air India,MAA,GOI,3,14,4,4,1,Fog,19,6,7,19,High,Medium,110.88
+IndiGo,BOM,HYD,13,6,0,10,1,Thunderstorm,32,18,8,14,Low,High,77.01
+Vistara,HYD,BLR,1,21,5,3,1,Thunderstorm,12,25,3,7,Low,Low,96.0
+Air India,BOM,BLR,15,20,4,10,1,Storm,27,16,1,9,Low,High,113.25
+Air India,BLR,HYD,2,16,3,12,0,Storm,30,20,9,18,Medium,Low,82.02
+GoAir,DEL,MAA,7,15,4,5,1,Storm,28,12,1,2,Low,Medium,67.68
+Vistara,GOI,DEL,5,18,6,10,1,Clear,14,14,6,19,Medium,Low,36.31
+Air India,CCU,HYD,15,8,0,10,0,Storm,34,25,9,13,Low,Low,87.35
+Vistara,DEL,HYD,23,13,5,6,0,Rain,20,25,2,8,Medium,Low,29.0
+IndiGo,DEL,HYD,15,16,2,2,0,Storm,19,1,4,8,High,Medium,83.01
+SpiceJet,BOM,BLR,6,4,5,7,0,Rain,26,27,2,5,Medium,Low,0.0
+Air India,CCU,BOM,12,1,5,3,0,Fog,13,9,4,7,Medium,Low,69.81
+GoAir,CCU,GOI,12,19,5,1,1,Clear,35,12,2,10,Medium,High,70.44
+IndiGo,CCU,DEL,4,15,3,10,0,Clear,30,17,1,7,High,High,43.15
+Vistara,BOM,MAA,19,13,1,3,1,Thunderstorm,27,29,3,11,Medium,High,113.09
+IndiGo,DEL,MAA,21,13,6,9,0,Fog,37,22,8,9,High,Low,86.37
+Air India,BOM,GOI,17,0,0,10,1,Rain,27,10,5,3,Low,Low,51.49
+Vistara,MAA,BOM,14,2,1,11,0,Fog,10,12,4,15,Low,Medium,33.28
+SpiceJet,MAA,HYD,17,6,2,11,1,Clear,23,18,5,19,High,Low,35.11
+IndiGo,BOM,DEL,1,14,1,6,1,Rain,17,28,6,5,Medium,Low,15.01
+Air India,CCU,MAA,9,18,0,11,1,Fog,11,23,6,8,Low,Medium,84.5
+GoAir,DEL,GOI,22,19,6,6,1,Clear,28,24,5,4,Medium,Low,0.59
+Vistara,BOM,CCU,12,1,6,4,1,Rain,24,29,6,5,Medium,Medium,57.47
+IndiGo,BOM,GOI,17,18,0,8,1,Rain,37,28,9,16,High,Medium,26.73
+IndiGo,BOM,MAA,14,8,2,5,1,Clear,11,23,5,16,Low,High,52.37
+SpiceJet,BLR,HYD,11,18,0,7,1,Rain,13,21,6,12,High,Low,45.46
+SpiceJet,MAA,CCU,14,4,2,9,1,Clear,39,4,4,16,High,High,37.92
+GoAir,GOI,BOM,12,17,2,5,1,Storm,10,2,3,13,High,Low,73.18
+GoAir,CCU,DEL,17,15,0,11,0,Storm,28,18,6,1,High,High,71.14
+Air India,HYD,BOM,14,3,4,5,1,Rain,30,22,5,18,Medium,Medium,41.12
+Air India,GOI,BOM,22,11,6,4,1,Rain,19,12,4,2,Low,Medium,49.25
+GoAir,CCU,GOI,10,6,2,6,0,Clear,10,4,5,1,Low,Medium,13.39
+GoAir,HYD,DEL,18,13,0,2,1,Rain,29,11,7,1,Low,Medium,33.59
+Vistara,BLR,DEL,2,22,4,3,1,Thunderstorm,31,13,1,6,Medium,Low,92.74
+SpiceJet,BOM,MAA,6,11,6,1,0,Storm,24,5,1,3,Medium,Low,52.3
+Air India,BLR,MAA,20,2,2,2,0,Rain,13,29,1,16,High,High,47.49
+SpiceJet,BLR,DEL,13,4,6,2,1,Rain,16,21,2,5,High,Low,66.86
+SpiceJet,GOI,CCU,13,16,4,8,0,Fog,39,8,9,6,High,Low,82.26
+GoAir,DEL,BLR,21,9,6,8,1,Rain,16,16,5,19,High,High,43.0
+Vistara,GOI,MAA,12,9,3,2,1,Thunderstorm,31,7,9,5,Low,Medium,94.23
+IndiGo,MAA,BLR,11,10,5,6,1,Storm,34,25,5,8,High,High,89.15
+Vistara,HYD,GOI,23,16,3,5,0,Fog,27,12,7,19,Medium,High,78.58
+Vistara,BOM,CCU,8,4,4,3,1,Clear,22,28,6,3,Medium,Medium,36.77
+SpiceJet,GOI,DEL,0,12,2,5,1,Clear,19,4,2,4,Medium,High,36.05
+Vistara,HYD,CCU,18,9,0,5,0,Storm,33,28,3,18,High,High,52.39
+Air India,CCU,MAA,10,8,1,5,1,Clear,17,21,5,9,Low,High,60.87
+SpiceJet,HYD,BOM,22,16,0,3,1,Thunderstorm,36,21,4,17,Low,Low,90.14
+Air India,CCU,GOI,21,0,6,3,1,Rain,19,16,6,14,High,Medium,54.41
+IndiGo,GOI,DEL,22,3,1,4,1,Storm,23,2,8,0,High,Medium,93.59
+SpiceJet,MAA,HYD,23,3,1,7,1,Fog,23,27,8,4,Medium,High,57.33
+IndiGo,GOI,GOI,21,17,6,12,1,Rain,36,5,3,4,Medium,Low,42.54
+SpiceJet,CCU,BLR,18,8,6,12,0,Clear,29,13,4,7,Low,Medium,23.52
+GoAir,HYD,CCU,17,17,2,12,1,Clear,31,14,1,19,Medium,Medium,34.83
+Vistara,HYD,DEL,11,13,4,2,1,Fog,20,13,2,14,Medium,High,104.83
+GoAir,CCU,GOI,22,14,0,10,0,Thunderstorm,15,10,9,16,High,High,52.72
+IndiGo,BLR,CCU,0,5,4,4,1,Fog,30,10,2,18,Low,High,110.46
+Vistara,MAA,DEL,18,23,3,4,1,Storm,39,8,6,12,High,Medium,93.26
+SpiceJet,DEL,MAA,19,9,2,1,0,Fog,10,5,7,9,Low,High,60.13
+Vistara,BOM,GOI,16,14,2,10,0,Clear,28,14,6,16,High,High,34.46
+Air India,HYD,MAA,4,3,3,8,0,Thunderstorm,16,11,8,4,Low,High,90.27
+Vistara,BOM,GOI,2,17,0,1,0,Thunderstorm,33,28,9,17,Medium,Low,63.09
+Air India,DEL,MAA,1,17,5,8,0,Fog,27,5,8,16,Low,High,58.13
+Vistara,GOI,CCU,2,16,3,7,0,Storm,12,0,5,3,Low,Medium,47.59
+Air India,BOM,HYD,7,11,0,9,0,Clear,29,24,8,6,High,High,57.47
+IndiGo,DEL,GOI,15,6,1,8,1,Rain,39,15,9,4,Low,Medium,38.44
+GoAir,CCU,GOI,5,15,6,5,1,Thunderstorm,20,19,8,7,Low,Low,68.04
+SpiceJet,BLR,MAA,12,10,2,8,1,Fog,14,14,2,7,Low,Low,103.69
+Vistara,HYD,DEL,22,13,0,11,0,Storm,28,1,2,10,High,High,109.36
+GoAir,DEL,GOI,21,2,4,10,1,Storm,30,16,3,8,Low,Medium,98.53
+SpiceJet,BOM,MAA,21,18,6,12,0,Clear,33,2,7,18,High,High,26.47
+SpiceJet,HYD,BOM,15,17,4,12,1,Thunderstorm,33,2,9,18,Medium,High,129.09
+Air India,BLR,MAA,15,9,6,3,1,Clear,39,4,8,8,High,Medium,82.61
+IndiGo,CCU,CCU,2,5,2,10,1,Rain,11,16,9,19,Low,Medium,39.55
+IndiGo,GOI,HYD,12,12,3,7,1,Rain,31,22,6,16,Medium,Medium,73.95
+GoAir,HYD,BOM,13,9,5,12,0,Rain,13,28,1,15,Low,Medium,14.26
+IndiGo,GOI,CCU,7,17,3,4,0,Storm,34,16,4,6,High,Medium,93.1
+Vistara,DEL,CCU,11,19,0,5,1,Thunderstorm,19,19,6,2,Medium,Low,64.98
+IndiGo,BLR,CCU,22,15,3,9,0,Clear,11,5,6,18,Medium,Low,51.37
+GoAir,BOM,DEL,22,5,2,7,0,Clear,17,0,8,7,Medium,Low,38.46
+IndiGo,BLR,CCU,21,12,0,4,1,Rain,10,6,1,4,Low,Medium,51.88
+Vistara,BLR,DEL,20,3,1,6,0,Thunderstorm,36,25,2,5,Medium,Medium,44.18
+Air India,MAA,CCU,7,22,3,10,0,Thunderstorm,15,14,2,1,Medium,Medium,91.22
+GoAir,BLR,BLR,20,13,3,11,0,Fog,20,6,6,18,Medium,High,55.27
+Air India,BLR,BOM,8,0,5,7,0,Thunderstorm,36,18,7,12,Medium,Low,64.37
+Air India,HYD,BLR,0,19,0,10,1,Thunderstorm,39,19,2,5,High,Low,108.25
+Air India,BOM,CCU,5,4,4,9,1,Clear,37,21,5,5,Low,High,62.86
+SpiceJet,HYD,BOM,22,7,3,4,0,Thunderstorm,19,29,6,1,Low,High,64.39
+SpiceJet,HYD,BOM,18,11,2,10,1,Thunderstorm,22,10,4,4,Medium,Low,109.59
+Air India,DEL,GOI,22,1,3,3,1,Clear,10,22,1,10,High,Medium,69.96
+GoAir,HYD,HYD,10,11,5,8,1,Thunderstorm,11,13,3,10,Medium,Low,93.26
+Vistara,MAA,BLR,10,4,1,1,0,Clear,12,12,9,13,Low,Medium,29.09
+Vistara,MAA,HYD,22,21,5,9,0,Fog,18,19,6,12,Low,Low,57.43
+IndiGo,GOI,BOM,12,4,3,1,1,Storm,14,25,2,7,Low,Low,111.47
+GoAir,DEL,DEL,10,12,4,2,1,Clear,19,26,9,14,Medium,High,54.77
+SpiceJet,GOI,BOM,17,8,6,8,0,Clear,19,24,4,11,Medium,High,17.77
+Air India,GOI,HYD,22,9,3,9,1,Thunderstorm,21,8,8,2,High,Medium,94.18
+IndiGo,CCU,BLR,14,0,0,7,0,Clear,27,8,7,4,High,Medium,18.5
+Vistara,BOM,CCU,0,2,3,3,1,Rain,35,15,3,5,Low,Low,27.01
+SpiceJet,BOM,GOI,20,17,4,7,0,Rain,30,11,8,1,Low,High,19.38
+SpiceJet,HYD,GOI,6,11,0,6,0,Fog,30,9,4,7,High,Medium,65.86
+Air India,HYD,GOI,22,2,2,2,0,Clear,10,5,2,4,Low,Medium,23.64
+Vistara,CCU,CCU,12,8,0,3,0,Thunderstorm,12,17,5,16,High,Medium,86.69
+GoAir,HYD,GOI,11,1,5,11,1,Thunderstorm,14,1,1,1,Medium,Low,53.88
+SpiceJet,BOM,BLR,17,2,1,12,0,Storm,34,26,8,10,Low,Medium,97.08
+Air India,GOI,CCU,23,13,5,10,1,Fog,35,19,8,3,Low,Medium,53.03
+GoAir,BLR,GOI,18,3,6,10,0,Thunderstorm,26,8,3,10,High,High,64.18
+Vistara,MAA,CCU,14,18,0,12,0,Storm,17,18,1,8,Medium,High,71.51
+SpiceJet,BLR,HYD,7,12,2,5,1,Thunderstorm,26,5,4,5,Low,High,106.94
+GoAir,BLR,BLR,18,6,3,10,1,Storm,18,1,9,1,Low,Low,91.26
+GoAir,BOM,MAA,9,11,0,4,1,Rain,15,14,9,14,High,High,37.45
+GoAir,BLR,DEL,6,2,5,2,0,Rain,26,16,1,4,Medium,High,48.97
+SpiceJet,CCU,GOI,17,22,0,4,0,Thunderstorm,17,15,7,11,High,High,58.22
+SpiceJet,DEL,DEL,15,22,0,12,1,Fog,30,27,6,12,Medium,High,100.3
+IndiGo,HYD,CCU,19,8,0,8,0,Clear,16,20,7,16,Medium,Medium,25.33
+Vistara,DEL,DEL,5,1,2,5,1,Fog,16,7,7,3,High,Low,88.7
+Air India,GOI,BLR,8,21,4,5,0,Fog,24,9,8,9,High,Medium,65.94
+GoAir,MAA,BLR,20,8,4,12,0,Clear,16,9,8,0,Medium,Medium,19.99
+IndiGo,HYD,BOM,12,11,0,12,0,Rain,31,17,2,10,High,Low,37.1
+Air India,BLR,GOI,20,11,2,10,1,Rain,36,9,4,15,Low,Medium,33.69
+IndiGo,MAA,BOM,7,14,2,3,0,Clear,17,8,4,10,Low,High,42.02
+SpiceJet,HYD,DEL,15,1,6,8,1,Storm,18,27,8,8,Low,Low,72.93
+GoAir,CCU,MAA,12,17,0,6,1,Fog,37,23,3,1,Low,Medium,96.41
+Air India,CCU,BOM,12,12,5,2,0,Thunderstorm,24,18,3,6,Low,Medium,66.12
+Air India,CCU,BOM,16,13,5,2,1,Rain,11,0,2,18,High,High,60.26
+Air India,CCU,BLR,22,4,1,9,1,Thunderstorm,16,3,1,17,Medium,Medium,86.97
+Air India,BLR,MAA,19,9,0,7,0,Clear,24,23,8,19,High,Medium,46.9
+Air India,DEL,CCU,4,11,1,10,1,Thunderstorm,27,2,9,6,Low,Medium,62.37
+IndiGo,HYD,DEL,21,9,5,9,1,Thunderstorm,31,9,9,8,Low,Low,85.36
+GoAir,BLR,BOM,20,23,5,6,0,Fog,27,11,8,11,High,Low,70.81
+SpiceJet,CCU,MAA,16,10,0,5,0,Clear,19,17,5,2,High,Medium,50.96
+SpiceJet,GOI,GOI,8,1,1,12,0,Thunderstorm,31,22,1,15,Medium,Medium,78.49
+SpiceJet,DEL,MAA,1,4,1,1,1,Rain,27,19,9,6,Low,High,54.79
+SpiceJet,GOI,DEL,17,6,0,12,1,Clear,10,5,6,4,High,Low,35.5
+IndiGo,MAA,MAA,8,5,6,6,0,Rain,16,20,7,6,Medium,Low,21.63
+Vistara,GOI,MAA,5,21,1,6,1,Storm,12,1,8,18,Low,Low,71.74
+GoAir,MAA,MAA,10,22,6,3,0,Thunderstorm,23,9,5,16,Low,Medium,97.01
+Air India,MAA,GOI,5,2,3,3,0,Clear,21,1,6,15,Low,High,52.97
+Vistara,CCU,BOM,5,12,5,3,0,Rain,23,29,7,18,High,High,36.42
+SpiceJet,MAA,DEL,12,2,4,3,1,Thunderstorm,38,8,7,17,Low,Medium,93.56
+Vistara,BOM,GOI,10,23,6,7,1,Fog,13,26,2,18,Low,Medium,100.63
+GoAir,HYD,MAA,13,20,6,10,0,Rain,22,9,1,3,Medium,High,34.3
+Air India,HYD,MAA,1,5,6,11,0,Rain,25,1,8,0,High,High,12.57
+Air India,CCU,BOM,7,10,2,2,1,Storm,25,7,5,3,Medium,Low,66.71
+GoAir,BOM,DEL,2,16,1,10,0,Fog,31,23,2,3,High,Medium,34.21
+GoAir,GOI,BLR,22,9,1,10,1,Storm,14,16,3,8,Low,Low,86.91
+SpiceJet,BLR,GOI,20,11,2,2,0,Fog,29,16,6,7,Medium,High,67.58
+Air India,GOI,BOM,2,16,1,3,0,Rain,34,28,6,1,High,Low,23.22
+Vistara,BLR,DEL,0,3,2,10,1,Storm,15,3,8,5,High,High,121.54
+IndiGo,MAA,GOI,23,1,6,12,1,Thunderstorm,15,17,5,10,Low,High,93.27
+IndiGo,DEL,MAA,18,10,0,7,1,Fog,27,11,5,3,Low,Low,75.71
+GoAir,BLR,DEL,17,6,3,3,1,Rain,15,16,7,13,Medium,Medium,37.78
+SpiceJet,DEL,DEL,16,1,6,7,1,Clear,16,8,5,8,Medium,Low,51.05
+IndiGo,HYD,CCU,19,17,3,9,0,Fog,33,28,9,1,High,Low,74.1
+Air India,DEL,DEL,23,20,5,11,0,Fog,39,18,6,0,Medium,Medium,64.42
+GoAir,HYD,BLR,12,3,6,10,1,Thunderstorm,33,13,7,3,Low,Medium,75.94
+Vistara,BOM,DEL,2,7,4,12,1,Fog,25,13,8,11,Medium,Low,69.29
+GoAir,BOM,BLR,0,19,1,11,0,Fog,18,29,5,4,Medium,High,64.5
+Vistara,CCU,MAA,3,13,4,4,0,Thunderstorm,35,16,4,8,High,Low,57.68
+GoAir,CCU,BLR,12,11,0,7,1,Thunderstorm,36,1,8,3,Low,High,60.11
+GoAir,MAA,GOI,16,21,3,9,1,Storm,22,7,9,15,High,Medium,78.01
+GoAir,BLR,MAA,10,20,6,8,0,Rain,21,4,1,1,Low,Medium,30.87
+Vistara,MAA,MAA,1,17,0,8,1,Rain,28,26,3,15,Low,High,59.81
+Vistara,HYD,BLR,15,10,0,9,0,Storm,35,6,4,15,High,Low,91.24
+GoAir,MAA,BOM,1,7,1,5,0,Rain,32,21,7,10,Medium,Medium,27.84
+IndiGo,DEL,HYD,18,1,0,5,1,Fog,32,28,6,0,High,High,110.49
+SpiceJet,HYD,DEL,22,14,6,3,0,Storm,10,15,1,14,Medium,High,74.23
+SpiceJet,CCU,CCU,18,8,6,5,0,Storm,17,15,4,3,High,Low,84.09
+SpiceJet,BOM,HYD,15,18,3,8,0,Rain,13,16,6,17,High,High,35.62
+Vistara,CCU,DEL,21,19,6,12,1,Clear,30,21,3,16,Medium,High,57.55
+Vistara,BLR,DEL,18,7,4,5,0,Rain,39,26,2,6,Medium,Low,31.86
+IndiGo,HYD,MAA,8,18,3,4,1,Clear,31,6,2,17,Medium,Medium,21.28
+SpiceJet,HYD,DEL,0,4,1,8,0,Storm,28,19,4,12,High,Medium,93.93
+SpiceJet,DEL,CCU,9,10,3,7,0,Clear,30,7,1,19,Medium,Medium,50.17
+GoAir,BLR,DEL,18,14,2,6,0,Fog,35,7,2,19,Medium,High,77.09
+Vistara,BOM,BLR,0,7,4,5,0,Thunderstorm,14,22,2,9,Medium,High,59.49
+SpiceJet,GOI,HYD,1,18,2,5,0,Clear,26,10,4,0,Low,Low,2.92
+IndiGo,HYD,BLR,15,22,2,10,1,Thunderstorm,12,14,4,1,Medium,High,107.4
+IndiGo,HYD,CCU,11,7,5,2,1,Fog,28,17,1,16,Medium,High,70.81
+SpiceJet,DEL,DEL,7,18,6,4,0,Thunderstorm,10,5,7,2,Medium,Medium,33.35
+Vistara,MAA,GOI,22,17,1,8,1,Fog,38,21,7,16,Low,High,90.82
+IndiGo,BOM,CCU,17,9,0,8,1,Thunderstorm,32,11,1,11,Low,High,98.95
+GoAir,CCU,MAA,1,6,2,11,0,Thunderstorm,10,14,8,11,Medium,High,86.01
+IndiGo,BLR,BLR,12,8,3,1,1,Rain,32,27,7,19,Medium,Low,44.92
+Air India,HYD,BLR,5,0,0,2,1,Clear,29,22,7,9,Medium,High,62.87
+Air India,HYD,BOM,20,18,3,5,1,Thunderstorm,18,5,6,6,Medium,Low,98.47
+Vistara,CCU,DEL,5,4,3,9,1,Storm,32,17,4,9,Low,Medium,81.52
+SpiceJet,BOM,MAA,8,18,0,10,0,Rain,14,23,8,17,Medium,High,12.23
+Vistara,MAA,GOI,15,0,0,11,1,Clear,16,19,2,5,Low,Low,39.81
+Vistara,HYD,BLR,10,14,6,12,0,Rain,34,8,7,6,High,Medium,43.02
+Vistara,BOM,BLR,6,15,3,11,0,Clear,35,7,3,16,Low,High,28.03
+Vistara,CCU,MAA,9,22,1,7,1,Fog,15,13,3,11,High,Low,105.01
+GoAir,DEL,CCU,9,6,6,10,0,Thunderstorm,26,18,7,16,Low,Low,83.87
+GoAir,MAA,CCU,19,11,4,5,1,Storm,31,18,3,17,Low,Medium,88.6
+IndiGo,BLR,DEL,17,7,5,1,0,Rain,26,7,5,13,Low,High,37.91
+Air India,HYD,BOM,23,4,4,6,1,Rain,22,1,8,10,Medium,High,59.1
+Vistara,BOM,BLR,19,9,1,12,1,Rain,21,24,4,1,Low,High,24.79
+IndiGo,DEL,BOM,8,20,6,8,0,Rain,13,3,7,0,Medium,Low,5.18
+Air India,BLR,CCU,14,4,5,7,1,Thunderstorm,39,5,7,10,Low,High,123.97
+SpiceJet,GOI,CCU,3,16,6,2,1,Clear,17,2,2,1,Low,Low,21.75
+GoAir,BOM,HYD,7,4,0,12,1,Thunderstorm,14,2,8,15,High,Low,93.71
+Air India,BOM,GOI,8,21,5,5,1,Fog,14,18,9,2,Low,Medium,51.76
+SpiceJet,BLR,DEL,12,14,3,11,0,Thunderstorm,22,10,6,19,Medium,Low,61.69
+Air India,DEL,HYD,8,12,4,4,0,Thunderstorm,35,28,5,0,High,Medium,57.56
+GoAir,GOI,GOI,3,0,5,9,0,Fog,20,9,1,19,High,Medium,83.78
+GoAir,CCU,HYD,16,10,3,10,1,Thunderstorm,17,11,1,7,Low,High,90.63
+IndiGo,DEL,HYD,15,22,6,1,0,Clear,17,13,9,18,Low,Medium,20.09
+Vistara,MAA,DEL,14,0,1,12,1,Storm,10,29,4,0,High,High,79.27
+Air India,HYD,DEL,2,10,5,6,1,Fog,22,29,1,4,Medium,Medium,79.62
+Air India,BLR,MAA,19,17,3,3,1,Rain,38,27,3,0,Low,Low,19.19
+SpiceJet,CCU,BOM,4,17,6,11,0,Clear,14,17,6,10,High,High,27.27
+GoAir,GOI,BOM,22,20,6,9,0,Storm,37,23,8,8,Medium,Low,43.29
+Air India,BLR,MAA,4,15,6,5,0,Clear,30,8,2,4,Low,High,16.84
+GoAir,BLR,MAA,19,12,1,6,0,Clear,17,14,8,1,High,Low,17.28
+Air India,DEL,CCU,14,6,0,11,1,Rain,26,23,1,12,High,Medium,45.01
+IndiGo,HYD,GOI,17,0,1,9,0,Storm,32,25,2,17,Low,High,73.77
+Vistara,MAA,HYD,14,15,1,9,0,Clear,32,2,8,11,Medium,High,44.94
+Air India,BOM,MAA,1,0,4,8,0,Rain,22,22,7,13,Medium,High,37.84
+GoAir,BOM,BLR,12,16,6,9,0,Fog,18,10,5,4,High,Medium,84.58
+IndiGo,BLR,BOM,3,5,3,4,1,Rain,11,9,2,9,Medium,Low,46.65
+Air India,HYD,MAA,9,1,5,6,0,Thunderstorm,28,17,9,19,High,Medium,73.07
+SpiceJet,GOI,BLR,12,16,4,5,0,Rain,29,3,5,1,Low,Medium,16.36
+Vistara,GOI,BLR,9,5,6,5,0,Rain,26,27,8,3,Medium,Medium,7.41
+Air India,CCU,BLR,8,13,2,4,1,Rain,16,12,4,11,Low,Low,26.29
+IndiGo,DEL,CCU,7,17,1,2,0,Clear,39,29,9,10,High,Medium,18.66
+SpiceJet,HYD,CCU,2,5,2,12,0,Storm,35,28,7,3,Low,High,78.38
+IndiGo,HYD,BLR,15,9,6,6,0,Rain,12,5,2,10,Medium,Medium,23.32
+IndiGo,DEL,GOI,13,23,4,9,1,Rain,28,26,3,8,Low,Low,47.25
+SpiceJet,GOI,CCU,8,17,3,12,1,Thunderstorm,28,20,2,9,Medium,High,118.1
+IndiGo,GOI,HYD,20,8,4,1,0,Thunderstorm,33,12,5,5,Medium,Low,40.26
+SpiceJet,GOI,BLR,10,7,3,7,0,Fog,18,24,2,14,Medium,Medium,60.06
+Air India,BLR,HYD,2,9,3,6,1,Fog,19,25,5,9,Medium,Low,99.56
+SpiceJet,HYD,HYD,4,16,6,3,1,Thunderstorm,38,19,9,5,Medium,High,63.71
+SpiceJet,BOM,BLR,9,22,0,1,1,Storm,23,4,2,0,High,Low,119.5
+Vistara,DEL,BOM,12,5,6,4,1,Fog,27,19,9,19,Low,High,82.29
+SpiceJet,GOI,GOI,3,13,1,9,1,Storm,35,13,7,3,High,High,106.96
+SpiceJet,CCU,BLR,23,21,4,2,0,Thunderstorm,24,12,7,13,Low,Medium,64.01
+Air India,GOI,BLR,12,21,3,3,0,Fog,35,13,5,19,Low,Medium,89.85
+Vistara,GOI,CCU,11,5,6,2,0,Rain,10,7,8,19,Low,High,48.73
+GoAir,MAA,BLR,4,6,6,2,0,Thunderstorm,39,15,7,7,High,Low,58.69
+Air India,BLR,BOM,9,11,4,10,1,Fog,34,12,6,10,Medium,High,133.45
+Air India,DEL,CCU,23,2,4,11,1,Storm,15,23,2,14,Medium,Medium,66.87
+GoAir,MAA,DEL,8,13,3,11,1,Storm,39,14,6,18,High,Low,89.02
+SpiceJet,MAA,DEL,19,21,5,8,1,Fog,24,18,2,7,Medium,High,77.5
+IndiGo,CCU,HYD,6,18,2,3,1,Storm,34,0,1,12,Low,Medium,96.46
+Vistara,HYD,GOI,1,22,1,7,0,Fog,15,21,9,17,Medium,High,45.6
+IndiGo,CCU,HYD,21,15,1,8,0,Fog,27,1,5,16,Medium,High,71.57
+GoAir,HYD,BOM,23,6,5,3,0,Storm,10,17,4,5,Medium,High,60.83
+Air India,HYD,MAA,22,7,0,2,0,Clear,39,18,8,14,Low,Low,8.68
+Air India,DEL,GOI,6,17,5,8,0,Rain,33,7,5,12,Medium,Medium,25.4
+Vistara,GOI,DEL,7,12,0,3,1,Thunderstorm,12,2,7,17,Medium,Medium,66.16
+Air India,DEL,HYD,6,20,0,7,1,Rain,26,22,3,10,Medium,High,72.71
+Air India,BLR,DEL,20,8,5,12,1,Thunderstorm,25,25,8,12,High,High,85.1
+Vistara,HYD,BOM,22,9,1,1,1,Thunderstorm,17,13,8,0,High,High,84.66
+Vistara,MAA,BOM,13,20,2,12,1,Rain,37,25,3,17,Medium,Low,23.73
+GoAir,GOI,MAA,18,22,1,6,0,Fog,26,8,9,4,High,Medium,92.64
+Air India,BOM,MAA,4,8,6,12,0,Storm,17,28,8,5,High,High,64.26
+Air India,BLR,CCU,22,14,1,12,0,Clear,26,7,1,0,Low,Medium,17.18
+GoAir,DEL,GOI,17,19,1,9,1,Clear,34,16,8,6,High,High,70.95
+SpiceJet,CCU,BOM,19,1,5,12,1,Clear,39,22,4,3,High,Medium,48.03
+SpiceJet,BLR,HYD,11,12,5,3,1,Rain,18,22,6,8,Medium,High,53.76
+SpiceJet,BLR,DEL,22,1,6,7,1,Rain,21,23,9,14,Low,Low,42.01
+GoAir,GOI,BLR,16,18,6,6,0,Fog,38,15,5,5,Low,High,78.13
+Air India,BLR,MAA,12,1,5,8,1,Clear,34,9,7,16,Low,High,68.49
+GoAir,BLR,BLR,1,2,1,3,0,Fog,28,20,1,19,High,High,97.31
+GoAir,BOM,HYD,12,5,2,3,1,Clear,13,9,9,17,Medium,High,55.71
+SpiceJet,CCU,MAA,6,2,0,4,0,Rain,30,24,6,3,Low,High,29.24
+IndiGo,CCU,BLR,9,9,4,3,1,Storm,31,24,4,8,Low,Medium,58.9
+Air India,CCU,GOI,22,23,0,9,1,Storm,34,23,6,13,High,Medium,93.19
+SpiceJet,HYD,HYD,5,5,6,11,0,Storm,38,5,5,2,Low,Low,61.83
+IndiGo,MAA,DEL,2,22,6,4,0,Storm,20,21,3,0,Medium,High,64.31
+IndiGo,CCU,GOI,2,15,0,6,1,Thunderstorm,37,16,7,10,Low,Medium,81.37
+Vistara,BLR,HYD,17,16,4,8,0,Clear,13,28,3,0,Medium,Medium,12.91
+Air India,BLR,CCU,10,18,1,11,1,Storm,23,15,2,11,Medium,High,95.48
+IndiGo,CCU,MAA,21,2,2,8,1,Thunderstorm,23,14,4,8,Medium,High,97.45
+SpiceJet,GOI,BOM,19,17,2,5,0,Thunderstorm,15,21,7,4,High,Low,49.32
+Vistara,CCU,DEL,4,6,0,5,1,Thunderstorm,38,13,5,14,High,Low,112.23
+Air India,BLR,GOI,18,8,4,6,1,Fog,26,3,9,17,Medium,Medium,87.26
+GoAir,HYD,GOI,21,19,6,10,0,Fog,11,3,7,8,Medium,Low,87.84
+SpiceJet,DEL,BLR,18,11,3,7,1,Thunderstorm,17,29,9,12,Low,Medium,67.74
+IndiGo,DEL,MAA,14,4,1,10,1,Storm,13,1,9,12,Low,Low,85.69
+IndiGo,CCU,BOM,15,2,0,7,1,Clear,19,28,2,12,Low,High,68.99
+SpiceJet,BOM,HYD,23,10,2,4,1,Rain,16,10,1,9,High,Low,71.29
+IndiGo,CCU,BOM,8,3,6,6,0,Fog,13,29,4,9,Low,Medium,41.19
+Vistara,GOI,MAA,3,4,5,7,0,Storm,25,3,4,6,Medium,Low,51.39
+Air India,CCU,MAA,14,0,5,5,0,Storm,23,20,2,4,Medium,Medium,79.84
+Vistara,DEL,CCU,11,17,4,5,1,Rain,25,28,3,19,High,Medium,50.39
+IndiGo,BLR,CCU,22,11,4,2,0,Rain,34,27,3,6,High,Low,23.21
+GoAir,CCU,BOM,2,12,0,7,0,Storm,18,20,5,19,Low,Low,84.28
+Air India,BLR,HYD,22,8,3,12,0,Rain,13,15,1,9,High,Medium,22.62
+Air India,BLR,BOM,13,1,2,6,1,Storm,38,20,9,9,Medium,High,103.76
+SpiceJet,BOM,MAA,16,4,0,11,0,Rain,33,3,8,12,Medium,Low,4.37
+SpiceJet,BLR,MAA,18,12,3,1,0,Rain,15,0,8,14,High,Medium,46.44
+GoAir,DEL,BLR,5,15,6,4,1,Storm,10,29,3,5,Medium,High,90.61
+Air India,HYD,CCU,3,15,4,3,1,Thunderstorm,16,25,2,19,High,Medium,92.8
+GoAir,HYD,BLR,6,23,5,12,1,Storm,10,23,1,11,Medium,Low,85.27
+SpiceJet,MAA,DEL,18,2,1,3,1,Clear,28,18,6,18,Low,Medium,30.95
+SpiceJet,GOI,MAA,16,21,6,7,1,Rain,17,1,1,10,High,Medium,75.4
+Air India,CCU,BLR,15,3,5,11,1,Fog,34,8,5,5,High,Medium,94.62
+Vistara,GOI,BOM,14,10,2,12,0,Rain,12,22,9,0,High,Low,21.7
+IndiGo,DEL,CCU,21,22,2,10,0,Clear,10,24,9,1,Medium,High,27.86
+SpiceJet,BLR,CCU,7,13,5,4,1,Fog,10,12,4,14,Low,High,88.89
+SpiceJet,HYD,HYD,18,2,6,12,1,Fog,16,17,7,3,High,High,86.4
+Vistara,GOI,BOM,7,15,5,8,0,Storm,30,15,7,4,Medium,High,68.57
+Vistara,DEL,HYD,17,21,3,11,1,Thunderstorm,22,15,4,14,High,Low,124.48
+GoAir,HYD,BLR,15,14,0,9,1,Storm,39,24,5,10,Medium,Medium,89.54
+GoAir,BLR,GOI,19,9,4,3,0,Fog,10,9,9,9,Low,High,87.17
+IndiGo,GOI,DEL,18,8,3,5,1,Fog,25,8,7,16,Medium,High,55.8
+IndiGo,HYD,BOM,9,10,1,4,1,Thunderstorm,31,10,7,1,Medium,Low,80.79
+Air India,CCU,BOM,16,15,5,12,0,Rain,39,24,7,19,High,Medium,24.89
+GoAir,CCU,BOM,12,9,1,10,0,Thunderstorm,31,25,9,9,Medium,Medium,64.84
+SpiceJet,MAA,HYD,12,16,1,6,0,Storm,23,28,5,19,High,High,65.22
+GoAir,MAA,BLR,6,18,3,11,0,Rain,13,25,6,2,Medium,High,27.67
+SpiceJet,HYD,BOM,9,1,4,10,0,Storm,32,3,3,18,Low,Medium,57.61
+Vistara,DEL,GOI,1,23,6,4,1,Thunderstorm,32,9,1,4,Medium,Low,76.11
+GoAir,CCU,BOM,3,22,2,8,1,Rain,21,2,2,2,High,Medium,65.01
+Vistara,DEL,CCU,5,1,0,3,1,Thunderstorm,34,5,8,7,Medium,Medium,75.96
+IndiGo,DEL,DEL,23,5,2,11,1,Clear,21,2,1,4,Medium,High,33.33
+IndiGo,HYD,CCU,17,18,4,5,1,Fog,26,26,7,11,Low,Low,70.93
+Air India,DEL,CCU,22,7,2,1,0,Rain,30,8,5,13,High,Low,17.48
+GoAir,CCU,DEL,5,2,5,6,1,Fog,24,2,6,6,Low,Low,88.76
+Vistara,BLR,GOI,22,13,5,11,1,Clear,19,17,8,10,Medium,High,48.9
+SpiceJet,MAA,BLR,16,15,3,5,1,Rain,12,7,4,7,Low,Low,45.93
+IndiGo,BLR,CCU,13,0,1,8,1,Fog,32,21,6,4,Medium,Low,76.07
+IndiGo,DEL,BLR,23,20,4,9,1,Fog,29,7,3,7,Medium,High,98.72
+SpiceJet,BLR,CCU,10,2,4,8,0,Rain,29,14,7,11,Low,Medium,35.29
+Vistara,CCU,MAA,18,21,2,8,1,Fog,38,12,2,14,Low,Low,70.33
+Vistara,CCU,DEL,1,17,3,12,1,Fog,21,6,8,18,Medium,Medium,68.08
+GoAir,DEL,CCU,2,8,2,3,1,Rain,10,18,7,15,Low,Low,35.47
+GoAir,HYD,MAA,10,5,2,4,1,Fog,10,7,8,13,Low,Medium,100.15
+Air India,BLR,HYD,5,22,4,11,1,Fog,19,9,2,6,Medium,Medium,104.07
+IndiGo,HYD,MAA,13,20,2,4,1,Storm,27,16,3,7,High,High,85.06
+GoAir,HYD,BOM,18,0,1,11,0,Storm,24,0,4,6,Low,High,55.43
+Vistara,BOM,CCU,15,20,2,5,1,Clear,11,12,9,17,Low,Low,35.46
+SpiceJet,DEL,MAA,20,9,1,9,0,Storm,26,28,5,5,High,Low,50.93
+Vistara,MAA,BLR,21,5,4,12,0,Storm,17,25,6,18,Low,High,84.66
+IndiGo,CCU,HYD,23,22,3,9,1,Clear,31,12,1,3,Medium,Low,28.73
+Vistara,CCU,GOI,6,11,5,10,1,Fog,31,23,4,2,Low,Low,96.11
+Air India,DEL,CCU,7,3,1,12,1,Fog,35,15,4,16,Medium,High,99.3
+IndiGo,GOI,BOM,18,12,3,1,0,Storm,35,28,8,18,High,Medium,88.73
+SpiceJet,GOI,GOI,19,16,3,8,1,Clear,18,8,8,14,High,Low,60.75
+Air India,GOI,MAA,15,7,1,1,1,Fog,30,9,6,5,High,High,78.42
+IndiGo,MAA,GOI,21,19,4,2,1,Thunderstorm,29,5,8,11,Low,Low,57.22
+SpiceJet,CCU,GOI,6,2,0,7,0,Rain,20,4,9,18,High,Low,27.86
+Air India,DEL,HYD,8,11,3,8,0,Rain,15,1,5,5,Low,High,26.63
+Air India,CCU,GOI,12,6,3,1,1,Rain,33,10,1,10,Low,High,53.34
+IndiGo,HYD,GOI,0,11,4,3,0,Storm,23,8,1,19,Low,Low,53.64
+GoAir,BLR,CCU,7,1,4,7,1,Rain,10,5,2,19,High,Low,53.68
+Air India,BLR,HYD,23,23,2,9,0,Rain,16,7,2,9,High,Medium,34.75
+Air India,CCU,BOM,21,13,4,8,1,Thunderstorm,33,8,5,15,Low,Medium,51.32
+SpiceJet,BOM,MAA,3,21,3,8,0,Fog,18,8,7,17,High,High,99.8
+Vistara,MAA,HYD,2,22,1,9,1,Thunderstorm,20,7,7,13,Low,Low,81.29
+IndiGo,GOI,HYD,2,4,0,10,1,Storm,33,11,4,3,High,High,102.99
+IndiGo,MAA,DEL,21,8,6,3,0,Rain,32,25,4,11,Medium,High,36.97
+GoAir,MAA,HYD,12,20,2,8,0,Fog,25,7,3,19,High,Low,66.92
+GoAir,HYD,DEL,7,10,6,1,0,Rain,28,2,2,7,High,Medium,46.13
+IndiGo,MAA,MAA,6,4,1,8,0,Rain,11,12,3,6,High,High,33.63
+GoAir,BLR,GOI,0,2,0,7,0,Storm,24,18,8,8,Low,High,105.76
+SpiceJet,HYD,CCU,15,16,0,8,1,Rain,12,1,1,16,Low,Low,22.7
+IndiGo,DEL,CCU,5,1,0,1,1,Clear,13,16,4,9,Medium,Medium,20.65
+GoAir,MAA,MAA,6,23,5,6,0,Fog,29,15,7,2,Medium,Medium,94.13
+IndiGo,MAA,MAA,11,0,1,7,1,Fog,31,3,5,7,Medium,Low,74.59
+Vistara,DEL,BLR,22,6,2,11,1,Clear,37,17,2,13,Low,High,46.05
+Air India,MAA,GOI,8,13,2,5,0,Storm,16,13,1,6,Medium,Low,32.36
+IndiGo,DEL,MAA,10,4,0,5,1,Rain,21,29,6,15,Medium,Low,47.57
+Air India,HYD,HYD,9,18,1,7,1,Rain,13,1,5,17,High,Medium,46.81
+GoAir,BLR,CCU,20,10,5,11,0,Fog,19,12,3,10,Medium,High,67.87
+Air India,DEL,BOM,0,22,0,3,0,Storm,15,26,9,5,High,High,82.87
+IndiGo,BOM,CCU,17,1,4,6,1,Storm,34,26,3,19,Low,Medium,82.53
+Vistara,DEL,DEL,3,7,6,7,0,Storm,39,20,2,13,Low,High,60.39
+GoAir,MAA,CCU,4,8,2,1,1,Rain,31,19,5,12,High,High,60.61
+IndiGo,GOI,BLR,8,2,6,12,0,Storm,23,16,9,3,Medium,Low,33.58
+GoAir,GOI,GOI,16,1,3,2,0,Clear,12,14,8,19,Low,Low,9.35
+SpiceJet,HYD,MAA,2,6,0,12,0,Thunderstorm,26,24,6,19,High,Low,62.54
+Air India,CCU,GOI,15,4,4,4,0,Storm,20,29,3,10,Low,High,70.35
+SpiceJet,HYD,MAA,4,20,2,8,1,Thunderstorm,19,19,6,17,Low,High,108.31
+IndiGo,CCU,CCU,15,4,6,11,0,Rain,35,4,5,0,Medium,High,24.04
+Vistara,GOI,BOM,2,19,5,10,0,Storm,38,6,1,11,Low,High,93.96
+GoAir,GOI,BOM,19,12,1,6,1,Fog,30,17,5,17,High,Medium,88.93
+Air India,DEL,BLR,14,20,2,1,1,Rain,19,23,7,6,Medium,Medium,37.54
+GoAir,BLR,DEL,2,19,6,10,1,Clear,19,10,9,11,High,High,52.01
+IndiGo,BOM,CCU,19,5,1,5,1,Clear,12,17,1,0,High,Low,52.62
+GoAir,HYD,MAA,13,19,6,7,0,Thunderstorm,33,26,3,3,High,Low,52.69
+Air India,MAA,CCU,15,17,1,6,1,Thunderstorm,35,25,8,17,Medium,Medium,80.54
+IndiGo,CCU,BLR,16,1,5,12,0,Fog,24,4,6,14,Low,Medium,65.95
+GoAir,MAA,HYD,23,5,5,9,1,Fog,26,12,5,2,High,High,75.96
+Vistara,BLR,HYD,19,8,0,8,0,Clear,36,27,2,6,Low,High,23.41
+IndiGo,CCU,BLR,22,2,0,4,1,Storm,27,17,3,5,Low,High,63.94
+IndiGo,HYD,MAA,17,0,2,11,0,Clear,28,1,2,14,High,High,31.87
+Vistara,DEL,GOI,17,0,5,12,0,Clear,28,19,1,14,Low,High,26.59
+SpiceJet,MAA,BLR,21,18,4,5,1,Fog,21,3,7,5,Medium,Low,87.02
+Air India,BLR,MAA,13,4,6,7,0,Thunderstorm,33,12,3,7,Medium,Low,95.43
+SpiceJet,HYD,BOM,17,12,6,8,0,Fog,14,23,7,7,Low,High,106.66
+GoAir,GOI,BLR,14,18,6,5,0,Fog,33,28,7,0,Low,Low,72.84
+Vistara,GOI,MAA,14,11,2,9,0,Fog,36,15,8,12,Medium,High,54.42
+SpiceJet,HYD,BLR,5,15,6,10,1,Clear,25,5,1,12,Low,High,52.85
+IndiGo,HYD,BLR,14,18,3,12,0,Storm,39,25,5,10,Low,Medium,52.67
+GoAir,HYD,GOI,17,2,1,4,0,Clear,24,7,9,3,Low,Low,17.68
+GoAir,CCU,GOI,3,11,6,4,1,Rain,24,15,7,6,Low,Low,41.63
+SpiceJet,HYD,MAA,22,4,1,8,1,Fog,36,12,1,11,High,Medium,125.69
+SpiceJet,MAA,MAA,7,1,0,1,1,Fog,15,22,8,12,Low,Low,109.78
+Vistara,BLR,DEL,14,21,6,8,0,Rain,21,28,3,11,Medium,Medium,34.05
+Air India,CCU,BLR,2,6,4,5,0,Fog,11,25,4,15,High,Low,88.29
+SpiceJet,HYD,HYD,14,12,5,11,1,Fog,36,3,4,5,High,High,84.38
+SpiceJet,BOM,BLR,12,14,5,1,0,Fog,29,1,8,13,Medium,Medium,67.14
+IndiGo,BOM,BLR,8,21,0,4,1,Rain,18,8,1,18,Low,High,41.15
+GoAir,BLR,MAA,1,2,3,2,0,Clear,13,17,8,15,High,High,40.16
+Air India,GOI,BLR,23,20,2,4,1,Fog,14,16,9,3,High,Low,80.77
+IndiGo,DEL,CCU,7,19,2,8,0,Storm,30,7,9,4,Low,Medium,71.63
+Vistara,DEL,BLR,19,4,4,5,1,Rain,35,25,5,8,Low,High,58.75
+Vistara,GOI,CCU,16,23,0,1,0,Thunderstorm,17,14,4,2,Medium,High,80.62
+SpiceJet,CCU,GOI,12,7,0,7,1,Rain,31,8,4,9,High,Medium,57.69
+SpiceJet,CCU,HYD,0,21,3,1,0,Clear,19,16,9,16,Low,Low,26.76
+Vistara,CCU,MAA,1,0,6,9,0,Rain,16,22,8,18,Low,High,40.84
+SpiceJet,DEL,BLR,14,7,2,3,0,Thunderstorm,31,1,7,9,Medium,Low,65.93
+Air India,BOM,CCU,11,23,6,12,1,Storm,23,5,3,11,High,Medium,69.66
+SpiceJet,DEL,CCU,13,17,0,3,0,Thunderstorm,39,28,4,6,Low,Low,54.44
+GoAir,MAA,GOI,1,19,6,6,0,Rain,39,26,9,17,Medium,Medium,10.38
+SpiceJet,HYD,CCU,17,15,5,10,0,Thunderstorm,14,4,8,18,High,Low,69.8
+IndiGo,CCU,BOM,21,17,4,6,1,Rain,25,16,1,14,High,Low,69.41
+Air India,BOM,DEL,6,19,2,11,0,Storm,24,1,3,6,High,High,90.98
+IndiGo,BLR,HYD,22,11,3,11,1,Storm,14,17,2,11,High,Low,82.36
+IndiGo,BLR,GOI,5,12,4,6,0,Clear,12,9,2,6,Medium,High,18.77
+GoAir,HYD,GOI,13,12,1,1,1,Storm,32,9,8,9,Low,Medium,104.1
+Air India,BOM,BLR,7,9,5,5,1,Fog,38,5,6,19,High,Medium,90.27
+Air India,DEL,BOM,21,6,3,12,0,Thunderstorm,19,26,6,9,High,High,102.51
+Air India,DEL,BLR,1,13,4,6,1,Thunderstorm,14,11,4,4,Low,Low,94.15
+Air India,MAA,BLR,16,23,0,8,1,Rain,32,16,1,17,High,Medium,21.01
+Air India,MAA,MAA,4,15,1,1,0,Storm,24,26,7,8,High,Medium,45.99
+GoAir,DEL,MAA,13,14,3,5,1,Clear,27,12,8,15,Low,Medium,25.99
+SpiceJet,BLR,MAA,23,11,0,3,1,Clear,34,19,2,6,Low,High,40.72
+IndiGo,CCU,BOM,19,8,5,2,1,Clear,17,27,2,9,High,Medium,53.02
+Air India,BLR,BLR,20,7,1,11,1,Fog,30,15,1,4,Low,Medium,59.38
+SpiceJet,MAA,DEL,20,17,2,8,0,Storm,11,9,4,6,Medium,Medium,91.78
+SpiceJet,HYD,HYD,21,22,0,7,1,Clear,31,26,6,4,Medium,Medium,40.25
+IndiGo,DEL,MAA,2,17,4,10,1,Fog,17,20,5,14,High,High,85.62
+GoAir,MAA,MAA,4,12,6,7,0,Thunderstorm,32,1,4,18,High,High,67.82
+Vistara,MAA,GOI,15,17,3,5,0,Rain,17,1,4,9,Low,Low,14.0
+Vistara,CCU,BLR,17,14,1,12,1,Storm,13,22,7,7,Low,Medium,74.6
+SpiceJet,DEL,BLR,16,3,0,9,0,Storm,39,6,7,8,High,High,79.71
+IndiGo,CCU,BOM,10,16,2,5,0,Thunderstorm,28,5,2,10,High,Low,111.17
+Vistara,DEL,BOM,16,4,6,2,0,Storm,32,0,7,1,Medium,Low,48.14
+SpiceJet,CCU,MAA,15,21,3,3,0,Storm,27,11,2,2,Low,Medium,79.46
+GoAir,BLR,BLR,22,15,3,4,0,Storm,39,12,4,12,High,Low,78.77
+Vistara,HYD,DEL,1,8,0,5,0,Storm,30,11,1,10,High,High,72.79
+SpiceJet,HYD,HYD,3,9,2,3,0,Fog,38,18,5,9,Low,Low,78.11
+SpiceJet,DEL,BLR,20,23,5,12,0,Fog,32,8,1,14,Low,Low,65.02
+Air India,BOM,GOI,6,17,6,7,0,Rain,10,9,4,5,High,High,41.71
+GoAir,GOI,BLR,1,16,5,5,1,Storm,29,16,9,0,High,Low,76.83
+Air India,MAA,CCU,5,17,1,5,1,Thunderstorm,24,17,8,13,High,Low,100.64
+IndiGo,MAA,BOM,16,6,0,6,1,Clear,27,7,6,17,Low,Low,56.77
+Air India,DEL,GOI,6,3,6,7,1,Rain,31,6,8,10,High,Low,78.21
+Air India,CCU,HYD,4,4,1,10,1,Clear,21,8,5,7,High,Medium,66.97
+Vistara,BOM,MAA,4,22,5,10,0,Clear,10,9,7,2,High,Medium,30.34
+SpiceJet,BLR,GOI,19,15,6,8,0,Storm,16,11,8,13,Medium,High,90.84
+GoAir,CCU,BLR,15,2,3,9,1,Thunderstorm,28,14,7,1,Medium,Low,98.44
+Air India,CCU,MAA,18,17,1,11,1,Clear,37,14,4,15,Low,High,56.18
+GoAir,DEL,BLR,8,22,2,4,0,Clear,10,27,5,5,High,Medium,48.37
+Air India,DEL,MAA,4,20,4,5,1,Rain,33,3,6,0,High,Low,33.02
+IndiGo,MAA,HYD,7,13,5,5,0,Thunderstorm,16,3,6,13,Low,Low,51.83
+Air India,DEL,BOM,8,14,5,8,1,Thunderstorm,11,22,9,9,Low,Medium,61.62
+Vistara,DEL,HYD,4,16,2,9,0,Clear,16,0,2,5,Low,Low,13.14
+SpiceJet,DEL,CCU,9,0,6,7,1,Thunderstorm,28,25,6,8,High,Low,81.1
+IndiGo,MAA,DEL,1,20,6,5,0,Rain,22,11,3,6,Medium,Medium,7.38
+Air India,BLR,BOM,8,16,6,3,1,Rain,34,24,2,1,Low,High,32.24
+GoAir,BLR,HYD,10,22,1,1,1,Rain,33,1,6,10,High,High,67.94
+IndiGo,GOI,CCU,3,10,0,11,0,Storm,14,14,4,13,Low,Low,72.04
+IndiGo,GOI,DEL,21,16,3,9,0,Clear,32,16,5,4,High,Medium,20.85
+Air India,DEL,CCU,21,13,4,5,1,Thunderstorm,28,6,5,8,Low,High,105.93
+IndiGo,GOI,BLR,21,19,0,9,1,Rain,10,5,3,6,High,High,49.3
+GoAir,MAA,BLR,1,18,0,10,0,Clear,10,11,4,13,Low,Low,41.82
+IndiGo,BLR,MAA,22,20,2,12,0,Clear,36,18,3,15,Medium,High,27.53
+GoAir,CCU,BOM,5,6,1,4,0,Storm,27,0,7,15,Low,Medium,46.46
+Air India,BLR,BLR,13,23,5,5,1,Thunderstorm,33,27,1,6,Low,High,90.15
+SpiceJet,BLR,GOI,0,12,5,4,1,Thunderstorm,10,20,6,9,Medium,Medium,114.24
+IndiGo,MAA,CCU,17,17,2,2,0,Rain,36,25,4,5,Low,Medium,12.07
+SpiceJet,GOI,BOM,6,22,1,12,1,Rain,37,13,1,16,Medium,Low,44.58
+GoAir,CCU,GOI,0,13,2,1,1,Clear,14,3,1,0,High,High,49.37
+IndiGo,MAA,BLR,0,0,5,8,0,Thunderstorm,18,4,5,1,Medium,Low,31.11
+Vistara,DEL,MAA,0,6,0,4,1,Thunderstorm,21,0,5,13,Medium,High,69.2
+SpiceJet,HYD,HYD,23,7,3,5,0,Rain,18,0,7,3,High,Low,12.25
+IndiGo,BLR,MAA,3,17,6,6,0,Fog,27,20,4,8,Medium,Low,75.52
+SpiceJet,HYD,GOI,3,8,1,8,1,Clear,32,5,9,5,Medium,Low,40.41
+IndiGo,MAA,DEL,17,0,4,11,1,Thunderstorm,20,4,4,16,High,High,92.56
+Air India,MAA,BLR,10,21,4,8,0,Storm,10,1,7,10,Low,Low,56.47
+SpiceJet,MAA,GOI,0,16,0,7,0,Storm,28,24,5,3,Low,Medium,73.29
+Vistara,HYD,DEL,9,18,2,4,0,Fog,31,20,5,8,Medium,High,90.36
+Vistara,MAA,DEL,8,5,2,6,1,Rain,34,26,6,15,Low,Medium,70.29
+GoAir,DEL,CCU,22,2,5,4,0,Rain,19,26,8,2,Low,Low,21.34
+IndiGo,MAA,BOM,3,23,0,7,0,Rain,11,4,5,3,Medium,Low,10.07
+SpiceJet,BOM,CCU,5,4,5,12,0,Storm,16,25,3,2,High,Medium,54.69
+GoAir,GOI,BLR,15,1,5,12,0,Rain,29,8,6,12,Low,Low,29.77
+SpiceJet,HYD,DEL,1,19,4,11,1,Storm,11,18,2,18,Medium,High,90.12
+IndiGo,BOM,GOI,22,3,5,1,1,Fog,28,20,8,0,High,Medium,73.89
+Vistara,MAA,HYD,17,9,6,5,0,Clear,15,14,8,5,Low,High,21.26
+Air India,DEL,DEL,9,9,5,10,1,Thunderstorm,19,12,3,2,High,High,61.44
+Vistara,BLR,GOI,23,23,4,12,1,Fog,18,11,8,2,Medium,High,86.98
+GoAir,CCU,HYD,23,20,6,10,1,Storm,17,4,9,15,High,Low,105.99
+Air India,GOI,CCU,16,10,2,4,0,Fog,35,1,5,9,High,Low,67.44
+GoAir,CCU,CCU,12,15,1,11,1,Thunderstorm,39,26,5,16,Medium,Medium,102.96
+IndiGo,MAA,BOM,23,16,3,7,1,Clear,20,3,6,6,Low,Medium,50.54
+Air India,GOI,GOI,17,15,5,9,0,Thunderstorm,18,26,7,12,Low,High,55.71
+GoAir,GOI,DEL,21,6,6,5,0,Storm,29,26,3,10,High,Low,97.6
+IndiGo,DEL,MAA,12,15,1,4,1,Thunderstorm,37,17,5,9,High,Low,62.57
+Vistara,GOI,CCU,16,2,4,9,1,Fog,29,20,1,6,High,Low,73.36
+IndiGo,HYD,CCU,4,15,1,5,0,Rain,18,9,5,5,High,Medium,47.46
+SpiceJet,BOM,BOM,10,7,3,9,0,Fog,17,12,4,0,Low,Low,59.49
+IndiGo,BOM,HYD,6,11,1,8,0,Storm,37,11,1,16,Medium,High,76.53
+IndiGo,BOM,BOM,9,2,6,4,0,Clear,24,1,7,11,Medium,High,12.02
+SpiceJet,HYD,DEL,16,16,1,11,1,Thunderstorm,11,25,1,3,Medium,High,109.75
+GoAir,CCU,GOI,14,20,1,11,0,Clear,33,14,8,2,High,Low,22.91
+GoAir,DEL,BLR,17,17,1,7,1,Storm,10,13,2,5,High,High,68.23
+IndiGo,GOI,BLR,22,10,0,5,1,Thunderstorm,18,24,5,15,Medium,High,85.5
+SpiceJet,HYD,GOI,21,3,5,10,1,Fog,18,9,6,12,Low,Medium,92.69
+SpiceJet,BOM,HYD,18,15,4,4,0,Fog,22,21,9,8,Medium,Medium,44.8
+Vistara,MAA,CCU,1,16,3,5,0,Storm,17,7,7,10,Low,Low,48.69
+GoAir,BLR,HYD,3,8,4,5,1,Thunderstorm,36,24,6,19,High,Low,112.03
+Air India,GOI,CCU,2,5,0,11,1,Fog,30,14,5,12,Medium,Low,75.72
+GoAir,HYD,CCU,6,23,0,9,1,Storm,14,12,6,18,Medium,Low,83.93
+GoAir,HYD,BLR,23,19,6,12,1,Storm,38,7,4,2,High,Low,93.72
+Vistara,DEL,HYD,17,1,0,9,1,Clear,12,20,1,11,Low,Medium,23.37
+Air India,DEL,BOM,9,8,5,6,0,Fog,30,20,9,18,Medium,Medium,73.65
+Vistara,HYD,CCU,6,20,0,4,0,Thunderstorm,13,21,5,7,Medium,Medium,59.63
+Air India,BOM,MAA,7,5,1,2,0,Fog,26,13,8,13,Low,High,58.48
+IndiGo,BLR,MAA,5,2,4,3,1,Fog,25,0,7,8,Medium,High,95.59
+Air India,GOI,BOM,21,19,2,2,1,Fog,25,12,8,16,Medium,Medium,65.37
+Vistara,DEL,MAA,0,5,3,5,0,Storm,34,26,1,5,High,Medium,52.79
+GoAir,GOI,DEL,3,6,0,6,0,Rain,35,7,9,3,Low,Low,13.8
+Air India,BOM,CCU,13,0,4,11,1,Rain,39,17,1,3,Medium,Medium,60.61
+Air India,GOI,BOM,16,22,6,5,0,Clear,29,21,3,18,Medium,Low,53.72
+SpiceJet,MAA,HYD,19,0,0,2,0,Fog,12,29,8,11,High,Medium,82.01
+GoAir,DEL,CCU,17,4,5,12,0,Rain,15,29,1,1,Medium,Low,12.56
+IndiGo,BOM,BOM,10,5,0,5,1,Clear,10,8,1,16,High,Medium,89.48
+Vistara,BOM,BLR,20,12,0,9,1,Storm,30,12,6,14,Medium,Low,95.77
+IndiGo,BLR,HYD,13,1,0,4,0,Fog,25,2,5,9,High,High,73.73
+GoAir,BLR,BLR,8,14,6,12,1,Thunderstorm,24,17,6,2,Low,High,71.17
+Air India,MAA,CCU,14,14,0,10,0,Storm,16,9,3,19,Low,Low,52.66
+Air India,BOM,HYD,11,12,3,2,0,Clear,11,4,6,3,Medium,Low,14.18
+GoAir,CCU,MAA,9,13,4,3,1,Storm,19,26,2,0,Medium,High,71.17
+Air India,BOM,BOM,18,21,5,3,1,Thunderstorm,34,24,8,0,High,Medium,85.48
+Air India,BLR,CCU,23,6,0,9,1,Storm,37,5,6,17,High,Low,100.16
+Air India,CCU,DEL,18,13,0,4,0,Clear,24,29,4,3,Low,Medium,30.65
+Vistara,DEL,HYD,5,23,0,1,0,Thunderstorm,15,7,4,14,Medium,High,41.53
+Vistara,DEL,HYD,19,9,0,1,0,Thunderstorm,11,23,7,9,High,High,74.03
+SpiceJet,GOI,GOI,23,16,1,7,1,Storm,33,6,3,16,Low,Low,92.17
+IndiGo,HYD,CCU,5,13,1,7,0,Thunderstorm,33,20,3,11,Low,Medium,79.75
+GoAir,BLR,CCU,7,7,2,2,0,Storm,26,17,6,19,High,High,67.23
+GoAir,HYD,BLR,0,3,0,9,0,Fog,37,13,9,11,Medium,Medium,63.63
+GoAir,CCU,GOI,21,15,2,9,0,Thunderstorm,10,14,1,15,Low,High,73.45
+SpiceJet,BLR,MAA,16,23,3,5,1,Storm,10,9,5,4,High,Low,109.28
+Vistara,MAA,BLR,16,12,2,3,1,Fog,37,25,1,15,Low,Medium,76.76
+SpiceJet,BOM,GOI,23,21,4,3,1,Thunderstorm,13,20,1,16,Medium,Medium,56.85
+GoAir,MAA,BLR,14,19,1,12,0,Fog,29,11,3,14,High,Low,90.78
+IndiGo,CCU,MAA,6,17,1,3,0,Thunderstorm,25,6,3,12,Medium,Low,42.5
+Air India,BLR,GOI,18,13,0,6,0,Clear,17,27,4,7,Medium,Low,34.89
+Vistara,CCU,GOI,21,17,0,4,1,Clear,10,27,3,1,Low,Low,38.58
+Vistara,BOM,DEL,22,4,3,8,1,Storm,35,6,6,7,Medium,High,86.19
+SpiceJet,DEL,BLR,2,8,5,11,1,Rain,28,10,4,9,Low,Medium,33.33
+Vistara,DEL,BLR,21,2,3,11,1,Clear,20,12,8,6,High,High,56.37
+GoAir,CCU,HYD,10,7,4,11,1,Rain,26,14,1,9,High,Low,23.73
+GoAir,HYD,MAA,19,19,0,5,0,Fog,34,17,8,3,Low,High,51.96
+SpiceJet,BLR,BOM,18,21,0,1,1,Fog,19,6,1,10,Low,High,91.61
+GoAir,BLR,DEL,8,9,3,9,1,Rain,21,5,1,8,Low,Medium,31.31
+IndiGo,DEL,GOI,9,21,3,1,1,Storm,18,22,7,3,Medium,Medium,60.02
+SpiceJet,GOI,GOI,1,18,3,6,0,Thunderstorm,16,10,1,2,High,Medium,73.11
+IndiGo,MAA,GOI,0,20,1,1,1,Rain,38,7,9,10,High,Low,57.46
+Air India,GOI,DEL,15,2,2,3,1,Rain,21,19,8,2,Medium,Low,45.44
+IndiGo,BOM,GOI,17,10,2,10,1,Rain,24,0,1,17,Low,Medium,30.78
+Air India,MAA,GOI,22,10,0,5,0,Rain,17,7,2,18,High,High,25.03
+Air India,MAA,MAA,16,16,1,10,0,Rain,26,7,2,13,Medium,Medium,28.67
+IndiGo,CCU,CCU,5,15,3,7,1,Storm,14,18,2,10,Low,Low,82.44
+SpiceJet,DEL,CCU,13,6,0,10,1,Clear,23,2,6,1,High,High,51.78
+GoAir,GOI,HYD,22,3,1,8,1,Thunderstorm,11,4,4,1,Low,Low,95.83
+GoAir,GOI,HYD,14,22,4,12,1,Clear,25,29,8,1,Medium,Medium,40.44
+Air India,DEL,GOI,13,18,5,9,0,Rain,38,2,1,9,High,Medium,27.62
+Air India,GOI,MAA,23,11,1,6,1,Clear,26,14,4,14,Low,High,69.48
+SpiceJet,DEL,GOI,21,14,6,11,0,Storm,12,13,5,11,Low,Medium,58.78
+Vistara,CCU,HYD,2,10,0,9,1,Fog,32,20,9,10,Low,Low,85.39
+IndiGo,HYD,DEL,23,4,2,8,0,Clear,10,14,5,16,Medium,Low,41.23
+Air India,MAA,DEL,22,4,6,9,0,Thunderstorm,36,23,3,17,Low,Low,59.31
+GoAir,CCU,BOM,18,14,3,10,1,Storm,27,16,4,13,High,High,106.74
+SpiceJet,BLR,CCU,11,17,5,4,0,Fog,27,17,7,16,High,Low,59.63
+IndiGo,BOM,MAA,1,10,4,9,1,Storm,13,1,1,14,Low,Medium,92.78
+SpiceJet,HYD,BLR,2,11,5,7,0,Rain,24,11,6,11,Medium,High,23.52
+IndiGo,BLR,CCU,17,1,5,5,0,Fog,37,15,8,15,High,Low,103.66
+IndiGo,MAA,BLR,0,19,1,5,1,Thunderstorm,28,3,1,5,High,Low,75.42
+Air India,GOI,BOM,19,14,0,1,1,Fog,28,24,8,1,High,Medium,104.36
+SpiceJet,DEL,BOM,20,19,0,2,0,Thunderstorm,19,1,7,1,Low,Medium,38.33
+SpiceJet,MAA,GOI,5,3,5,10,0,Rain,14,27,1,15,High,High,45.9
+GoAir,CCU,HYD,4,21,3,3,1,Thunderstorm,28,13,9,1,Low,Low,70.89
+GoAir,BOM,BOM,0,17,0,8,1,Storm,20,10,3,7,Low,Low,76.04
+Air India,CCU,BOM,18,5,5,6,1,Clear,16,12,2,6,Low,Medium,54.73
+Air India,HYD,BLR,0,22,0,12,0,Storm,14,27,7,0,Low,High,81.3
+Vistara,HYD,HYD,20,18,3,10,1,Storm,29,24,3,3,Low,Medium,59.55
+GoAir,BOM,BOM,20,10,4,11,1,Fog,21,6,1,10,High,Medium,79.06
+IndiGo,BLR,CCU,15,23,6,5,0,Rain,28,9,3,19,Low,High,22.26
+SpiceJet,BLR,BOM,11,1,5,1,1,Clear,24,23,6,6,Low,Low,48.16
+Air India,HYD,HYD,21,7,2,12,1,Thunderstorm,21,0,3,17,Low,Low,76.14
+SpiceJet,HYD,GOI,7,10,2,11,1,Fog,13,28,5,3,Low,Low,73.27
+SpiceJet,GOI,MAA,15,4,5,12,1,Rain,39,20,9,16,Low,High,56.29
+Vistara,DEL,HYD,0,17,1,9,0,Clear,21,24,7,10,Low,High,42.46
+GoAir,GOI,BLR,3,22,4,3,1,Storm,27,27,2,10,High,High,105.34
+Air India,GOI,MAA,9,17,1,3,1,Rain,26,3,1,19,Low,High,57.24
+SpiceJet,BLR,CCU,10,13,6,2,1,Rain,28,17,7,10,Low,High,51.32
+Air India,BOM,DEL,16,21,2,4,1,Rain,25,5,4,14,High,Medium,52.12
+IndiGo,BLR,HYD,22,9,3,12,1,Storm,20,1,7,13,High,Low,107.11
+Vistara,DEL,GOI,6,2,5,2,1,Thunderstorm,11,2,6,16,Medium,High,105.1
+IndiGo,CCU,BLR,11,8,6,9,0,Fog,25,13,7,1,High,Low,69.06
+Air India,HYD,CCU,20,2,0,12,0,Thunderstorm,10,7,4,17,High,High,56.24
+Air India,HYD,MAA,6,10,2,10,0,Clear,26,15,3,15,Low,Low,26.16
+GoAir,DEL,CCU,11,11,4,7,1,Fog,27,18,5,11,Medium,Medium,87.61
+SpiceJet,GOI,HYD,14,11,2,8,1,Clear,38,17,3,9,Low,Low,29.82
+SpiceJet,BOM,BOM,1,2,4,3,1,Storm,38,5,3,15,Medium,Low,67.44
+IndiGo,HYD,GOI,13,20,4,6,0,Thunderstorm,34,13,4,2,Low,High,94.66
+Vistara,MAA,HYD,12,6,5,10,1,Rain,38,2,8,7,High,Low,59.47
+SpiceJet,GOI,DEL,3,13,4,6,0,Fog,22,15,2,1,High,Medium,57.88
+GoAir,HYD,HYD,13,23,1,1,1,Rain,14,0,4,0,Medium,Medium,51.84
+IndiGo,MAA,MAA,13,10,6,6,1,Clear,34,11,3,13,Low,Medium,25.87
+IndiGo,DEL,MAA,15,6,3,3,0,Rain,33,29,7,3,Low,High,33.37
+GoAir,DEL,HYD,6,20,2,11,0,Rain,38,13,2,3,High,High,14.99
+Vistara,GOI,MAA,18,9,3,3,0,Storm,36,18,1,8,High,High,68.3
+GoAir,HYD,BOM,1,10,6,3,0,Storm,15,21,1,2,Medium,High,74.12
+Vistara,BLR,CCU,9,14,0,10,0,Thunderstorm,10,18,6,4,High,High,79.55
+GoAir,MAA,HYD,17,18,6,11,0,Clear,19,8,3,0,Medium,Medium,9.15
+GoAir,BOM,GOI,16,15,2,11,1,Storm,14,6,7,18,Medium,Low,67.35
+Air India,HYD,BOM,4,21,3,10,0,Storm,37,13,8,0,Medium,Medium,64.08
+IndiGo,BOM,CCU,11,20,3,11,1,Thunderstorm,10,4,5,9,Medium,High,122.42
+GoAir,HYD,GOI,5,19,5,8,1,Fog,32,17,5,11,High,Medium,101.27
+GoAir,BLR,GOI,21,11,5,5,1,Thunderstorm,35,8,2,9,Medium,Low,86.48
+SpiceJet,BLR,GOI,8,17,6,4,1,Rain,39,20,8,1,High,High,50.39
+IndiGo,GOI,CCU,19,22,6,9,1,Rain,20,6,1,15,Medium,Medium,44.76
+SpiceJet,GOI,BOM,0,12,0,9,0,Storm,33,8,9,7,High,Medium,66.1
+IndiGo,BLR,GOI,21,4,4,1,0,Storm,33,3,1,13,Medium,Low,79.34
+SpiceJet,CCU,GOI,14,3,2,2,0,Thunderstorm,16,24,1,14,High,High,64.33
+GoAir,BLR,BLR,20,13,5,8,1,Thunderstorm,27,16,1,15,Low,High,92.59
+GoAir,DEL,HYD,5,7,2,5,0,Clear,30,11,7,10,Medium,Low,28.13
+Air India,DEL,CCU,18,8,0,7,1,Rain,29,5,4,11,Medium,Low,54.6
+SpiceJet,CCU,CCU,17,18,5,1,1,Thunderstorm,30,17,7,1,Low,Low,48.14
+Vistara,MAA,MAA,5,2,5,12,1,Fog,19,7,5,3,Low,Low,53.58
+Air India,BOM,CCU,12,4,4,10,1,Clear,34,20,7,2,Medium,High,39.65
+SpiceJet,HYD,BOM,0,20,2,12,0,Thunderstorm,24,14,7,8,High,High,94.52
+SpiceJet,HYD,CCU,22,17,2,5,0,Storm,13,2,4,17,Medium,Medium,63.57
+Air India,CCU,BLR,22,0,2,11,0,Thunderstorm,25,1,2,18,High,Medium,102.31
+GoAir,DEL,HYD,12,7,4,12,0,Storm,24,23,8,6,Low,Medium,70.65
+SpiceJet,GOI,HYD,6,18,5,3,0,Storm,24,22,2,3,High,High,49.92
+GoAir,HYD,CCU,14,16,0,10,1,Rain,21,8,9,5,Medium,High,49.48
+Air India,DEL,GOI,11,16,2,12,0,Rain,17,7,5,18,Low,High,39.98
+GoAir,MAA,DEL,0,10,3,12,1,Thunderstorm,17,26,9,0,Low,Medium,72.19
+IndiGo,BOM,DEL,14,1,4,2,1,Thunderstorm,27,3,9,15,Medium,Low,87.37
+Vistara,MAA,GOI,3,5,1,2,1,Fog,39,1,8,10,Medium,Low,52.4
+SpiceJet,CCU,GOI,12,21,0,9,0,Clear,15,13,8,3,Low,Low,28.36
+Vistara,BLR,GOI,22,13,3,4,1,Clear,14,28,4,17,High,Low,58.25
+GoAir,BLR,BOM,4,2,2,4,1,Thunderstorm,11,1,4,4,High,Low,92.68
+SpiceJet,BLR,DEL,1,11,1,7,0,Rain,21,1,2,5,High,High,28.53
+GoAir,MAA,GOI,22,3,0,10,1,Fog,35,29,4,1,Medium,Medium,100.12
+IndiGo,HYD,BOM,0,11,4,10,1,Clear,13,26,4,11,Low,Low,43.15
+Air India,BOM,MAA,15,12,1,2,1,Thunderstorm,32,27,6,8,High,Low,96.71
+SpiceJet,BLR,BOM,22,1,5,3,0,Rain,22,21,3,19,Low,Low,19.96
+IndiGo,CCU,DEL,5,1,6,3,1,Rain,26,6,2,11,High,High,76.79
+IndiGo,CCU,CCU,22,14,1,6,1,Rain,25,11,8,12,Low,Low,54.87
+SpiceJet,BLR,MAA,15,22,6,3,0,Storm,18,5,2,16,Medium,Medium,56.83
+GoAir,BLR,DEL,13,16,3,11,0,Rain,35,17,8,4,Medium,High,49.14
+IndiGo,BOM,BOM,2,6,0,5,1,Thunderstorm,37,3,7,19,Medium,High,109.83
+Vistara,BLR,BLR,14,13,3,4,0,Fog,10,18,3,12,High,High,56.09
+IndiGo,BOM,HYD,2,11,3,3,0,Thunderstorm,24,26,6,12,Medium,Low,51.46
+GoAir,CCU,DEL,22,16,2,8,0,Rain,21,12,6,9,Medium,Low,35.79
+GoAir,BLR,GOI,1,13,4,10,0,Fog,14,19,5,14,Medium,Low,67.33
+Vistara,MAA,BOM,0,5,1,3,0,Clear,32,20,8,14,Low,Low,23.99
+IndiGo,GOI,GOI,8,18,0,6,0,Clear,33,22,5,17,Low,Medium,31.45
+GoAir,MAA,GOI,8,23,5,7,0,Thunderstorm,27,29,7,17,Low,High,74.05
+SpiceJet,CCU,GOI,22,5,4,7,1,Fog,29,24,6,1,Low,Low,82.43
+Air India,BOM,GOI,6,17,4,2,0,Thunderstorm,11,26,7,10,Low,Medium,80.3
+Air India,MAA,GOI,2,23,0,3,0,Fog,13,1,9,12,Low,High,73.2
+Air India,BOM,MAA,17,4,4,12,0,Fog,24,7,3,10,Low,High,90.77
+IndiGo,MAA,DEL,10,23,2,10,1,Thunderstorm,15,18,7,3,Medium,High,93.86
+Vistara,MAA,DEL,6,23,4,10,0,Fog,31,8,3,14,Medium,Low,52.05
+GoAir,BOM,HYD,8,5,2,4,0,Rain,21,25,2,10,High,High,61.85
+SpiceJet,HYD,BOM,0,1,1,7,1,Fog,38,27,7,17,Medium,Low,57.11
+SpiceJet,MAA,BLR,13,7,1,2,0,Fog,27,3,4,15,Low,Medium,46.83
+IndiGo,BLR,MAA,19,14,3,3,1,Thunderstorm,36,15,1,9,Low,High,92.76
+Air India,GOI,BOM,5,14,2,7,1,Clear,29,18,6,11,High,Medium,47.02
+IndiGo,CCU,MAA,6,10,5,7,0,Storm,13,9,6,12,Medium,Low,54.83
+Vistara,HYD,DEL,9,21,1,10,1,Fog,39,5,6,8,Medium,Low,84.17
+Vistara,BOM,GOI,6,21,4,3,0,Storm,10,15,2,12,High,Low,61.36
+GoAir,HYD,HYD,1,23,0,12,0,Fog,24,9,1,5,Low,High,45.02
+GoAir,DEL,HYD,3,0,0,1,1,Thunderstorm,39,12,3,5,Low,High,64.61
+Vistara,DEL,CCU,20,17,6,12,1,Thunderstorm,27,8,2,10,Low,Medium,91.39
+Vistara,MAA,BLR,16,11,2,3,0,Fog,23,6,6,18,Low,Low,45.66
+Vistara,MAA,HYD,0,11,5,5,0,Thunderstorm,12,3,6,10,High,Medium,117.28
+IndiGo,BLR,GOI,9,10,3,7,1,Thunderstorm,38,18,5,9,Medium,Low,57.85
+Vistara,GOI,DEL,18,7,4,4,0,Fog,24,25,5,14,Low,Low,60.16
+SpiceJet,CCU,BLR,14,6,2,11,0,Clear,36,3,9,12,Medium,Medium,26.94
+Air India,HYD,BOM,9,22,6,11,0,Fog,14,18,5,7,Medium,Low,43.14
+Vistara,DEL,GOI,18,20,0,1,1,Clear,36,27,6,4,Low,Medium,13.77
+Air India,MAA,GOI,11,1,2,6,0,Thunderstorm,33,18,4,1,Low,High,81.59
+IndiGo,CCU,HYD,23,10,4,2,0,Clear,31,11,1,15,Low,Medium,27.92
+Air India,HYD,BLR,15,21,5,12,0,Thunderstorm,12,29,4,12,Medium,Medium,58.37
+IndiGo,MAA,DEL,8,9,5,3,1,Clear,31,12,2,18,High,Low,54.0
+SpiceJet,MAA,CCU,14,2,1,4,1,Clear,16,24,3,8,Low,Medium,58.6
+IndiGo,DEL,MAA,16,19,4,6,1,Fog,15,3,7,14,Medium,High,107.08
+IndiGo,DEL,MAA,13,9,6,6,0,Clear,35,24,7,5,Medium,High,16.66
+GoAir,MAA,DEL,17,17,1,7,1,Thunderstorm,31,27,1,7,Low,High,109.22
+Vistara,BOM,DEL,1,13,1,5,0,Fog,10,9,8,13,High,High,76.32
+Vistara,MAA,MAA,3,17,1,7,1,Clear,28,20,7,4,Low,Medium,50.97
+SpiceJet,CCU,CCU,17,23,2,2,0,Fog,16,6,1,16,Low,High,74.02
+SpiceJet,MAA,BLR,6,7,6,1,1,Storm,13,29,8,6,High,Medium,103.85
+Vistara,BLR,MAA,12,9,0,12,0,Fog,21,4,2,8,Low,Medium,64.68
+GoAir,GOI,DEL,14,21,5,10,0,Storm,29,16,8,15,Low,Low,63.18
+Vistara,BLR,HYD,22,12,2,8,1,Storm,32,17,3,17,High,Medium,86.81
+GoAir,BLR,BOM,21,20,0,1,0,Fog,34,10,7,12,Medium,Medium,80.02
+SpiceJet,BOM,CCU,0,7,5,12,1,Thunderstorm,39,14,6,17,Medium,Low,87.1
+Air India,BOM,GOI,10,3,6,2,1,Thunderstorm,36,20,5,9,Medium,High,107.79
+SpiceJet,MAA,CCU,9,3,6,11,0,Thunderstorm,38,21,2,0,Medium,High,76.84
+SpiceJet,BLR,HYD,4,4,4,12,0,Rain,38,6,2,17,Medium,Medium,8.97
+IndiGo,BOM,HYD,15,0,5,10,1,Storm,27,17,1,18,Low,Low,65.7
+IndiGo,DEL,GOI,10,16,5,6,1,Fog,18,25,9,1,High,Medium,110.15
+IndiGo,MAA,DEL,20,1,6,1,1,Thunderstorm,28,24,8,3,Medium,Medium,59.39
+IndiGo,CCU,MAA,5,7,5,10,0,Thunderstorm,31,5,8,10,High,High,105.43
+GoAir,GOI,BLR,8,6,3,3,1,Fog,13,17,1,2,Medium,Low,72.02
+Vistara,HYD,CCU,12,14,4,7,0,Storm,10,15,5,8,Low,Medium,85.74
+Air India,MAA,GOI,23,4,2,12,0,Fog,18,1,6,9,Medium,High,98.08
+SpiceJet,HYD,CCU,7,1,2,8,1,Rain,36,18,2,1,Medium,Medium,35.84
+GoAir,BLR,HYD,13,6,0,4,1,Rain,24,0,5,6,High,High,61.29
+Air India,GOI,MAA,23,7,2,12,0,Fog,31,24,6,14,High,Low,72.69
+GoAir,HYD,CCU,0,6,1,3,0,Storm,17,29,9,18,Low,Medium,94.6
+GoAir,BLR,BLR,16,6,5,1,0,Thunderstorm,24,25,1,9,High,Low,55.52
+SpiceJet,DEL,HYD,23,13,2,12,0,Rain,24,10,3,19,High,High,21.06
+Vistara,HYD,BLR,4,20,0,9,1,Rain,27,19,9,13,High,Low,66.35
+IndiGo,GOI,MAA,1,17,0,10,0,Storm,16,4,1,3,Low,Low,50.91
+Vistara,MAA,CCU,23,5,1,6,1,Rain,31,15,1,10,Low,Low,34.49
+SpiceJet,BLR,BOM,8,3,0,6,1,Rain,27,22,1,2,Low,Medium,34.26
+SpiceJet,MAA,CCU,3,9,6,9,1,Storm,25,0,7,16,High,High,102.14
+SpiceJet,GOI,MAA,16,17,3,1,0,Fog,11,18,5,6,High,Low,54.54
+Air India,BOM,CCU,16,11,6,6,0,Thunderstorm,13,13,6,10,Low,Medium,70.52
+Vistara,BLR,GOI,20,15,5,12,1,Thunderstorm,29,2,8,17,High,High,119.0
+Vistara,HYD,CCU,17,6,5,5,1,Rain,25,1,2,13,High,High,54.29
+GoAir,BLR,DEL,15,5,5,11,1,Thunderstorm,12,23,2,13,Medium,High,118.7
+GoAir,MAA,CCU,7,4,4,6,1,Fog,33,4,3,5,Low,Low,70.53
+GoAir,DEL,CCU,10,2,2,11,0,Rain,39,16,3,8,Low,Low,29.05
+SpiceJet,BLR,BLR,20,11,3,8,1,Thunderstorm,32,27,3,2,High,Low,79.09
+Vistara,HYD,BOM,20,14,2,5,0,Clear,11,17,4,16,High,High,43.76
+SpiceJet,BOM,BLR,17,9,3,2,0,Clear,12,0,3,11,Medium,High,39.22
+Air India,CCU,BLR,22,19,2,12,0,Clear,35,14,2,3,Low,Low,23.43
+GoAir,DEL,HYD,23,18,1,12,0,Clear,34,21,9,19,Low,Low,32.53
+SpiceJet,BOM,DEL,9,15,6,2,1,Clear,38,8,6,15,High,High,48.33
+SpiceJet,BLR,BLR,12,10,0,10,0,Rain,14,26,3,9,Low,High,39.8
+Air India,MAA,GOI,16,7,0,5,1,Storm,11,22,9,6,High,Medium,99.13
+IndiGo,GOI,MAA,17,2,6,3,0,Storm,28,4,4,9,Medium,Medium,59.84
+Vistara,MAA,GOI,9,22,1,10,1,Rain,33,27,4,6,High,Low,52.88
+IndiGo,HYD,MAA,15,6,3,3,1,Rain,29,12,8,17,Medium,High,68.51
+GoAir,MAA,CCU,19,22,6,8,1,Fog,39,18,7,8,High,High,104.51
+SpiceJet,DEL,HYD,4,6,4,7,1,Storm,11,27,7,17,Medium,Medium,41.29
+Air India,MAA,DEL,12,13,3,1,1,Clear,11,27,7,16,Medium,High,44.73
+Air India,HYD,GOI,17,1,0,12,0,Rain,31,23,5,10,Low,Low,32.64
+Vistara,CCU,DEL,16,9,4,12,1,Clear,33,9,7,0,High,Medium,31.26
+IndiGo,BLR,GOI,8,18,2,5,0,Storm,32,19,4,16,Low,High,70.22
+Vistara,GOI,CCU,13,8,4,9,1,Thunderstorm,29,24,8,3,Low,High,90.13
+SpiceJet,BLR,MAA,16,15,3,4,0,Thunderstorm,27,20,9,3,High,Low,62.76
+Vistara,MAA,BOM,3,18,1,1,0,Rain,34,13,3,13,Low,High,45.45
+Air India,BOM,HYD,17,17,2,8,0,Fog,29,21,7,8,Low,Medium,78.76
+Air India,BLR,GOI,19,8,3,5,1,Clear,34,20,9,12,Low,Medium,49.59
+GoAir,CCU,GOI,23,15,2,2,0,Rain,30,25,1,15,High,High,20.39
+GoAir,MAA,CCU,23,12,4,12,1,Fog,23,11,2,0,Low,High,84.66
+SpiceJet,GOI,HYD,14,9,0,1,1,Clear,37,10,7,2,Low,High,42.85
+IndiGo,HYD,MAA,10,19,3,12,0,Storm,24,22,2,18,Low,High,56.78
+Vistara,CCU,MAA,11,13,1,12,0,Thunderstorm,21,6,7,7,High,Medium,71.3
+SpiceJet,MAA,GOI,8,11,6,12,1,Fog,20,16,1,17,Medium,Low,87.17
+GoAir,CCU,BOM,12,18,4,3,1,Clear,20,17,3,5,Medium,Medium,45.39
+Vistara,BLR,BOM,14,6,3,9,1,Rain,39,6,5,19,Medium,High,52.39
+GoAir,GOI,DEL,14,22,1,1,1,Clear,16,23,6,5,Medium,High,57.32
+Vistara,HYD,HYD,4,14,3,4,1,Rain,21,19,9,4,Low,Medium,58.66
+IndiGo,MAA,HYD,22,15,4,8,1,Thunderstorm,25,5,9,11,High,Medium,91.53
+SpiceJet,DEL,MAA,18,7,3,8,0,Thunderstorm,14,10,3,8,Low,High,93.59
+Vistara,HYD,DEL,19,9,2,10,1,Clear,11,11,8,8,High,Medium,67.24
+Air India,DEL,CCU,13,3,4,12,1,Clear,31,25,4,16,Low,High,61.35
+Air India,CCU,HYD,16,18,3,11,0,Rain,25,15,7,18,Medium,Medium,19.77
+Vistara,BOM,DEL,17,18,6,11,0,Rain,32,18,6,16,Medium,High,46.17
+Vistara,HYD,DEL,20,20,0,8,0,Fog,39,22,8,15,High,Medium,105.48
+Vistara,CCU,GOI,2,14,3,10,1,Fog,24,26,6,11,Low,High,100.14
+Air India,DEL,MAA,1,13,2,8,0,Fog,20,18,4,2,Medium,Low,63.18
+Air India,BLR,DEL,0,0,1,4,0,Clear,38,10,2,13,High,Low,40.94
+Vistara,BLR,BOM,9,15,6,8,1,Fog,15,15,7,16,Low,Medium,91.56
+GoAir,BOM,BOM,18,9,1,9,1,Clear,22,22,4,15,High,Low,77.07
+GoAir,HYD,BLR,16,18,6,7,1,Thunderstorm,39,27,9,11,Low,High,82.55
+IndiGo,HYD,MAA,11,21,1,12,1,Storm,28,26,9,1,Low,Medium,62.01
+SpiceJet,HYD,GOI,0,2,0,2,0,Thunderstorm,19,11,7,7,Low,Medium,72.68
+GoAir,CCU,CCU,11,4,2,9,1,Clear,33,26,5,11,High,High,42.54
+Air India,GOI,BLR,16,8,4,11,0,Clear,28,7,3,15,High,High,33.28
+GoAir,GOI,BOM,23,17,1,8,1,Storm,39,2,3,7,Low,High,102.73
+IndiGo,BOM,GOI,2,10,6,5,0,Rain,14,1,9,15,Medium,Medium,1.43
+IndiGo,HYD,BLR,10,15,2,12,1,Rain,34,27,9,9,Low,High,53.27
+SpiceJet,CCU,MAA,16,1,3,3,1,Rain,36,5,4,19,High,Low,47.88
+GoAir,BLR,GOI,22,11,0,7,1,Fog,30,15,1,14,Low,Medium,86.35
+Air India,DEL,MAA,2,21,2,2,0,Rain,16,19,5,3,High,High,12.85
+Air India,CCU,DEL,7,5,2,3,0,Fog,20,23,8,14,Low,Medium,44.55
+Vistara,GOI,HYD,19,10,4,12,0,Fog,23,28,4,3,Low,Low,45.28
+Air India,GOI,DEL,3,7,2,9,1,Rain,32,14,4,10,Medium,Low,56.98
+SpiceJet,BLR,MAA,20,11,4,4,0,Rain,30,13,9,5,Medium,High,42.73
+SpiceJet,BLR,GOI,21,1,0,4,1,Storm,25,1,9,3,High,Medium,111.82
+Air India,DEL,BOM,6,8,0,3,1,Storm,27,19,7,8,Low,High,98.63
+Air India,BLR,CCU,13,14,3,5,1,Fog,30,17,8,8,High,Medium,76.41
+Vistara,BOM,BOM,13,1,4,3,0,Storm,32,13,4,2,Low,High,70.13
+Air India,DEL,GOI,3,0,4,9,1,Fog,32,17,8,4,Low,High,89.18
+Vistara,BLR,DEL,15,9,1,3,0,Clear,13,1,6,14,Low,Medium,36.71
+Vistara,MAA,CCU,23,1,1,2,1,Fog,10,0,3,8,Medium,Medium,70.32
+Air India,CCU,GOI,21,11,3,12,1,Fog,31,19,7,1,High,Low,82.05
+IndiGo,BLR,MAA,0,22,0,5,1,Storm,38,1,3,2,Low,Low,71.93
+IndiGo,BOM,BOM,16,7,5,6,0,Clear,24,8,7,11,Low,Medium,28.76
+Vistara,HYD,MAA,9,4,1,1,0,Thunderstorm,23,8,5,15,High,Low,69.82
+Air India,BLR,CCU,21,21,2,12,1,Thunderstorm,28,15,4,4,High,Low,84.78
+IndiGo,GOI,CCU,15,0,0,11,0,Thunderstorm,36,10,3,9,Low,Medium,56.88
+Air India,GOI,BOM,15,14,5,6,0,Clear,14,26,8,14,Medium,Medium,41.67
+Air India,GOI,MAA,7,5,2,10,1,Rain,13,22,4,13,Medium,Medium,26.11
+Air India,HYD,BLR,6,11,6,3,1,Clear,22,5,8,13,Low,High,35.95
+GoAir,GOI,MAA,5,7,4,4,0,Storm,27,11,3,12,Medium,Medium,57.25
+Air India,MAA,CCU,15,12,0,6,1,Fog,21,2,9,15,High,Medium,105.27
+GoAir,BLR,MAA,19,18,6,8,1,Fog,32,29,6,7,Medium,Medium,81.35
+Vistara,GOI,GOI,15,0,3,9,0,Storm,39,11,5,7,High,Low,97.96
+IndiGo,DEL,DEL,6,10,4,6,0,Storm,30,29,5,16,High,Medium,110.6
+IndiGo,HYD,BLR,8,19,4,7,1,Fog,24,22,3,16,High,Low,94.07
+IndiGo,MAA,HYD,13,0,2,5,0,Rain,39,0,2,2,High,High,22.34
+IndiGo,DEL,GOI,10,7,6,12,0,Rain,32,8,6,0,Medium,Medium,12.18
+IndiGo,DEL,DEL,13,4,4,9,1,Rain,18,19,1,16,High,Medium,36.75
+IndiGo,DEL,HYD,6,16,1,4,1,Storm,13,21,7,15,Low,Low,33.76
+IndiGo,DEL,BOM,0,7,0,10,1,Fog,14,5,5,16,High,High,82.34
+Vistara,BLR,HYD,12,9,1,11,1,Fog,18,10,4,1,Low,Medium,47.37
+Air India,GOI,GOI,19,1,2,6,0,Fog,22,2,9,13,High,High,97.29
+SpiceJet,CCU,MAA,2,8,5,5,0,Clear,19,3,1,6,High,High,30.31
+GoAir,BLR,GOI,19,23,2,1,1,Clear,36,28,4,18,Medium,Medium,50.53
+SpiceJet,BLR,HYD,3,22,0,5,1,Thunderstorm,25,26,3,0,High,High,82.61
+SpiceJet,MAA,CCU,10,2,4,5,1,Clear,39,9,6,16,High,High,57.61
+Air India,MAA,DEL,1,17,6,9,1,Rain,22,18,5,9,Medium,Medium,34.84
+Air India,GOI,DEL,13,6,6,1,0,Rain,13,28,7,5,Medium,Low,41.25
+Air India,CCU,HYD,11,14,3,5,0,Rain,30,5,1,6,Low,Medium,28.64
+IndiGo,MAA,DEL,16,20,2,7,1,Rain,22,0,5,5,Medium,High,54.5
+Vistara,GOI,CCU,11,21,0,11,1,Thunderstorm,30,7,2,4,Low,Medium,76.55
+IndiGo,GOI,GOI,11,19,3,6,0,Rain,17,7,2,1,High,Low,31.29
+Vistara,BOM,DEL,0,17,4,6,0,Storm,22,24,2,17,Low,High,87.16
+Vistara,CCU,HYD,12,2,5,12,0,Storm,24,5,9,16,Medium,High,96.18
+SpiceJet,MAA,BLR,13,22,2,7,0,Storm,29,16,3,6,High,Low,85.68
+SpiceJet,CCU,BLR,23,13,5,6,1,Clear,29,18,4,18,Low,Low,51.75
+Vistara,BLR,BOM,1,23,0,5,0,Fog,22,0,5,6,Low,High,78.34
+Vistara,BLR,DEL,11,1,5,10,0,Thunderstorm,32,14,4,6,Low,Low,36.45
+IndiGo,CCU,GOI,20,13,5,5,0,Storm,36,12,4,15,High,Medium,93.04
+IndiGo,BOM,HYD,15,21,0,9,1,Storm,14,20,5,11,Low,Low,92.88
+SpiceJet,BOM,DEL,3,10,0,8,1,Rain,31,2,9,14,Low,Medium,46.61
+Air India,CCU,MAA,7,15,2,12,0,Storm,31,29,9,14,Medium,High,57.54
+Vistara,MAA,CCU,1,7,5,10,0,Rain,37,1,6,10,Low,High,42.55
+IndiGo,HYD,DEL,9,6,3,4,1,Rain,15,2,3,1,High,High,44.17
+SpiceJet,BOM,DEL,8,10,0,4,1,Fog,39,8,6,2,Medium,High,90.19
+IndiGo,DEL,BLR,22,2,4,10,0,Clear,35,26,4,18,High,High,40.4
+Vistara,BLR,CCU,14,16,5,5,1,Rain,14,15,3,19,Medium,Low,59.47
+Vistara,CCU,HYD,12,13,0,3,0,Rain,22,23,6,14,Medium,Low,32.38
+GoAir,DEL,DEL,22,5,3,8,1,Fog,38,12,6,15,Low,High,112.73
+Air India,CCU,BLR,16,7,6,7,0,Rain,14,18,2,0,High,Low,7.34
+GoAir,GOI,BOM,15,21,2,5,0,Thunderstorm,34,26,9,14,Low,Low,63.88
+SpiceJet,BLR,CCU,1,4,5,10,1,Clear,22,17,8,11,Medium,High,73.03
+IndiGo,BLR,BLR,19,7,6,3,0,Thunderstorm,33,20,6,6,Low,Low,81.97
+SpiceJet,BOM,BLR,19,1,0,5,1,Storm,29,11,1,6,Medium,High,95.08
+Vistara,BOM,GOI,13,14,0,3,1,Clear,32,27,2,10,Medium,High,61.93
+GoAir,DEL,BLR,2,11,4,10,1,Storm,17,28,4,19,High,High,84.65
+GoAir,GOI,GOI,22,16,4,5,0,Rain,37,11,7,10,High,High,34.37
+GoAir,CCU,DEL,11,0,5,1,0,Fog,18,0,9,16,High,Low,100.47
+SpiceJet,GOI,DEL,7,14,6,6,0,Thunderstorm,30,19,5,2,High,Low,81.51
+Vistara,BLR,BOM,1,13,6,10,1,Storm,28,7,2,15,Low,Medium,78.39
+IndiGo,DEL,MAA,3,19,0,4,0,Rain,38,16,1,4,High,Medium,38.25
+IndiGo,HYD,MAA,13,21,5,4,0,Thunderstorm,29,20,1,1,High,High,40.35
+SpiceJet,DEL,MAA,15,15,0,8,0,Thunderstorm,24,27,5,6,High,Medium,90.52
+GoAir,MAA,GOI,18,8,4,2,0,Storm,35,19,7,9,Medium,Low,59.37
+Air India,DEL,CCU,1,0,3,4,1,Rain,31,21,9,4,Medium,Low,19.3
+SpiceJet,GOI,CCU,11,16,1,2,0,Fog,19,6,9,14,High,Medium,71.5
+SpiceJet,MAA,BOM,13,12,1,1,1,Storm,20,8,8,11,Medium,Medium,81.49
+Vistara,MAA,CCU,5,20,0,10,1,Thunderstorm,14,16,1,9,Medium,Low,81.98
+IndiGo,MAA,MAA,12,20,6,3,1,Thunderstorm,18,26,5,16,Low,Medium,103.03
+SpiceJet,HYD,MAA,3,4,4,12,1,Clear,38,9,6,19,Medium,Low,52.93
+SpiceJet,DEL,BLR,21,9,2,8,0,Rain,20,3,6,19,Low,Low,17.93
+GoAir,GOI,CCU,17,5,2,6,0,Clear,36,21,4,10,Medium,Medium,16.35
+GoAir,DEL,DEL,11,23,1,12,0,Fog,39,25,1,7,High,Medium,81.27
+Air India,HYD,DEL,19,18,3,7,1,Storm,28,6,3,14,Medium,High,94.03
+Vistara,BLR,BLR,21,12,1,2,0,Thunderstorm,11,6,4,1,Medium,High,55.3
+Air India,BOM,BLR,20,0,0,6,1,Rain,15,7,4,16,Low,High,70.6
+GoAir,GOI,BLR,18,19,3,8,0,Thunderstorm,38,29,4,5,High,High,71.88
+IndiGo,GOI,DEL,7,14,2,8,0,Clear,32,25,5,12,Low,High,30.6
+GoAir,DEL,MAA,6,13,6,4,0,Clear,30,23,9,7,High,Low,57.93
+Vistara,BOM,BLR,15,7,4,6,1,Storm,10,23,4,10,High,Medium,85.87
+GoAir,CCU,BOM,18,9,4,5,0,Rain,12,7,9,14,Low,Low,12.9
+Vistara,CCU,GOI,5,8,0,9,1,Rain,12,15,9,12,Medium,High,52.02
+Vistara,HYD,BLR,19,16,1,8,1,Storm,37,11,1,17,High,High,100.31
+Vistara,CCU,GOI,20,8,0,2,1,Clear,23,14,5,17,Medium,Medium,41.34
+Vistara,GOI,HYD,10,2,4,12,0,Clear,29,7,9,16,Low,Low,34.1
+Vistara,CCU,BLR,4,10,2,7,0,Clear,39,21,4,12,Low,High,45.11
+IndiGo,BLR,DEL,15,11,4,7,1,Thunderstorm,35,8,5,2,Low,High,120.93
+Air India,BLR,CCU,6,9,3,11,1,Fog,31,2,4,6,Low,High,88.23
+SpiceJet,BLR,BLR,4,16,6,12,1,Clear,14,21,2,11,High,High,49.81
+Air India,CCU,CCU,10,16,6,1,1,Fog,26,20,2,3,Low,Low,72.31
+Vistara,HYD,HYD,14,10,5,1,1,Fog,24,15,2,10,Medium,Low,72.92
+IndiGo,MAA,BOM,2,21,4,12,0,Rain,15,14,1,13,Medium,High,31.78
+GoAir,MAA,CCU,4,3,4,4,0,Storm,23,23,3,17,High,Low,93.22
+IndiGo,BOM,GOI,22,6,6,5,0,Thunderstorm,23,3,1,6,Low,High,59.04
+Vistara,MAA,MAA,20,20,5,4,1,Fog,34,19,4,4,High,Medium,93.71
+IndiGo,MAA,BLR,4,13,3,7,1,Thunderstorm,36,28,1,15,High,Medium,92.63
+IndiGo,BLR,HYD,8,6,1,3,0,Rain,26,15,4,10,High,Medium,23.24
+Vistara,BLR,HYD,14,23,4,7,0,Clear,17,9,3,2,Low,Low,15.23
+IndiGo,CCU,CCU,2,7,6,8,1,Fog,17,10,9,15,Medium,High,79.68
+SpiceJet,BOM,BOM,5,0,0,6,1,Storm,28,25,1,10,Medium,Medium,101.84
+SpiceJet,DEL,DEL,16,23,4,6,1,Rain,38,28,8,9,High,Medium,56.24
+IndiGo,GOI,BLR,20,21,0,8,0,Thunderstorm,18,4,9,1,High,Low,76.86
+GoAir,BOM,HYD,7,3,3,8,1,Clear,20,10,7,15,Medium,Low,50.81
+Vistara,BOM,BOM,20,11,4,7,1,Thunderstorm,22,28,1,16,Medium,Medium,101.3
+SpiceJet,HYD,MAA,10,23,6,6,1,Storm,22,12,4,9,Low,High,116.36
+GoAir,CCU,HYD,5,2,3,6,0,Fog,36,14,1,17,High,High,66.99
+IndiGo,HYD,BOM,7,12,3,10,1,Storm,33,5,4,11,Low,High,115.59
+GoAir,BOM,DEL,9,19,1,11,0,Thunderstorm,28,15,3,7,Medium,Medium,56.33
+Air India,BOM,DEL,23,5,4,6,1,Thunderstorm,35,14,2,2,Medium,Low,81.76
+SpiceJet,BOM,HYD,2,10,0,8,1,Storm,30,10,1,19,Medium,High,100.27
+IndiGo,MAA,GOI,22,22,0,1,0,Storm,28,19,6,2,Medium,Medium,52.47
+Vistara,GOI,HYD,13,3,4,5,1,Storm,14,1,7,5,Low,Medium,103.09
+IndiGo,GOI,CCU,22,19,5,3,0,Clear,25,27,6,1,Medium,Low,21.94
+Vistara,HYD,BLR,13,15,1,12,1,Thunderstorm,18,27,9,2,High,High,74.59
+IndiGo,BOM,BOM,9,6,1,8,0,Rain,37,29,9,16,Medium,Medium,27.57
+GoAir,GOI,HYD,11,21,1,11,1,Clear,29,1,2,8,High,High,74.39
+GoAir,BLR,BLR,5,10,0,6,0,Clear,31,11,2,3,Medium,High,34.91
+GoAir,GOI,CCU,11,23,3,2,0,Clear,12,15,9,1,Low,High,52.83
+Air India,CCU,BLR,22,0,6,7,1,Rain,28,18,1,8,High,Medium,82.92
+Vistara,CCU,HYD,13,6,5,7,0,Storm,14,1,5,13,Low,High,52.54
+GoAir,GOI,DEL,1,11,1,5,1,Thunderstorm,17,16,1,10,Medium,Low,100.05
+Air India,BLR,BOM,8,6,0,8,0,Fog,23,13,7,1,Low,Medium,64.76
+Vistara,CCU,BOM,9,22,0,5,1,Fog,33,23,9,1,Medium,Medium,56.64
+IndiGo,MAA,DEL,16,6,3,1,1,Thunderstorm,12,27,6,4,Low,High,84.04
+Air India,GOI,GOI,16,9,4,9,1,Rain,33,15,2,6,Low,High,59.57
+SpiceJet,MAA,HYD,2,15,4,4,1,Fog,22,4,6,3,High,High,96.85
+Air India,GOI,BOM,18,7,6,2,0,Clear,20,9,9,13,Medium,Medium,23.47
+Air India,DEL,HYD,0,8,6,4,1,Fog,38,16,3,1,Low,Low,90.66
+Vistara,DEL,CCU,11,8,1,9,1,Thunderstorm,17,12,9,11,Medium,Low,87.53
+IndiGo,DEL,HYD,6,1,6,2,1,Clear,28,15,8,9,High,Medium,73.78
+SpiceJet,CCU,BLR,3,12,1,4,1,Fog,19,8,7,0,Low,Low,85.13
+GoAir,MAA,DEL,9,12,5,2,1,Thunderstorm,38,23,8,18,Medium,High,76.37
+GoAir,MAA,GOI,12,22,6,5,0,Rain,35,3,6,15,Low,Medium,16.11
+Air India,MAA,HYD,1,22,3,3,1,Thunderstorm,27,23,3,14,Low,Low,95.08
+Vistara,BLR,GOI,9,3,1,10,0,Rain,35,28,7,13,Low,Medium,30.58
+Vistara,MAA,GOI,20,23,3,2,0,Clear,27,27,4,8,Low,Low,24.89
+GoAir,BLR,CCU,21,11,0,9,1,Thunderstorm,34,28,5,14,High,Medium,89.4
+SpiceJet,DEL,MAA,3,16,1,5,1,Storm,16,25,8,6,High,Low,116.59
+IndiGo,DEL,DEL,17,1,0,10,0,Storm,25,15,7,3,Medium,Medium,58.06
+SpiceJet,CCU,GOI,4,12,2,5,0,Storm,15,22,7,17,Medium,Medium,49.19
+IndiGo,GOI,BOM,18,17,3,1,0,Storm,25,26,8,7,Low,Medium,64.33
+GoAir,DEL,BLR,1,14,2,6,1,Storm,25,10,3,11,Low,Medium,83.63
+IndiGo,GOI,BOM,11,7,1,7,0,Rain,32,6,3,14,Low,Medium,24.17
+Vistara,GOI,CCU,16,14,0,1,0,Thunderstorm,33,16,2,14,High,High,71.18
+Air India,CCU,CCU,9,0,1,9,1,Clear,37,21,1,16,Low,Medium,43.36
+Air India,BOM,BOM,1,19,2,8,0,Storm,10,12,6,1,Medium,Medium,40.01
+GoAir,BOM,DEL,5,9,1,12,1,Storm,33,3,6,11,Low,Medium,93.92
+Vistara,HYD,BOM,7,11,5,8,0,Clear,28,13,8,2,High,Low,18.05
+SpiceJet,CCU,HYD,18,4,4,7,1,Clear,12,9,6,6,Low,Medium,42.13
+Vistara,HYD,BOM,10,8,2,5,0,Storm,15,9,6,5,High,High,68.14
+Air India,HYD,BLR,11,22,1,3,1,Rain,13,9,1,13,High,Medium,52.89
+Air India,BOM,BLR,8,7,0,12,1,Clear,13,26,7,4,High,Low,50.03
+Vistara,CCU,MAA,1,15,1,9,0,Thunderstorm,13,11,7,3,High,Low,51.87
+Vistara,BOM,BLR,7,13,0,7,1,Thunderstorm,19,1,9,14,Medium,Medium,110.69
+Air India,HYD,BOM,10,12,4,11,0,Rain,18,25,7,6,High,Medium,38.47
+SpiceJet,CCU,BLR,20,22,1,10,1,Fog,17,22,8,2,Medium,Medium,85.35
+GoAir,HYD,DEL,3,20,6,10,1,Rain,28,8,4,12,Medium,Medium,50.27
+GoAir,MAA,GOI,9,12,6,8,1,Storm,26,28,9,9,Low,Low,87.89
+Vistara,GOI,BLR,20,4,4,6,1,Fog,26,4,1,1,Low,Medium,54.43
+GoAir,CCU,HYD,19,15,2,12,1,Storm,10,7,8,11,High,Low,81.68
+Air India,CCU,DEL,15,10,0,11,1,Thunderstorm,29,20,3,11,Low,Low,93.43
+Air India,GOI,MAA,7,21,6,5,1,Clear,23,13,1,18,High,High,51.26
+Vistara,HYD,HYD,3,4,5,8,0,Storm,31,6,2,18,Low,Low,56.47
+Vistara,MAA,BOM,9,12,2,3,0,Thunderstorm,29,6,6,2,High,Medium,65.25
+Vistara,BLR,GOI,11,10,0,12,1,Rain,36,8,5,5,Low,Medium,26.25
+SpiceJet,GOI,BOM,13,18,4,7,1,Storm,20,2,3,1,Low,Medium,64.35
+GoAir,BOM,GOI,15,2,6,2,1,Thunderstorm,12,13,9,12,Medium,Medium,77.11
+Vistara,HYD,GOI,21,14,3,3,0,Clear,33,16,8,8,Low,High,44.54
+IndiGo,GOI,BOM,17,6,1,12,1,Storm,39,17,3,12,Low,High,99.22
+IndiGo,GOI,HYD,20,6,4,2,0,Thunderstorm,17,11,2,13,High,High,81.53
+Air India,CCU,HYD,21,5,0,5,1,Storm,31,21,8,18,Medium,High,95.06
+GoAir,BOM,GOI,20,2,0,7,1,Clear,34,13,5,10,High,Low,42.87
+Vistara,BOM,HYD,11,12,0,11,1,Storm,37,25,9,13,Low,High,87.1
+IndiGo,BOM,GOI,17,6,0,10,1,Storm,19,25,1,15,High,Low,107.57
+GoAir,GOI,GOI,6,4,1,11,1,Thunderstorm,26,27,3,9,Medium,Medium,90.95
+Air India,BLR,DEL,19,22,2,11,0,Fog,38,12,5,19,High,Low,115.01
+SpiceJet,DEL,CCU,23,17,5,11,1,Storm,17,13,2,15,Low,Low,90.63
+GoAir,HYD,DEL,22,21,3,10,0,Fog,31,8,3,1,High,High,34.81
+GoAir,DEL,BOM,6,7,1,1,0,Rain,10,18,4,15,Low,Medium,33.27
+SpiceJet,GOI,CCU,8,16,0,10,1,Storm,29,25,4,13,Medium,Medium,100.65
+GoAir,DEL,BLR,0,19,1,9,1,Fog,30,1,9,17,Medium,High,110.13
+Air India,GOI,BOM,5,0,4,1,1,Rain,16,10,1,5,High,Low,35.6
+Air India,DEL,MAA,5,13,5,1,0,Thunderstorm,33,16,9,6,Medium,High,80.26
+SpiceJet,BOM,DEL,21,16,0,12,0,Storm,18,1,9,12,High,Low,108.94
+Vistara,MAA,HYD,11,9,3,10,0,Thunderstorm,37,18,6,1,Low,High,44.89
+IndiGo,BOM,DEL,21,11,0,8,1,Rain,21,6,1,14,High,High,42.64
+Vistara,BOM,HYD,11,15,5,6,0,Thunderstorm,31,17,6,16,Low,Medium,50.77
+GoAir,CCU,CCU,9,13,3,6,0,Thunderstorm,35,12,8,12,Medium,Medium,63.96
+IndiGo,CCU,MAA,22,15,5,12,0,Clear,18,4,5,6,Low,Medium,7.87
+SpiceJet,DEL,CCU,5,7,3,9,1,Rain,29,17,5,0,Low,High,41.53
+SpiceJet,GOI,MAA,16,22,2,4,0,Thunderstorm,33,22,1,2,Low,Medium,68.88
+IndiGo,BOM,DEL,18,9,6,8,0,Fog,12,25,1,19,Low,Medium,82.73
+Air India,DEL,HYD,17,16,2,4,1,Rain,13,23,8,17,Low,High,54.93
+IndiGo,CCU,CCU,5,17,1,2,1,Clear,19,23,5,6,High,Medium,66.81
+GoAir,MAA,MAA,23,19,1,11,1,Storm,13,28,8,16,Low,Low,73.96
+Air India,HYD,GOI,18,15,3,8,0,Thunderstorm,31,15,2,11,Low,Medium,59.66
+SpiceJet,DEL,BOM,9,16,0,12,0,Fog,18,14,4,15,Low,Low,60.34
+IndiGo,MAA,BOM,23,15,6,7,0,Clear,31,7,9,9,Low,Medium,37.11
+Vistara,HYD,CCU,7,18,4,4,1,Rain,10,25,3,15,Low,High,62.03
+Vistara,BLR,HYD,20,23,4,9,0,Thunderstorm,14,14,6,19,Low,High,74.31
+GoAir,DEL,GOI,23,23,0,9,1,Clear,18,24,7,17,Medium,Medium,37.08
+Vistara,DEL,CCU,5,7,0,8,1,Clear,14,0,3,14,High,Low,71.9
+IndiGo,BLR,DEL,20,5,2,1,0,Fog,15,27,1,10,Low,Medium,77.3
+IndiGo,BLR,MAA,6,5,4,7,0,Storm,28,16,2,17,High,High,89.17
+Vistara,DEL,DEL,23,20,3,5,0,Storm,17,29,7,5,Medium,Medium,48.5
+IndiGo,BLR,BOM,0,8,5,7,1,Storm,19,14,7,0,Medium,High,119.49
+GoAir,BOM,MAA,17,3,1,12,1,Rain,20,13,1,6,Low,Low,47.08
+Air India,HYD,CCU,23,11,5,9,0,Clear,22,13,7,11,High,Low,49.17
+GoAir,HYD,DEL,19,11,2,2,1,Rain,29,9,6,19,Low,High,37.78
+GoAir,HYD,BLR,11,22,4,11,0,Clear,13,1,6,3,Medium,Low,30.63
+IndiGo,BOM,HYD,15,16,6,4,0,Fog,20,26,7,9,Medium,High,57.48
+Air India,GOI,GOI,9,14,0,4,0,Fog,21,5,7,1,High,High,86.17
+IndiGo,BLR,GOI,9,8,6,2,1,Rain,14,29,1,8,Low,High,40.82
+SpiceJet,MAA,HYD,13,6,6,3,1,Rain,39,16,5,9,High,Medium,48.79
+IndiGo,BLR,BLR,19,9,4,11,0,Fog,19,4,8,19,High,Low,102.11
+IndiGo,DEL,BOM,9,15,3,8,0,Thunderstorm,34,4,8,10,Medium,Medium,58.41
+IndiGo,CCU,MAA,9,11,2,12,1,Storm,38,14,3,13,High,Medium,77.71
+Air India,HYD,HYD,10,6,0,9,0,Storm,33,14,3,2,Medium,Low,27.18
+IndiGo,BLR,BLR,22,17,5,6,1,Fog,16,19,7,0,Low,Medium,76.74
+Air India,MAA,CCU,1,14,3,10,0,Storm,30,10,4,6,High,High,51.29
+Vistara,DEL,GOI,19,5,5,2,1,Thunderstorm,18,4,6,3,High,Medium,98.1
+SpiceJet,BOM,BLR,7,11,1,2,0,Thunderstorm,18,27,9,6,Low,High,62.75
+Air India,GOI,BOM,22,10,2,7,1,Clear,19,0,2,15,High,Low,58.38
+Vistara,BOM,BOM,6,19,3,8,0,Rain,19,10,2,9,Low,Medium,9.57
+Air India,MAA,DEL,7,2,3,8,1,Storm,11,10,6,14,Medium,Low,106.18
+Air India,DEL,HYD,0,1,5,6,1,Thunderstorm,13,5,3,15,Medium,High,68.77
+SpiceJet,HYD,DEL,20,5,0,10,1,Rain,17,22,1,5,High,Medium,61.53
+GoAir,BLR,GOI,1,23,1,8,1,Rain,38,7,2,3,Medium,High,40.33
+GoAir,DEL,BLR,17,21,5,1,0,Clear,23,1,7,3,Medium,High,31.63
+Air India,GOI,MAA,14,4,3,9,1,Rain,26,14,4,3,Low,High,54.97
+IndiGo,BOM,MAA,0,17,2,12,1,Rain,22,22,2,16,Medium,Low,47.66
+Vistara,GOI,BOM,4,15,3,1,0,Fog,30,21,8,12,Medium,Low,53.73
+IndiGo,GOI,MAA,1,7,4,3,1,Clear,33,8,4,1,Medium,Low,35.36
+IndiGo,MAA,MAA,19,19,2,12,0,Clear,27,14,4,19,Low,Medium,9.56
+Air India,MAA,GOI,2,21,2,9,1,Storm,27,7,2,5,High,High,99.1
+Air India,BLR,MAA,18,10,3,11,1,Rain,22,29,1,0,Low,Low,28.21
+Air India,MAA,BLR,17,9,0,5,1,Storm,17,15,1,7,High,High,112.18
+Air India,MAA,MAA,21,23,2,9,1,Thunderstorm,35,26,3,17,High,Low,94.54
+GoAir,DEL,CCU,17,11,4,9,1,Rain,21,13,6,3,Medium,High,54.81
+Air India,HYD,MAA,13,20,5,6,1,Thunderstorm,34,14,7,4,Medium,Low,67.13
+GoAir,BLR,MAA,23,5,0,11,0,Fog,32,19,9,4,Low,Low,55.87
+GoAir,DEL,DEL,7,19,0,1,0,Rain,33,29,5,14,Low,Low,36.34
+Air India,HYD,BLR,11,4,0,10,1,Storm,30,12,9,9,Low,Low,64.04
+SpiceJet,GOI,BOM,20,22,2,7,1,Storm,10,8,8,7,Medium,High,96.07
+Vistara,DEL,DEL,9,8,0,6,0,Rain,29,0,1,6,High,Low,30.06
+IndiGo,CCU,HYD,22,15,3,9,0,Storm,27,26,3,11,Low,Low,75.84
+GoAir,DEL,BLR,19,21,0,7,1,Rain,12,5,8,10,High,Low,39.1
+Vistara,MAA,CCU,16,13,4,12,1,Clear,21,7,9,12,Medium,High,94.52
+SpiceJet,HYD,BLR,10,21,1,11,1,Storm,28,26,4,14,Medium,Low,98.23
+IndiGo,BLR,HYD,1,7,4,12,1,Rain,34,26,6,16,Medium,High,36.39
+IndiGo,BLR,HYD,3,19,2,4,1,Rain,22,19,4,17,Medium,Medium,46.37
+GoAir,HYD,HYD,0,18,0,7,1,Storm,19,17,9,7,High,High,111.31
+Air India,MAA,GOI,14,13,0,2,0,Clear,24,26,2,5,High,Medium,8.78
+SpiceJet,BOM,BOM,12,6,3,6,1,Storm,29,17,6,10,Low,Low,101.13
+GoAir,DEL,MAA,7,4,5,6,1,Rain,11,25,3,8,High,Low,69.36
+SpiceJet,MAA,BLR,3,17,0,2,0,Clear,28,16,4,4,High,High,23.41
+Air India,CCU,GOI,9,1,6,4,0,Thunderstorm,12,20,2,6,High,Low,83.91
+Air India,GOI,MAA,18,10,4,8,0,Fog,23,15,8,14,Low,Low,64.53
+GoAir,HYD,MAA,17,21,2,8,0,Storm,16,12,8,3,High,High,77.14
+Air India,DEL,CCU,4,7,1,8,1,Rain,17,21,1,18,High,Low,39.91
+Vistara,BLR,HYD,18,0,0,8,0,Clear,38,3,6,12,High,Medium,54.52
+IndiGo,GOI,BOM,22,21,1,1,0,Clear,20,3,1,0,Medium,Medium,0.0
+GoAir,BOM,CCU,21,11,0,2,1,Thunderstorm,38,20,6,0,High,Low,99.22
+SpiceJet,CCU,DEL,15,1,2,12,0,Storm,31,13,7,13,Low,Low,55.81
+Vistara,BLR,GOI,0,17,5,4,0,Clear,29,4,2,8,Low,Medium,23.99
+GoAir,HYD,GOI,11,6,4,12,1,Thunderstorm,15,15,9,11,Low,Low,89.51
+Air India,DEL,BOM,23,16,2,9,1,Rain,38,13,8,17,Low,Medium,36.88
+Air India,HYD,MAA,1,21,1,3,1,Thunderstorm,20,29,9,8,Medium,High,93.45
+Air India,GOI,GOI,20,22,0,6,1,Storm,26,13,4,7,Low,Medium,90.62
+Air India,DEL,BOM,7,13,1,7,1,Thunderstorm,38,13,4,13,Medium,Low,59.4
+SpiceJet,MAA,GOI,17,23,4,8,1,Clear,19,24,8,8,Medium,Low,40.03
+Vistara,BOM,GOI,15,6,6,7,1,Clear,33,23,1,19,Medium,Medium,40.74
+IndiGo,MAA,HYD,4,21,2,3,0,Fog,26,24,8,1,Low,Medium,42.18
+SpiceJet,MAA,DEL,21,2,1,6,0,Thunderstorm,30,28,7,0,Low,Low,62.51
+SpiceJet,HYD,HYD,12,5,1,5,1,Rain,11,13,7,12,Medium,Low,29.71
+IndiGo,GOI,DEL,18,19,4,12,0,Storm,15,18,9,9,Medium,Low,76.96
+IndiGo,BOM,GOI,2,1,6,10,1,Fog,34,29,7,7,Low,High,98.6
+Air India,DEL,CCU,7,16,0,4,0,Thunderstorm,14,2,2,6,High,High,33.18
+SpiceJet,DEL,MAA,11,11,6,1,1,Rain,13,16,1,11,High,Medium,55.31
+GoAir,CCU,GOI,1,11,1,7,0,Fog,39,13,1,16,High,Medium,84.56
+IndiGo,BLR,DEL,10,16,4,8,1,Clear,11,9,7,11,Low,High,66.77
+IndiGo,CCU,DEL,11,9,0,2,0,Storm,21,12,5,15,Low,High,69.54
+Vistara,CCU,DEL,17,2,6,7,1,Thunderstorm,12,21,4,9,Medium,Medium,75.67
+GoAir,DEL,GOI,12,19,6,6,0,Rain,15,3,5,11,Low,High,28.67
+GoAir,HYD,BOM,4,17,6,5,0,Clear,33,10,6,10,Low,Medium,29.93
+IndiGo,MAA,CCU,21,12,5,4,1,Fog,23,14,6,13,Low,Low,98.07
+Air India,GOI,BOM,11,11,0,2,0,Storm,17,14,1,19,Medium,Medium,49.04
+Vistara,MAA,MAA,1,16,6,10,0,Fog,30,29,2,12,Medium,High,65.19
+GoAir,MAA,GOI,4,3,5,6,0,Fog,30,23,3,1,High,High,72.01
+IndiGo,BOM,DEL,6,22,2,5,0,Rain,35,1,4,19,High,High,3.36
+GoAir,DEL,CCU,23,9,4,2,0,Clear,23,10,6,6,Low,Medium,4.45
+Vistara,GOI,CCU,11,10,6,10,1,Thunderstorm,38,1,9,0,Low,High,65.78
+Vistara,HYD,BLR,15,5,0,7,1,Rain,12,22,2,2,Medium,Medium,48.03
+SpiceJet,BOM,MAA,22,5,5,6,0,Storm,25,28,8,19,High,Low,79.2
+IndiGo,BLR,CCU,7,8,5,12,1,Fog,24,4,9,11,High,Low,99.16
+Vistara,HYD,GOI,8,14,2,11,0,Storm,16,12,2,4,High,High,71.22
+SpiceJet,CCU,DEL,14,1,3,9,1,Rain,24,0,9,11,Low,Medium,30.93
+SpiceJet,HYD,DEL,4,3,4,11,0,Rain,22,6,7,2,Low,Medium,24.99
+GoAir,HYD,CCU,12,4,3,10,0,Thunderstorm,15,6,9,19,Low,High,97.44
+GoAir,MAA,BOM,4,16,0,5,0,Fog,24,9,6,4,Medium,Medium,43.09
+SpiceJet,HYD,MAA,10,7,4,9,0,Rain,26,5,2,0,High,High,26.29
+GoAir,CCU,DEL,9,7,2,9,1,Storm,13,19,8,15,Medium,High,85.42
+Vistara,CCU,CCU,19,21,0,1,1,Thunderstorm,31,11,9,8,High,Low,107.22
+Air India,DEL,DEL,12,11,4,5,1,Storm,36,12,8,9,Low,High,73.15
+Vistara,HYD,CCU,8,20,4,9,0,Fog,31,23,2,9,Medium,Medium,87.89
+SpiceJet,MAA,MAA,20,7,3,7,1,Thunderstorm,36,27,8,12,Medium,High,107.93
+SpiceJet,HYD,CCU,13,18,0,6,1,Thunderstorm,23,10,3,15,Low,Low,86.67
+Vistara,BLR,BLR,17,2,2,6,0,Thunderstorm,24,17,3,19,High,Low,61.54
+GoAir,BLR,CCU,14,17,2,11,0,Clear,37,1,9,3,High,Medium,24.38
+GoAir,MAA,CCU,9,20,0,7,0,Thunderstorm,21,15,9,13,High,High,82.78
+SpiceJet,DEL,GOI,23,18,0,1,1,Storm,28,1,9,16,High,Medium,90.02
+IndiGo,DEL,MAA,6,18,5,4,1,Storm,31,18,4,4,Low,Medium,73.46
+GoAir,CCU,GOI,7,14,1,1,0,Fog,37,5,7,12,Low,High,93.16
+Vistara,CCU,CCU,2,5,3,6,1,Rain,19,0,8,2,Low,Low,31.35
+GoAir,BOM,MAA,14,15,0,4,0,Rain,15,10,5,4,Low,Medium,24.39
+Vistara,MAA,BLR,15,7,0,1,1,Clear,37,17,1,15,Medium,Medium,45.72
+SpiceJet,HYD,MAA,3,15,1,9,0,Thunderstorm,34,9,9,18,Medium,Low,51.98
+GoAir,GOI,DEL,20,17,1,12,1,Clear,18,17,6,18,Medium,High,45.05
+Vistara,MAA,GOI,5,19,4,4,1,Fog,11,29,3,16,Low,High,101.96
+SpiceJet,BOM,MAA,0,15,6,12,1,Fog,13,27,3,17,High,High,82.89
+IndiGo,CCU,BLR,3,10,2,6,0,Rain,18,0,1,17,Medium,Low,34.7
+Vistara,MAA,HYD,10,6,3,7,0,Fog,24,18,8,7,Medium,Medium,77.94
+IndiGo,MAA,CCU,11,16,4,8,0,Thunderstorm,39,15,2,17,Low,Low,51.71
+IndiGo,CCU,MAA,4,16,0,12,1,Storm,22,25,1,8,High,Medium,90.75
+Air India,BOM,CCU,22,11,1,11,0,Fog,29,6,7,18,High,Medium,103.95
+GoAir,CCU,BOM,20,12,5,9,1,Clear,17,14,9,9,High,High,52.05
+Vistara,DEL,DEL,15,9,2,9,0,Thunderstorm,35,28,6,1,Low,High,65.87
+IndiGo,HYD,GOI,12,6,4,8,0,Fog,37,0,8,16,High,High,76.44
+Air India,CCU,DEL,12,13,5,10,1,Fog,28,22,8,12,Medium,Low,87.34
+SpiceJet,BOM,BOM,16,22,2,11,1,Thunderstorm,28,20,9,10,Medium,High,106.36
+Vistara,BLR,BOM,6,0,6,12,0,Fog,34,8,7,15,Medium,Low,58.9
+IndiGo,DEL,GOI,7,16,6,12,0,Storm,25,1,9,19,Low,High,95.75
+GoAir,BLR,MAA,12,3,5,3,1,Rain,20,16,9,6,High,High,61.75
+Air India,GOI,BOM,22,20,1,12,1,Thunderstorm,19,24,1,2,Low,High,101.79
+IndiGo,CCU,HYD,15,4,4,2,0,Clear,17,23,6,15,High,Low,57.65
+GoAir,DEL,CCU,3,19,4,5,1,Fog,10,9,8,18,Low,Medium,48.07
+IndiGo,HYD,CCU,7,23,6,1,0,Rain,19,5,9,19,Medium,Low,24.58
+Vistara,CCU,BLR,15,22,2,3,0,Clear,39,4,4,15,Low,Low,14.34
+Vistara,HYD,BOM,20,6,5,1,0,Clear,27,7,2,1,Low,Low,25.09
+Vistara,MAA,BOM,9,9,1,3,1,Storm,12,7,9,13,Low,Medium,78.12
+Air India,BLR,HYD,11,16,0,4,0,Rain,39,29,9,19,Medium,Low,19.12
+Vistara,DEL,DEL,11,6,4,7,0,Thunderstorm,20,4,8,9,Low,High,65.0
+GoAir,HYD,DEL,4,0,0,12,1,Rain,27,11,3,18,Low,Medium,44.61
+IndiGo,BOM,CCU,15,6,1,12,1,Rain,12,6,5,10,Medium,Low,40.86
+SpiceJet,HYD,CCU,0,23,6,5,1,Clear,17,12,2,17,High,Low,60.81
+GoAir,BOM,MAA,8,10,4,5,0,Storm,36,12,3,10,Low,Medium,70.73
+GoAir,CCU,GOI,11,8,4,1,1,Storm,36,16,1,8,Medium,Low,68.47
+Vistara,DEL,HYD,4,11,5,8,1,Rain,37,3,4,18,Low,Medium,49.61
+Air India,HYD,GOI,21,2,0,4,0,Rain,23,17,5,19,Medium,High,29.61
+IndiGo,GOI,GOI,19,3,6,10,0,Fog,15,9,2,9,High,Low,74.4
+Air India,HYD,BLR,21,3,5,5,0,Clear,24,2,3,2,High,Low,15.43
+IndiGo,GOI,GOI,23,12,3,2,0,Thunderstorm,23,11,6,2,Low,High,59.32
+IndiGo,DEL,BLR,2,22,0,12,1,Thunderstorm,16,0,6,7,Medium,Low,103.6
+Air India,HYD,GOI,4,18,0,1,0,Storm,19,26,7,5,High,Low,48.28
+GoAir,BOM,HYD,1,9,3,9,1,Clear,24,10,9,19,High,Medium,49.68
+IndiGo,HYD,BLR,13,4,1,2,0,Storm,38,17,4,0,Medium,Low,45.26
+Air India,BLR,DEL,1,6,1,6,0,Thunderstorm,19,12,5,19,Low,High,83.27
+IndiGo,CCU,BLR,12,23,4,1,1,Rain,31,16,2,5,High,Low,37.25
+SpiceJet,MAA,BLR,6,15,2,1,1,Clear,26,7,6,1,High,Medium,57.09
+GoAir,BOM,HYD,9,0,5,9,1,Clear,36,19,4,18,High,High,72.24
+Vistara,BLR,HYD,12,11,2,4,0,Fog,28,18,5,6,Low,High,94.63
+IndiGo,GOI,BLR,15,1,4,9,0,Rain,38,16,7,10,High,High,31.67
+SpiceJet,CCU,BOM,13,6,2,11,1,Rain,26,1,6,10,Medium,High,62.24
+Vistara,DEL,HYD,10,10,0,5,1,Storm,21,2,8,3,Low,Medium,47.6
+Vistara,BOM,MAA,9,12,0,7,0,Clear,24,2,6,19,High,Medium,17.91
+IndiGo,MAA,MAA,5,1,3,1,1,Storm,35,5,8,15,Medium,Medium,77.19
+Air India,CCU,DEL,3,6,3,6,1,Rain,21,9,4,4,Medium,Medium,30.98
+IndiGo,GOI,GOI,20,14,4,8,0,Fog,34,23,7,6,Low,Low,93.69
+SpiceJet,MAA,BLR,0,10,4,1,1,Clear,38,21,3,15,Medium,Medium,42.31
+Vistara,DEL,BOM,6,1,6,9,0,Rain,18,17,1,14,Low,Low,32.68
+IndiGo,DEL,DEL,23,6,4,3,0,Fog,14,17,9,4,Low,High,89.39
+Air India,GOI,BLR,8,3,0,1,0,Thunderstorm,13,13,9,0,Low,Low,58.03
+IndiGo,BOM,HYD,7,10,2,1,1,Rain,21,15,6,19,Medium,Low,34.07
+GoAir,GOI,MAA,4,1,5,11,1,Thunderstorm,25,6,2,8,Low,Low,85.14
+Air India,HYD,CCU,18,15,6,6,1,Storm,18,0,8,4,Low,Medium,64.52
+SpiceJet,DEL,BOM,9,6,6,11,1,Thunderstorm,34,16,6,5,Medium,Medium,63.47
+Vistara,CCU,CCU,10,12,6,6,0,Rain,12,22,7,2,Low,High,20.78
+IndiGo,HYD,MAA,14,4,4,1,0,Thunderstorm,30,24,1,5,High,Medium,53.31
+Air India,BLR,GOI,5,16,4,3,1,Clear,12,4,3,7,Medium,Low,49.83
+GoAir,MAA,GOI,14,20,0,7,1,Rain,35,26,1,5,Medium,Medium,39.75
+Air India,HYD,CCU,4,11,5,10,1,Fog,27,0,1,15,Medium,Medium,98.98
+GoAir,MAA,HYD,18,18,0,3,1,Thunderstorm,26,20,1,15,High,Low,102.32
+SpiceJet,GOI,BLR,21,6,5,3,0,Clear,37,26,4,2,Low,High,34.21

@@ -1,0 +1,260 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flight Delay Predictor</title>
+        <style>
+            /* General Styles */
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background: #f2f5f7;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                max-width: 600px;
+                margin: 50px auto;
+                background: #fff;
+                padding: 30px;
+                border-radius: 12px;
+                box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            }
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+            fieldset {
+                display: none;
+                border: none;
+                padding: 0;
+            }
+            fieldset.active {
+                display: block;
+            }
+            legend {
+                font-weight: bold;
+                font-size: 1.2em;
+                margin-bottom: 10px;
+            }
+            label {
+                display: block;
+                margin: 15px 0 5px 0;
+                font-weight: 500;
+            }
+            input, select {
+                width: 100%;
+                padding: 10px;
+                border-radius: 6px;
+                border: 1px solid #ccc;
+                font-size: 1em;
+            }
+            .button-group {
+                margin-top: 20px;
+                display: flex;
+                justify-content: space-between;
+            }
+            button {
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                padding: 12px 20px;
+                border-radius: 6px;
+                font-size: 1em;
+                cursor: pointer;
+                width: 48%;
+                transition: background 0.3s ease;
+            }
+            button:hover {
+                background-color: #0056b3;
+            }
+            #result {
+                margin-top: 25px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 1.2em;
+                color: #007bff;
+            }
+
+            /* Progress Bar */
+            .progress-container {
+                display: flex;
+                margin-bottom: 30px;
+                justify-content: space-between;
+                position: relative;
+            }
+            .progress-container::before {
+                content: '';
+                position: absolute;
+                top: 50%;
+                left: 15px;
+                right: 15px;
+                height: 4px;
+                background: #d3d3d3;
+                z-index: 0;
+                transform: translateY(-50%);
+            }
+            .step {
+                width: 30px;
+                height: 30px;
+                background: #d3d3d3;
+                border-radius: 50%;
+                z-index: 1;
+                text-align: center;
+                line-height: 30px;
+                color: #fff;
+                font-weight: bold;
+                position: relative;
+            }
+            .step.active {
+                background: #007bff;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Flight Delay Predictor</h1>
+
+            <!-- Progress bar -->
+            <div class="progress-container">
+                <div class="step active" id="step1-indicator">1</div>
+                <div class="step" id="step2-indicator">2</div>
+                <div class="step" id="step3-indicator">3</div>
+            </div>
+
+            <form id="predictForm">
+                <!-- Step 1: Flight Info -->
+                <fieldset class="active">
+                    <legend>Flight Info</legend>
+                    <label>Airline:
+                        <select name="Airline">
+                            <option>Air India</option>
+                            <option>IndiGo</option>
+                            <option>SpiceJet</option>
+                            <option>Vistara</option>
+                            <option>GoAir</option>
+                        </select>
+                    </label>
+                    <label>Departure Airport:
+                        <select name="Departure_Airport">
+                            <option>DEL</option><option>BOM</option><option>BLR</option>
+                            <option>HYD</option><option>MAA</option><option>CCU</option><option>GOI</option>
+                        </select>
+                    </label>
+                    <label>Arrival Airport:
+                        <select name="Arrival_Airport">
+                            <option>DEL</option><option>BOM</option><option>BLR</option>
+                            <option>HYD</option><option>MAA</option><option>CCU</option><option>GOI</option>
+                        </select>
+                    </label>
+                    <label>Scheduled Departure Hour: <input type="number" name="Scheduled_Dep_Hour" min="0" max="23" value="8"></label>
+                    <label>Scheduled Arrival Hour: <input type="number" name="Scheduled_Arr_Hour" min="0" max="23" value="10"></label>
+                    <div class="button-group">
+                        <button type="button" id="next1">Next</button>
+                    </div>
+                </fieldset>
+
+                <!-- Step 2: Date Info -->
+                <fieldset>
+                    <legend>Date Info</legend>
+                    <label>Day of Week (0=Sun): <input type="number" name="Day_of_Week" min="0" max="6" value="2"></label>
+                    <label>Month (1-12): <input type="number" name="Month" min="1" max="12" value="7"></label>
+                    <label>Holiday Season:
+                        <select name="Holiday_Season">
+                            <option>No</option>
+                            <option>Yes</option>
+                        </select>
+                    </label>
+                    <div class="button-group">
+                        <button type="button" id="prev2">Previous</button>
+                        <button type="button" id="next2">Next</button>
+                    </div>
+                </fieldset>
+
+                <!-- Step 3: Weather & Traffic -->
+                <fieldset>
+                    <legend>Weather & Traffic</legend>
+                    <label>Weather Condition:
+                        <select name="Weather_Condition">
+                            <option>Clear</option>
+                            <option>Rain</option>
+                            <option>Fog</option>
+                            <option>Storm</option>
+                            <option>Thunderstorm</option>
+                        </select>
+                    </label>
+                    <label>Temperature: <input type="number" name="Temperature" value="30"></label>
+                    <label>Wind Speed: <input type="number" name="Wind_Speed" value="10"></label>
+                    <label>Visibility: <input type="number" name="Visibility" value="8"></label>
+                    <label>Rain (mm): <input type="number" name="Rain_mm" value="0"></label>
+                    <label>Departure Traffic:
+                        <select name="Departure_Traffic">
+                            <option>Low</option><option>Medium</option><option>High</option>
+                        </select>
+                    </label>
+                    <label>Arrival Traffic:
+                        <select name="Arrival_Traffic">
+                            <option>Low</option><option>Medium</option><option>High</option>
+                        </select>
+                    </label>
+                    <div class="button-group">
+                        <button type="button" id="prev3">Previous</button>
+                        <button type="submit">Predict Delay</button>
+                    </div>
+                </fieldset>
+            </form>
+            <div id="result"></div>
+        </div>
+
+<script>
+    // Multi-step form navigation
+    const fieldsets = document.querySelectorAll("fieldset");
+    const steps = document.querySelectorAll(".step");
+    let current = 0;
+
+    document.getElementById("next1").addEventListener("click", () => switchStep(1));
+    document.getElementById("next2").addEventListener("click", () => switchStep(1));
+    document.getElementById("prev2").addEventListener("click", () => switchStep(-1));
+    document.getElementById("prev3").addEventListener("click", () => switchStep(-1));
+
+    function switchStep(direction){
+        fieldsets[current].classList.remove("active");
+        steps[current].classList.remove("active");
+        current += direction;
+        fieldsets[current].classList.add("active");
+        steps[current].classList.add("active");
+    }
+
+    // Form submit handler
+    const form = document.getElementById("predictForm");
+    form.addEventListener("submit", async function(e){
+        e.preventDefault();
+        const formData = new FormData(form);
+        const data = Object.fromEntries(formData.entries());
+
+        // Convert numeric fields
+        [
+            "Scheduled_Dep_Hour","Scheduled_Arr_Hour",
+            "Day_of_Week","Month","Temperature",
+            "Wind_Speed","Visibility","Rain_mm","Delay"
+        ].forEach(f => data[f] = Number(data[f]));
+
+        try {
+            const res = await fetch("http://127.0.0.1:5000/predict", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify(data)
+            });
+
+            const result = await res.json();
+            document.getElementById("result").innerText = 
+                res.ok 
+                ? `Predicted Delay: ${result.predicted_delay_minutes} minutes` 
+                : `Error: ${result.error}`;
+        } catch(err){
+            document.getElementById("result").innerText = "Error: " + err.message;
+        }
+    });
+</script>
+
+    </body>
+    </html>
